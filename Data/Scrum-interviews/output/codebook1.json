@@ -1,0 +1,391 @@
+[
+    {
+        "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+        "Codebook": [
+            {
+                "code": "Process Quality",
+                "evidence": "All three roles (Product Owner, Scrum Master, Quality Assurance) highlight [quality takes place in the process level] as a key aspect of quality, emphasizing its importance in development workflows."
+            },
+            {
+                "code": "Software Quality",
+                "evidence": "Two roles (Product Owner, Quality Assurance) reference [quality takes place in the... software level], focusing on measurable attributes like reliability and maintainability in the final product. The Scrum Master's 'Product Quality' is semantically similar and thus merged here."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Software quality",
+            "Process quality"
+        ]
+    },
+    {
+        "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+        "Codebook": [
+            {
+                "code": "Quality Assurance",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) explicitly reference [assure quality] as a core focus, justifying it as a systematic practice to maintain high standards."
+            },
+            {
+                "code": "Process Discipline/Rigor",
+                "evidence": "Product Owner's [Process Rigor], Scrum Master's [Process Discipline], and QA's [Process Implementation] converge on the idea of structured adherence to methodologies, highlighted by [implement and exercise practices]."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Quality assurance",
+            "Practicing quality assurance"
+        ]
+    },
+    {
+        "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+        "Codebook": [
+            {
+                "code": "Business Conformity",
+                "evidence": "The phrase [conformity to business needs] is explicitly mentioned in the target text and is supported by Product Owner, Scrum Master, and Quality Assurance roles, highlighting alignment with stakeholder requirements as a core quality goal."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "The phrase [free of defects] is explicitly mentioned in the target text and is supported by Product Owner, Scrum Master, and Quality Assurance roles, emphasizing reliability and minimizing bugs as fundamental objectives."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects"
+        ]
+    },
+    {
+        "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+        "Codebook": [
+            {
+                "code": "Subjective Quality",
+                "evidence": "All three roles (Product Owner, Scrum Masters, Quality Assurance) highlight [quality is a subjective concept] as a key observation, emphasizing that quality assessment depends on individual perspectives rather than objective metrics."
+            },
+            {
+                "code": "Complex Evaluation",
+                "evidence": "All three roles (Product Owner, Scrum Masters, Quality Assurance) note [It is a challenging question], indicating that defining or measuring quality requires nuanced, context-aware analysis or iterative feedback loops."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Quality is a subjective concept"
+        ]
+    },
+    {
+        "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+        "Codebook": [
+            {
+                "code": "Internal Quality Focus",
+                "evidence": "[We also focus on the internal software quality] highlights the team's prioritization of non-functional attributes like maintainability over just external compliance or validation, as noted by Product Owner, Scrum Master, and QA."
+            },
+            {
+                "code": "Code Maintainability",
+                "evidence": "[Desires to maintain, understand and reuse code] explicitly ties quality evaluation to long-term engineering efficiency and sustainability, emphasized by all three roles."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Maintainability",
+            "Understandable Code",
+            "Reusability of code"
+        ]
+    },
+    {
+        "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+        "Codebook": [
+            {
+                "code": "Continuous Improvement",
+                "evidence": "[The agile process itself is subject to continuous improvements.] All roles (Product Owner, Scrum Master, QA) highlight the iterative refinement of processes as a core agile principle."
+            },
+            {
+                "code": "Quality Delivery",
+                "evidence": "[better at delivering quality software] Scrum Master and QA explicitly tie the process to improving software quality, while Product Owner uses 'Quality Focus' with similar intent."
+            },
+            {
+                "code": "Retrospective Reflection",
+                "evidence": "[use retrospectives to continuously reflect] Scrum Master and QA emphasize retrospectives as a tool for systematic evaluation, while Product Owner's 'Reflective Practice' aligns closely."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Continuous improvements",
+            "Reflecting on the Scrum process",
+            "Become better",
+            "Developing Software",
+            "Software quality"
+        ]
+    },
+    {
+        "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+        "Codebook": [
+            {
+                "code": "Defect-free focus",
+                "evidence": "[Mainly free of defects] reflects a traditional quality goal emphasizing reliability and correctness in pre-agile practices, as noted by Product Owner, Scrum Master, and QA."
+            },
+            {
+                "code": "Customer needs alignment",
+                "evidence": "[Meets customer\u2019s needs] highlights the importance of functional requirements and user-centric quality metrics, supported by Product Owner and QA."
+            },
+            {
+                "code": "Change-responsive design",
+                "evidence": "[Design that responds to change] captures agile's emphasis on adaptability as a quality attribute, agreed upon by Scrum Master and QA."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Free of defects",
+            "Conformity to business needs",
+            "Sustainable design"
+        ]
+    },
+    {
+        "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+        "Codebook": [
+            {
+                "code": "Structural Integrity",
+                "evidence": "All three roles (Product Owner, Scrum Masters, QA) highlight [the code and the design] as a core aspect of software quality, emphasizing well-architected internal components."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "Product Owner, Scrum Masters, and QA all reference [free of defects] as a critical external quality attribute, though with slight variations in phrasing (e.g., 'Defect-Free Delivery' vs. 'Defect-Free Operation')."
+            },
+            {
+                "code": "User-Centric",
+                "evidence": "All roles agree on the importance of [meets the end user requirements], though labeled slightly differently (e.g., 'User-Centric Quality' vs. 'User-Centric Design')."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Free of defects",
+            "Meets the end user requirements",
+            "External qualiy"
+        ]
+    },
+    {
+        "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+        "Codebook": [
+            {
+                "code": "Design Integrity/Robustness",
+                "evidence": "[Internal quality has to do with the way that the system has been built and designed.] This is supported by multiple roles (Product Owner, Scrum Master, QA) emphasizing architectural soundness, resilience, and structural reliability."
+            },
+            {
+                "code": "Internal Quality Assurance",
+                "evidence": "[It is important to also assure internal quality] is directly referenced by Scrum Master and QA, highlighting proactive measures to maintain and verify software quality standards."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Internal quality"
+        ]
+    },
+    {
+        "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+        "Codebook": [
+            {
+                "code": "Process Robustness",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) highlight [robust software development process] as a key concept, emphasizing resilience and reliability in maintaining software quality."
+            },
+            {
+                "code": "Continuous Improvement",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) reference [subjected to continuous review and improvements], underlining iterative refinement as a core principle for adaptability and quality enhancement."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Scrum",
+            "Continuous improvements"
+        ]
+    },
+    {
+        "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+        "Codebook": [
+            {
+                "code": "Code Maintainability",
+                "evidence": "[maintainable code that confirms to well established guidelines] is emphasized by all roles, highlighting adherence to coding standards for long-term ease of updates and debugging."
+            },
+            {
+                "code": "Design Sustainability",
+                "evidence": "[sustainability of the design] is noted by all roles, emphasizing the need for architecture that accommodates future requirements without major refactoring."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Clean code",
+            "Sustainable design"
+        ]
+    },
+    {
+        "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+        "Codebook": [
+            {
+                "code": "Process-Driven Quality",
+                "evidence": "[We don\u2019t achieve software quality without a process] emphasizes the necessity of structured workflows to ensure quality. Supported by Product Owner, Scrum Master, and QA."
+            },
+            {
+                "code": "Documented Standards",
+                "evidence": "[check lists and documented guidelines] underscores the role of formalized, repeatable quality criteria. Supported by Product Owner and QA."
+            },
+            {
+                "code": "End-to-End Practices",
+                "evidence": "[from requirements elicitation to testing] highlights comprehensive quality measures across the SDLC. Supported by Product Owner and Scrum Master."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Software quality",
+            "Quality assurance",
+            "Practicing",
+            "Peer review",
+            "Guidelines",
+            "Check lists"
+        ]
+    },
+    {
+        "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+        "Codebook": [
+            {
+                "code": "Requirement Conformance",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) cited [the product confirms to the requirements] as a core quality metric, emphasizing adherence to specifications."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "Product Owner and QA explicitly referenced [free of defects] as a critical quality attribute, while Scrum Master's 'Defect-Free Delivery' is semantically equivalent but framed as an outcome."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Conformity to business requirements",
+            "Free of defects"
+        ]
+    },
+    {
+        "target_text": "\"Both. Better Scrum implementation means we get better at software quality.\"",
+        "Codebook": [
+            {
+                "code": "Process Improvement",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) cited [Better Scrum implementation] as evidence of iterative refinement of agile practices to enhance workflow efficiency."
+            },
+            {
+                "code": "Quality Focus",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) referenced [Better at software quality] as a direct outcome of Scrum adoption, emphasizing measurable improvements in deliverables."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Software quality"
+        ]
+    },
+    {
+        "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+        "Codebook": [
+            {
+                "code": "Defect-Free Delivery",
+                "evidence": "All three roles (Product Owner, Scrum Master, QA) explicitly reference [has no defects] or [its ability to meet business needs and has no defects] as a core quality outcome, emphasizing reliability and alignment with business objectives."
+            },
+            {
+                "code": "Continuous Improvement",
+                "evidence": "All three roles cite [continuous improvement process], [we learn and change for the better], or [It gets better by continuously examining the way we work] to highlight Agile's iterative quality enhancement focus."
+            },
+            {
+                "code": "Process Efficiency/Excellence",
+                "evidence": "Product Owner's [how we create and deliver the software] and QA's [The process is how we create and deliver the software] both emphasize optimizing workflows, though labeled differently ('Efficiency' vs. 'Excellence'). Merged due to semantic overlap."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Meet business needs",
+            "No defects",
+            "Scrum",
+            "Continuous improvements"
+        ]
+    },
+    {
+        "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+        "Codebook": [
+            {
+                "code": "Business Alignment",
+                "evidence": "[deliver a software that meets business needs] is cited by Product Owner, Scrum Master, and QA, emphasizing the priority of aligning software with organizational objectives."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "[free of defects] is highlighted by Product Owner, Scrum Master, and QA as a critical quality goal for reliable software delivery."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Meets business needs",
+            "Free of defects"
+        ]
+    },
+    {
+        "target_text": "\"Very subjective and it depends on who you ask. The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects. We usually focus on this aspect of quality. But there are other aspects we always aim to achieve. Like good design and clean code. Clean code is easy to read, understand and easy to change.\"",
+        "Codebook": [
+            {
+                "code": "Functional Correctness",
+                "evidence": "[The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects.] All roles (Product Owner, Scrum Master, QA) agree this is a core aspect of software quality, emphasizing meeting user needs and defect-free operation."
+            },
+            {
+                "code": "Code Maintainability",
+                "evidence": "[Clean code is easy to read, understand and easy to change.] All roles highlight the importance of code readability and adaptability for long-term sustainability, making this a consensus code."
+            },
+            {
+                "code": "Design Quality",
+                "evidence": "[Like good design and clean code.] All roles recognize this as an intentional quality goal beyond functionality, focusing on architectural and structural excellence."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "No defects",
+            "Good design",
+            "Clean code"
+        ]
+    },
+    {
+        "target_text": "\"Quality can be defined in many ways. The definition may differ from person to person. But, there should be some standards. So quality for me is a product meets customer requirements and free of defects.\"",
+        "Codebook": [
+            {
+                "code": "Customer Requirements",
+                "evidence": "[a product meets customer requirements] is cited by all three roles (Product Owner, Scrum Master, QA) as a core aspect of quality, emphasizing stakeholder alignment."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "[free of defects] is highlighted by all three roles (Product Owner, Scrum Master, QA) as a fundamental quality attribute, ensuring reliability and usability."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects"
+        ]
+    },
+    {
+        "target_text": "\"I\u2019m glad this is not an exam question! But to narrow it down, I see quality taking place in three levels: product, software code and the development process. I\u2019ll explain. The product quality is a functioning product free of defects and conforms with the business needs. Software code quality particularly in agile means clean code and a design that caters for future changes. In agile, we believe in responding to change over following a plan. It is important that we deliver a software that doesn\u2019t break each time the business wants a change. The process is important. Chaos doesn\u2019t deliver software, but a committed team and a strong process does. Agile believes in continuous learning and improvement. The software process becomes more robust when we learn from our mistakes and improve.\"",
+        "Codebook": [
+            {
+                "code": "Defect-Free Product",
+                "evidence": "[The product quality is a functioning product free of defects] is cited by all three roles (Product Owner, Scrum Master, QA) as a core quality attribute, emphasizing reliability and alignment with business needs."
+            },
+            {
+                "code": "Clean/Adaptable Code",
+                "evidence": "All roles highlight the importance of [clean code and a design that caters for future changes], though labeled differently (Clean Code, Adaptable Code). The unified justification stresses maintainability and flexibility for agile development."
+            },
+            {
+                "code": "Process Robustness/Continuous Improvement",
+                "evidence": "Three roles reference [The software process becomes more robust when we learn from our mistakes] or similar phrases, merging 'Process Robustness' (Product Owner, QA) and 'Continuous Improvement' (Scrum Master) into a single principle of iterative learning."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects",
+            "Clean code",
+            "Sustainable design"
+        ]
+    },
+    {
+        "target_text": "\"Agile advocates for quality but it doesn\u2019t necessarily define it. My understanding is that quality in agile means clean code and sustainable design. Clean code is subjective, but we know at least it should be simple, readable and maintainable. We know a clean code when we see it! In agile, we also keen in creating software design that is sustainable; we can easily change it in the future to accommodate new requirements.\"",
+        "Codebook": [
+            {
+                "code": "Clean Code",
+                "evidence": "[clean code and sustainable design] is explicitly mentioned as a core quality attribute in agile, emphasizing simplicity, readability, and maintainability. Supported by Product Owner, Scrum Master, and QA."
+            },
+            {
+                "code": "Sustainable Design",
+                "evidence": "[sustainable design] is highlighted as a key goal, enabling future adaptability to new requirements, which aligns with agile's iterative nature. Supported by Product Owner, Scrum Master, and QA."
+            },
+            {
+                "code": "Readability",
+                "evidence": "[simple, readable and maintainable] directly ties to code quality, where readability is a subjective yet critical factor for team collaboration. Supported by Product Owner and Scrum Master."
+            }
+        ],
+        "Code_GroundTruth": [
+            "Clean code",
+            "Readable code",
+            "Maintainable code",
+            "Sustainable design"
+        ]
+    }
+]

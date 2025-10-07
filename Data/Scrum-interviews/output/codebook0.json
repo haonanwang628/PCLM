@@ -1,0 +1,1411 @@
+[
+    {
+        "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+        "Code_GroundTruth": [
+            "Software quality",
+            "Process quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Quality",
+                        "justification": "[quality takes place in the process level] highlights the importance of quality assurance in development workflows, a core concern for product owners."
+                    },
+                    {
+                        "code": "Software Quality",
+                        "justification": "[quality takes place in the software level] emphasizes measurable attributes like reliability and maintainability, key to stakeholder value."
+                    },
+                    {
+                        "code": "Holistic Definition",
+                        "justification": "[process level and the software level] implies a dual-focus quality framework, aligning with modern Agile/DevOps practices."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Quality",
+                        "justification": "[quality takes place in the process level] highlights the importance of quality in development workflows, a core concern for product owners."
+                    },
+                    {
+                        "code": "Software Quality",
+                        "justification": "[quality takes place in the... software level] emphasizes measurable product attributes, aligning with stakeholder value delivery."
+                    },
+                    {
+                        "code": "Holistic Quality",
+                        "justification": "The dual focus on [process level and software level] reflects a systems-thinking approach to quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Process Quality",
+                        "justification": "[quality takes place in the process level] highlights the importance of quality assurance in development workflows, not just the final product."
+                    },
+                    {
+                        "code": "Software Quality",
+                        "justification": "[quality takes place in the... software level] emphasizes measurable attributes like reliability and maintainability in the delivered system."
+                    },
+                    {
+                        "code": "Multi-Level Focus",
+                        "justification": "The explicit separation of [process level and the software level] underscores QA's dual scope in SDLC phases and outputs."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Process Quality",
+                "evidence": "All three roles (Product Owner x2 and QA) explicitly reference [quality takes place in the process level] as a core concern, justifying it as critical for development workflows and assurance."
+            },
+            {
+                "code": "Software Quality",
+                "evidence": "All three roles cite [quality takes place in the software level], emphasizing measurable attributes (reliability, maintainability) and alignment with stakeholder value."
+            },
+            {
+                "code": "Multi-Level Quality Focus",
+                "evidence": "Both Product Owner submissions and QA highlight the dual focus on [process level and the software level], though labeled differently ('Holistic Definition'/'Holistic Quality' vs. 'Multi-Level Focus'). Unified as a systems-thinking approach."
+            }
+        ]
+    },
+    {
+        "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+        "Code_GroundTruth": [
+            "Quality assurance",
+            "Practicing quality assurance"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "[assure quality] directly indicates a focus on maintaining high standards through systematic practices."
+                    },
+                    {
+                        "code": "Process Rigor",
+                        "justification": "[implement and exercise practices] implies disciplined adherence to methodologies for consistent outcomes."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "[assure quality] directly indicates a focus on maintaining high standards through systematic practices."
+                    },
+                    {
+                        "code": "Process Rigor",
+                        "justification": "[implement and exercise practices] implies disciplined, repeatable methods to achieve reliability."
+                    },
+                    {
+                        "code": "Development Standards",
+                        "justification": "[software development process] highlights adherence to structured frameworks for consistent outcomes."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Quality Assurance Practices",
+                        "justification": "The text explicitly mentions [implement and exercise practices that assure quality], highlighting the focus on structured QA methodologies."
+                    },
+                    {
+                        "code": "Process Integrity",
+                        "justification": "[During the software development process] implies adherence to a defined workflow, ensuring consistency and reliability in quality outcomes."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Quality Assurance",
+                "evidence": "Multiple roles highlight [assure quality] as a focus on maintaining high standards through systematic practices."
+            },
+            {
+                "code": "Process Rigor",
+                "evidence": "Roles emphasize [implement and exercise practices] as disciplined adherence to methodologies for consistent outcomes."
+            }
+        ]
+    },
+    {
+        "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owners",
+                "codebook": [
+                    {
+                        "code": "Business Conformity",
+                        "justification": "[conformity to business needs] highlights alignment with stakeholder requirements, a core quality goal in software development."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes reliability and correctness, fundamental to software quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "[conformity to business needs] reflects the software's adherence to organizational objectives, a core quality for product owners."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes reliability, a critical quality attribute for user satisfaction and operational efficiency."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Business Conformity",
+                        "justification": "[conformity to business needs] highlights the alignment of software with stakeholder requirements, a core QA objective."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes the absence of functional errors, a fundamental quality benchmark in software testing."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Business Conformity",
+                "evidence": "[conformity to business needs] is highlighted by Product Owners, Product Owner, and Quality Assurance as a core quality goal, reflecting alignment with stakeholder requirements and organizational objectives."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "[free of defects] is emphasized by Product Owners, Product Owner, and Quality Assurance as fundamental to software quality assurance, reliability, and user satisfaction."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+        "Code_GroundTruth": [
+            "Quality is a subjective concept"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "[quality is a subjective concept] highlights that quality assessment depends on individual perspectives, not objective metrics."
+                    },
+                    {
+                        "code": "Interpretation Challenge",
+                        "justification": "[It is a challenging question] reflects the difficulty in defining and measuring quality due to its inherent ambiguity."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "[quality is a subjective concept] highlights that quality assessment depends on individual perspectives, not universal standards."
+                    },
+                    {
+                        "code": "Ambiguity Challenge",
+                        "justification": "[It is a challenging question] reflects the difficulty in defining and measuring quality due to its inherent ambiguity."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "[quality is a subjective concept] highlights that quality assessment depends on human judgment, not just objective metrics."
+                    },
+                    {
+                        "code": "Evaluation Challenge",
+                        "justification": "[It is a challenging question] reflects the difficulty in defining and measuring quality due to its inherent subjectivity."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Subjective Quality",
+                "evidence": "All roles agree that [quality is a subjective concept] highlights the dependence of quality assessment on individual perspectives rather than objective metrics or universal standards."
+            },
+            {
+                "code": "Challenge in Defining Quality",
+                "evidence": "Roles converge on the idea that [It is a challenging question] reflects the difficulty in defining and measuring quality due to its inherent ambiguity or subjectivity."
+            }
+        ]
+    },
+    {
+        "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Maintainability",
+            "Understandable Code",
+            "Reusability of code"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Focus",
+                        "justification": "[We also focus on the internal software quality] highlights the team's emphasis on non-functional attributes beyond just meeting business needs."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Desires to maintain, understand and reuse code] explicitly ties quality evaluation to long-term sustainability and adaptability of the codebase."
+                    },
+                    {
+                        "code": "Defect Reduction",
+                        "justification": "[Have fewer defects] indicates a foundational quality goal, though the text clarifies it's insufficient alone for internal quality assessment."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Focus",
+                        "justification": "[We also focus on the internal software quality] highlights the team's emphasis on non-functional aspects beyond just meeting business needs."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Desires to maintain, understand and reuse code] directly references key attributes of sustainable software development practices."
+                    },
+                    {
+                        "code": "Defect Prevention",
+                        "justification": "[Have fewer defects] indicates a quality goal of reducing bugs, though the text clarifies this alone is insufficient for internal quality."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Focus",
+                        "justification": "[We also focus on the internal software quality] highlights the team's emphasis on non-functional attributes like maintainability and reusability, not just external defects."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Desires to maintain, understand and reuse code] explicitly ties quality evaluation to long-term code adaptability and developer efficiency."
+                    },
+                    {
+                        "code": "Business-Dev Alignment",
+                        "justification": "[Final product may confirm to business needs] implies balancing functional requirements with technical excellence, a core QA concern."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Internal Quality Focus",
+                "evidence": "[We also focus on the internal software quality] highlights the team's emphasis on non-functional attributes beyond just meeting business needs, as noted by multiple roles."
+            },
+            {
+                "code": "Code Maintainability",
+                "evidence": "[Desires to maintain, understand and reuse code] explicitly ties quality evaluation to long-term sustainability and adaptability of the codebase, as agreed by multiple roles."
+            }
+        ]
+    },
+    {
+        "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+        "Code_GroundTruth": [
+            "Continuous improvements",
+            "Reflecting on the Scrum process",
+            "Become better",
+            "Developing Software",
+            "Software quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[The agile process itself is subject to continuous improvements.] This highlights the iterative refinement of processes, a core agile principle."
+                    },
+                    {
+                        "code": "Quality Delivery",
+                        "justification": "[better at delivering quality software] Emphasizes the end goal of enhancing software quality through iterative feedback."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "[use retrospectives to continuously reflect] Shows the importance of structured reflection to identify and act on improvement areas."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[The agile process itself is subject to continuous improvements.] This highlights the iterative nature of agile, emphasizing ongoing refinement to enhance software quality."
+                    },
+                    {
+                        "code": "Quality Delivery",
+                        "justification": "[better at delivering quality software] The text explicitly ties process improvements to the ultimate goal of delivering higher-quality software."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "[use retrospectives to continuously reflect] Retrospectives demonstrate a commitment to learning and adapting, which is foundational for quality outcomes."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[The agile process itself is subject to continuous improvements.] This highlights the iterative refinement of processes, a core principle in agile and quality assurance."
+                    },
+                    {
+                        "code": "Retrospective Analysis",
+                        "justification": "[We use retrospectives to continuously reflect on the way we work.] Retrospectives are key for identifying quality gaps and improving software delivery practices."
+                    },
+                    {
+                        "code": "Quality Delivery",
+                        "justification": "[Better at delivering quality software.] The explicit focus on delivering high-quality software aligns with QA objectives."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous Improvement",
+                "evidence": "[The agile process itself is subject to continuous improvements.] This highlights the iterative refinement of processes, a core agile principle, supported by all roles."
+            },
+            {
+                "code": "Quality Delivery",
+                "evidence": "[better at delivering quality software] Emphasizes the end goal of enhancing software quality through iterative feedback, mentioned by both Product Owner and QA roles."
+            },
+            {
+                "code": "Reflective Practice",
+                "evidence": "[use retrospectives to continuously reflect] Shows the importance of structured reflection to identify and act on improvement areas, supported by both Product Owner submissions."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+        "Code_GroundTruth": [
+            "Free of defects",
+            "Conformity to business needs",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "[Mainly free of defects] highlights a core quality goal in traditional software development, ensuring reliability and customer satisfaction."
+                    },
+                    {
+                        "code": "Customer-Centric Design",
+                        "justification": "[Meets customer\u2019s needs] emphasizes the importance of aligning product functionality with user requirements, a key agile principle."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Shift toward code quality] reflects agile's focus on clean, adaptable code to support iterative changes and long-term sustainability."
+                    },
+                    {
+                        "code": "Process Adaptability",
+                        "justification": "[Design that responds to change] underscores agile's emphasis on flexible architectures and workflows to accommodate evolving demands."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Defect-Free Focus",
+                        "justification": "[Mainly free of defects] reflects a traditional quality goal emphasizing reliability and correctness in pre-agile contexts."
+                    },
+                    {
+                        "code": "Change-Responsive Design",
+                        "justification": "[Design that responds to change] highlights agile\u2019s shift toward adaptability and maintainability as core quality attributes."
+                    },
+                    {
+                        "code": "Process Improvement",
+                        "justification": "[Continuous improvement of the process] underscores the agile emphasis on iterative refinement and operational efficiency as quality drivers."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Defect-free focus",
+                        "justification": "[Mainly free of defects] highlights the traditional emphasis on eliminating bugs as a core quality goal."
+                    },
+                    {
+                        "code": "Customer needs alignment",
+                        "justification": "[Meets customer\u2019s needs] underscores the importance of user-centric quality validation."
+                    },
+                    {
+                        "code": "Code maintainability",
+                        "justification": "[Shift toward code quality] reflects agile's prioritization of clean, adaptable code for long-term sustainability."
+                    },
+                    {
+                        "code": "Process adaptability",
+                        "justification": "[Design that responds to change] and [continuous improvement] emphasize quality through iterative refinement and flexibility."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Defect-Free Focus",
+                "evidence": "[Mainly free of defects] is cited by all three roles (Product Owner x2, QA) as a traditional quality goal, emphasizing reliability and correctness."
+            },
+            {
+                "code": "Change-Responsive Design",
+                "evidence": "[Design that responds to change] is highlighted by two Product Owners and QA, reflecting agile's shift toward adaptability and maintainability."
+            },
+            {
+                "code": "Customer-Centric Alignment",
+                "evidence": "[Meets customer\u2019s needs] is noted by Product Owner and QA, underscoring user-centric quality validation as a shared priority."
+            }
+        ]
+    },
+    {
+        "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Free of defects",
+            "Meets the end user requirements",
+            "External qualiy"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owners",
+                "codebook": [
+                    {
+                        "code": "Structural Integrity",
+                        "justification": "[the code and the design] highlights the importance of well-architected and maintainable software components."
+                    },
+                    {
+                        "code": "Defect-Free Operation",
+                        "justification": "[free of defects] emphasizes reliability and robustness as critical quality attributes."
+                    },
+                    {
+                        "code": "User Requirements Fulfillment",
+                        "justification": "[meets the end user requirements] underscores alignment with functional and non-functional user needs."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Structural Integrity",
+                        "justification": "[the code and the design] highlights the importance of a well-architected foundation, which is critical for maintainability and scalability."
+                    },
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "[free of defects] emphasizes the need for reliability and robustness in the final product to ensure user satisfaction."
+                    },
+                    {
+                        "code": "User-Centric Fulfillment",
+                        "justification": "[meets the end user requirements] underscores the alignment of the product with customer needs, a core quality goal for any product owner."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Structural Integrity",
+                        "justification": "[the code and the design] highlights the importance of well-structured and maintainable software architecture, a core QA concern."
+                    },
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "[free of defects] directly aligns with QA's primary goal of ensuring software reliability through rigorous testing."
+                    },
+                    {
+                        "code": "User-Centric Compliance",
+                        "justification": "[meets the end user requirements] emphasizes validation against functional and non-functional specifications, a key QA responsibility."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Structural Integrity",
+                "evidence": "All three roles (Product Owners, Product Owner, Quality Assurance) highlight [the code and the design] as critical for well-architected, maintainable, and scalable software components."
+            },
+            {
+                "code": "Defect-Free Operation/Delivery",
+                "evidence": "Three roles (Product Owners, Product Owner, Quality Assurance) emphasize [free of defects] as a core quality attribute, though with slight variations in phrasing ('Operation' vs. 'Delivery')."
+            },
+            {
+                "code": "User Requirements Fulfillment/Compliance",
+                "evidence": "All roles reference [meets the end user requirements], though with nuanced labels ('Fulfillment', 'User-Centric Fulfillment', 'User-Centric Compliance'), all stressing alignment with user needs."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+        "Code_GroundTruth": [
+            "Internal quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Internal quality has to do with the way that the system has been built and designed.] This emphasizes the need for clean, modular, and well-documented code to ensure long-term maintainability."
+                    },
+                    {
+                        "code": "Design Robustness",
+                        "justification": "[The way that the system has been built and designed.] Highlights the importance of architectural soundness and scalability in system design."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "[It is important to also assure internal quality.] Stresses the need for rigorous testing and validation processes to uphold software standards."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "System Design",
+                        "justification": "[Internal quality has to do with the way that the system has been built and designed.] This highlights the importance of architectural and design decisions in ensuring quality."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[It is important to also assure internal quality.] Internal quality often correlates with maintainability, ensuring long-term scalability and ease of updates."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Internal Quality",
+                        "justification": "[Internal quality has to do with the way that the system has been built and designed.] This directly emphasizes the focus on structural and design integrity, a core QA concern."
+                    },
+                    {
+                        "code": "Design Integrity",
+                        "justification": "[The way that the system has been built and designed.] Highlights the need for adherence to architectural and coding standards, ensuring maintainability."
+                    },
+                    {
+                        "code": "System Robustness",
+                        "justification": "[Assure internal quality.] Implies reliability and fault tolerance in the system's underlying implementation, critical for long-term stability."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Code Maintainability",
+                "evidence": "[Internal quality has to do with the way that the system has been built and designed.] This emphasizes the need for clean, modular, and well-documented code to ensure long-term maintainability. Supported by Product Owner (x2) and QA."
+            },
+            {
+                "code": "Design Robustness / Integrity",
+                "evidence": "[The way that the system has been built and designed.] Highlights architectural soundness, scalability, and adherence to standards. Merged from 'Design Robustness' (Product Owner) and 'Design Integrity' (QA)."
+            }
+        ]
+    },
+    {
+        "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+        "Code_GroundTruth": [
+            "Scrum",
+            "Continuous improvements"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Robustness",
+                        "justification": "[robust software development process] highlights the need for a resilient and reliable development framework."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[subjected to continuous review and improvements] emphasizes iterative refinement to enhance software quality over time."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Robustness",
+                        "justification": "[robust software development process] implies resilience and reliability, key for minimizing failures and ensuring stability."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[subjected to continuous review and improvements] highlights iterative refinement, aligning with Agile/Lean principles for sustained quality."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Process Robustness",
+                        "justification": "[robust software development process] indicates a focus on reliability and fault tolerance in development workflows."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[subjected to continuous review and improvements] highlights iterative refinement, a core QA principle for sustained quality."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Process Robustness",
+                "evidence": "All roles (Product Owner x2, QA) agree that [robust software development process] signifies resilience, reliability, and fault tolerance in development workflows."
+            },
+            {
+                "code": "Continuous Improvement",
+                "evidence": "All roles (Product Owner x2, QA) interpret [subjected to continuous review and improvements] as iterative refinement, aligning with Agile/Lean principles for sustained quality."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+        "Code_GroundTruth": [
+            "Clean code",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[maintainable code that confirms to well established guidelines] emphasizes adherence to coding standards for long-term ease of updates and collaboration."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "[sustainability of the design] highlights the need for architecture that accommodates future requirements without major refactoring."
+                    },
+                    {
+                        "code": "Clean Code",
+                        "justification": "[We aim for clean code] reflects the foundational principle of readable, well-structured, and efficient implementation."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[clean code] and [maintainable code] emphasize adherence to guidelines for long-term ease of updates and debugging."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "[sustainability of the design] highlights adaptability to future requirements, ensuring scalability and longevity."
+                    },
+                    {
+                        "code": "Guideline Compliance",
+                        "justification": "[confirms to well established guidelines] underscores alignment with industry standards for consistency and quality."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[maintainable code that confirms to well established guidelines] highlights adherence to coding standards, ensuring long-term readability and ease of updates."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "[the software design is able to cope with new requirements easily] emphasizes adaptability, a key quality for future-proofing software systems."
+                    },
+                    {
+                        "code": "Clean Code",
+                        "justification": "[We aim for clean code] reflects the foundational goal of reducing technical debt and improving code hygiene."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Code Maintainability",
+                "evidence": "[maintainable code that confirms to well established guidelines] is emphasized by all roles, highlighting adherence to coding standards for long-term ease of updates and collaboration."
+            },
+            {
+                "code": "Design Sustainability",
+                "evidence": "[sustainability of the design] and [the software design is able to cope with new requirements easily] are cited by all roles, emphasizing adaptability to future requirements for scalability and longevity."
+            },
+            {
+                "code": "Clean Code",
+                "evidence": "[We aim for clean code] is mentioned by two roles, reflecting the foundational principle of readable, well-structured, and efficient implementation."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+        "Code_GroundTruth": [
+            "Software quality",
+            "Quality assurance",
+            "Practicing",
+            "Peer review",
+            "Guidelines",
+            "Check lists"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process-Driven Quality",
+                        "justification": "[We don\u2019t achieve software quality without a process] emphasizes the necessity of structured workflows to ensure quality, aligning with Agile/DevOps principles."
+                    },
+                    {
+                        "code": "Requirements Rigor",
+                        "justification": "[requirements elicitation and documentation] highlights meticulous attention to stakeholder needs, a cornerstone of user-centric software development."
+                    },
+                    {
+                        "code": "Artifact Reviews",
+                        "justification": "[review processes for the requirements, the code and the design] underscores iterative validation, reducing defects early in the SDLC."
+                    },
+                    {
+                        "code": "Standardized Guidelines",
+                        "justification": "[check lists and documented guidelines] reflects adherence to consistent quality benchmarks, critical for maintainability and compliance."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Discipline",
+                        "justification": "[We don\u2019t achieve software quality without a process] highlights the need for structured workflows to ensure quality."
+                    },
+                    {
+                        "code": "Quality Practices",
+                        "justification": "[foster quality practices] emphasizes embedding standards like reviews and checklists into development."
+                    },
+                    {
+                        "code": "End-to-End Coverage",
+                        "justification": "[from requirements elicitation to testing] shows a holistic approach to quality across all phases."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Process-driven quality",
+                        "justification": "[We don\u2019t achieve software quality without a process] emphasizes the necessity of structured workflows to ensure quality."
+                    },
+                    {
+                        "code": "Comprehensive reviews",
+                        "justification": "[review processes for the requirements, the code and the design] highlights systematic validation across development stages."
+                    },
+                    {
+                        "code": "Documented guidelines",
+                        "justification": "[check lists and documented guidelines] underscores the importance of standardized, repeatable quality checks."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Process-Driven Quality",
+                "evidence": "[We don\u2019t achieve software quality without a process] emphasizes the necessity of structured workflows to ensure quality, aligning with Agile/DevOps principles. Supported by Product Owner (x2) and QA."
+            },
+            {
+                "code": "Comprehensive Reviews",
+                "evidence": "[review processes for the requirements, the code and the design] underscores iterative validation, reducing defects early in the SDLC. Supported by Product Owner and QA."
+            },
+            {
+                "code": "Standardized Guidelines",
+                "evidence": "[check lists and documented guidelines] reflects adherence to consistent quality benchmarks, critical for maintainability and compliance. Supported by Product Owner and QA."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business requirements",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Requirement Conformance",
+                        "justification": "[the product confirms to the requirements] highlights adherence to specifications, a core quality attribute in software engineering."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes reliability, a fundamental quality goal in software development."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Requirement Conformance",
+                        "justification": "[the product confirms to the requirements] highlights adherence to specifications, a core quality goal in software development."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes reliability, a critical attribute of high-quality software products."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Requirement Conformance",
+                        "justification": "[the product confirms to the requirements] directly emphasizes adherence to specifications, a core QA objective."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] explicitly states the absence of bugs, a fundamental quality benchmark in software testing."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Requirement Conformance",
+                "evidence": "All roles (Product Owner x2, Quality Assurance) highlight '[the product confirms to the requirements]' as a core quality attribute, emphasizing adherence to specifications."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "All roles (Product Owner x2, Quality Assurance) cite '[free of defects]' as a fundamental quality benchmark, stressing reliability and absence of bugs."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Both. Better Scrum implementation means we get better at software quality.\"",
+        "Code_GroundTruth": [
+            "Software quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Improvement",
+                        "justification": "[Better Scrum implementation] implies iterative refinement of agile practices to enhance development workflows."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "[Better at software quality] explicitly prioritizes defect reduction and maintainability as core outcomes."
+                    },
+                    {
+                        "code": "Team Maturity",
+                        "justification": "[We get better] suggests growth in cross-functional collaboration and technical practices."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Improvement",
+                        "justification": "[Better Scrum implementation] implies iterative refinement of agile practices to enhance workflow efficiency."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "[Better at software quality] explicitly prioritizes deliverables meeting high standards of reliability and performance."
+                    },
+                    {
+                        "code": "Agile Alignment",
+                        "justification": "The emphasis on [Scrum implementation] ties directly to agile principles for adaptive development cycles."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Process Improvement",
+                        "justification": "[Better Scrum implementation] implies refining agile processes, which directly enhances software quality by reducing inefficiencies."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "[Better at software quality] explicitly states the goal of prioritizing and improving software quality metrics."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Process Improvement",
+                "evidence": "All three roles cited [Better Scrum implementation] as evidence of refining agile practices to enhance workflows or efficiency."
+            },
+            {
+                "code": "Quality Focus",
+                "evidence": "All three roles referenced [Better at software quality] as a direct prioritization of quality metrics, reliability, or maintainability."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+        "Code_GroundTruth": [
+            "Meet business needs",
+            "No defects",
+            "Scrum",
+            "Continuous improvements"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Outcome Quality",
+                        "justification": "[We measure the outcome by product quality] highlights the focus on delivering defect-free software that meets business needs, a core quality goal."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[It gets better by continuously examining the way we work] emphasizes the agile principle of iterative process refinement for quality enhancement."
+                    },
+                    {
+                        "code": "Process Excellence",
+                        "justification": "[The process is how we create and deliver the software] underscores the importance of robust development methodologies to ensure quality outcomes."
+                    },
+                    {
+                        "code": "Agile Experimentation",
+                        "justification": "[In agile, we always experiment to come up with better ways] reflects the proactive pursuit of innovation to elevate software quality."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Outcome Quality",
+                        "justification": "[We measure the outcome by product quality] highlights the focus on delivering defect-free software that meets business needs, a core quality goal."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[It gets better by continuously examining the way we work] emphasizes the agile principle of iterative enhancement, a key process quality goal."
+                    },
+                    {
+                        "code": "Agile Experimentation",
+                        "justification": "[In agile, we always experiment to come up with better ways] underscores innovation and adaptability as drivers of quality in agile methodologies."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "[its ability to meet business needs and has no defects] highlights the goal of delivering software without defects while fulfilling requirements."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "[It gets better by continuously examining the way we work] emphasizes iterative refinement of processes to enhance quality."
+                    },
+                    {
+                        "code": "Agile Experimentation",
+                        "justification": "[we always experiment to come up with better ways] reflects agile's focus on iterative testing and adaptation for quality gains."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous Improvement",
+                "evidence": "[It gets better by continuously examining the way we work] and [we learn and change for the better] highlight the iterative refinement of processes, emphasized by both Product Owner and Quality Assurance roles."
+            },
+            {
+                "code": "Agile Experimentation",
+                "evidence": "[In agile, we always experiment to come up with better ways] reflects the proactive pursuit of innovation, noted by both Product Owner and Quality Assurance roles."
+            },
+            {
+                "code": "Outcome Quality",
+                "evidence": "[We measure the outcome by product quality] and [its ability to meet business needs and has no defects] underscore the focus on delivering defect-free software that meets business needs, mentioned by the Product Owner role."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+        "Code_GroundTruth": [
+            "Meets business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "[deliver a software that meets business needs] emphasizes the need for software to align with business objectives, a core quality goal in product ownership."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] highlights the importance of reliability and correctness in software quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "[deliver a software that meets business needs] emphasizes the priority of aligning software functionality with organizational objectives."
+                    },
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "[free of defects] highlights the critical quality goal of minimizing bugs for reliable software performance."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "[deliver a software that meets business needs] emphasizes the need for software to align with business objectives, a core quality goal."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] highlights the importance of reliability and correctness, key attributes in software quality assurance."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Business Alignment",
+                "evidence": "[deliver a software that meets business needs] is cited by all three roles (Product Owner x2, QA) as emphasizing the need for software to align with business objectives."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "[free of defects] is highlighted by all three roles (Product Owner x2, QA) as a critical quality goal for reliable software performance."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Very subjective and it depends on who you ask. The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects. We usually focus on this aspect of quality. But there are other aspects we always aim to achieve. Like good design and clean code. Clean code is easy to read, understand and easy to change.\"",
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "No defects",
+            "Good design",
+            "Clean code"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Functional Correctness",
+                        "justification": "[The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects.] This emphasizes meeting user needs and defect-free operation, core to software quality."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Clean code is easy to read, understand and easy to change.] Highlights the importance of readability and modifiability, key for long-term software sustainability."
+                    },
+                    {
+                        "code": "Design Quality",
+                        "justification": "[Like good design and clean code.] Indicates that architectural and structural excellence are intentional quality goals beyond mere functionality."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Functional Correctness",
+                        "justification": "[The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects.] This highlights the core goal of meeting user needs and defect-free operation."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "[Clean code is easy to read, understand and easy to change.] Emphasizes the importance of code quality for long-term scalability and adaptability."
+                    },
+                    {
+                        "code": "Design Excellence",
+                        "justification": "[Like good design and clean code.] Indicates that architectural and aesthetic considerations are prioritized alongside functionality."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Functional Correctness",
+                        "justification": "[The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects.] This highlights the core goal of meeting user requirements and defect-free operation."
+                    },
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Clean code is easy to read, understand and easy to change.] Emphasizes maintainability and readability, which are critical for long-term software quality."
+                    },
+                    {
+                        "code": "Good Design",
+                        "justification": "[Like good design and clean code.] Indicates the importance of architectural and structural quality in software development."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Functional Correctness",
+                "evidence": "[The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects.] All roles (Product Owner x2, QA) agree this is a core aspect of software quality, emphasizing user requirements and defect-free operation."
+            },
+            {
+                "code": "Code Maintainability",
+                "evidence": "[Clean code is easy to read, understand and easy to change.] Product Owner (x2) and QA highlight this as critical for long-term software sustainability, focusing on readability and modifiability."
+            },
+            {
+                "code": "Design Quality",
+                "evidence": "[Like good design and clean code.] Product Owner (x2) and QA acknowledge the importance of architectural and structural excellence, though labels vary slightly (e.g., 'Design Excellence', 'Good Design')."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Quality can be defined in many ways. The definition may differ from person to person. But, there should be some standards. So quality for me is a product meets customer requirements and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Customer Requirements",
+                        "justification": "[a product meets customer requirements] highlights the importance of aligning product features with user needs, a core principle in software quality."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes reliability and correctness, which are critical for software quality assurance and user satisfaction."
+                    },
+                    {
+                        "code": "Standardization",
+                        "justification": "[there should be some standards] underscores the need for measurable benchmarks in quality, ensuring consistency across development."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Customer Requirements",
+                        "justification": "[a product meets customer requirements] highlights the importance of aligning product features with user needs, a core quality goal in product management."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes reliability as a key quality standard, ensuring the product functions as intended without errors."
+                    },
+                    {
+                        "code": "Quality Standards",
+                        "justification": "[there should be some standards] underscores the need for measurable benchmarks to objectively assess product quality."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Customer Requirements",
+                        "justification": "[a product meets customer requirements] highlights the importance of aligning software quality with user expectations, a core QA principle."
+                    },
+                    {
+                        "code": "Defect-Free",
+                        "justification": "[free of defects] emphasizes the foundational QA goal of minimizing bugs and errors in deliverables."
+                    },
+                    {
+                        "code": "Standardization",
+                        "justification": "[there should be some standards] underscores the need for measurable quality benchmarks in software development."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Customer Requirements",
+                "evidence": "[a product meets customer requirements] is cited by all roles (Product Owner x2, QA) as a core quality principle, emphasizing alignment with user needs."
+            },
+            {
+                "code": "Defect-Free",
+                "evidence": "[free of defects] is unanimously highlighted (Product Owner x2, QA) as critical for reliability and correctness in software quality."
+            },
+            {
+                "code": "Standardization",
+                "evidence": "[there should be some standards] is agreed upon (Product Owner x2, QA) as necessary for measurable benchmarks, though labeled slightly differently (e.g., 'Quality Standards')."
+            }
+        ]
+    },
+    {
+        "target_text": "\"I\u2019m glad this is not an exam question! But to narrow it down, I see quality taking place in three levels: product, software code and the development process. I\u2019ll explain. The product quality is a functioning product free of defects and conforms with the business needs. Software code quality particularly in agile means clean code and a design that caters for future changes. In agile, we believe in responding to change over following a plan. It is important that we deliver a software that doesn\u2019t break each time the business wants a change. The process is important. Chaos doesn\u2019t deliver software, but a committed team and a strong process does. Agile believes in continuous learning and improvement. The software process becomes more robust when we learn from our mistakes and improve.\"",
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects",
+            "Clean code",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Defect-Free Product",
+                        "justification": "[The product quality is a functioning product free of defects and conforms with the business needs.] This emphasizes delivering a reliable product that meets business requirements without defects."
+                    },
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Software code quality particularly in agile means clean code and a design that caters for future changes.] Clean code ensures maintainability and adaptability, critical in agile environments."
+                    },
+                    {
+                        "code": "Process Robustness",
+                        "justification": "[The software process becomes more robust when we learn from our mistakes and improve.] A strong, iterative process is key to continuous improvement and reliable delivery."
+                    },
+                    {
+                        "code": "Change Responsiveness",
+                        "justification": "[It is important that we deliver a software that doesn\u2019t break each time the business wants a change.] Agile prioritizes adaptability to change without compromising stability."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Defect-Free Product",
+                        "justification": "[The product quality is a functioning product free of defects and conforms with the business needs.] This emphasizes delivering a reliable product that meets business requirements without flaws."
+                    },
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Software code quality particularly in agile means clean code and a design that caters for future changes.] Clean code ensures maintainability and adaptability, critical in agile environments."
+                    },
+                    {
+                        "code": "Process Robustness",
+                        "justification": "[The software process becomes more robust when we learn from our mistakes and improve.] A strong, iterative process is key to continuous improvement and reliable delivery."
+                    },
+                    {
+                        "code": "Change Responsiveness",
+                        "justification": "[It is important that we deliver a software that doesn\u2019t break each time the business wants a change.] Agile prioritizes adaptability to change without compromising stability."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Defect-Free Product",
+                        "justification": "[The product quality is a functioning product free of defects and conforms with the business needs.] This emphasizes delivering a reliable product that meets business requirements without defects."
+                    },
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Software code quality particularly in agile means clean code and a design that caters for future changes.] Clean code ensures maintainability and adaptability, critical in agile environments."
+                    },
+                    {
+                        "code": "Process Robustness",
+                        "justification": "[The software process becomes more robust when we learn from our mistakes and improve.] A strong, iterative process is key to continuous improvement and stability in software development."
+                    },
+                    {
+                        "code": "Change Adaptability",
+                        "justification": "[It is important that we deliver a software that doesn\u2019t break each time the business wants a change.] Agile prioritizes flexibility to accommodate evolving business needs without system failures."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Defect-Free Product",
+                "evidence": "[The product quality is a functioning product free of defects and conforms with the business needs.] This emphasizes delivering a reliable product that meets business requirements without defects. Supported by Product Owner and Quality Assurance roles."
+            },
+            {
+                "code": "Clean Code",
+                "evidence": "[Software code quality particularly in agile means clean code and a design that caters for future changes.] Clean code ensures maintainability and adaptability, critical in agile environments. Supported by Product Owner and Quality Assurance roles."
+            },
+            {
+                "code": "Process Robustness",
+                "evidence": "[The software process becomes more robust when we learn from our mistakes and improve.] A strong, iterative process is key to continuous improvement and reliable delivery. Supported by Product Owner and Quality Assurance roles."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Agile advocates for quality but it doesn\u2019t necessarily define it. My understanding is that quality in agile means clean code and sustainable design. Clean code is subjective, but we know at least it should be simple, readable and maintainable. We know a clean code when we see it! In agile, we also keen in creating software design that is sustainable; we can easily change it in the future to accommodate new requirements.\"",
+        "Code_GroundTruth": [
+            "Clean code",
+            "Readable code",
+            "Maintainable code",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This emphasizes the importance of code quality attributes like simplicity and maintainability, which are core to agile development."
+                    },
+                    {
+                        "code": "Sustainable Design",
+                        "justification": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] This highlights the need for adaptable and future-proof design, a key agile principle."
+                    },
+                    {
+                        "code": "Readability",
+                        "justification": "[Clean code... should be simple, readable and maintainable.] Readability is explicitly mentioned as a critical factor for clean code, aiding collaboration and long-term maintenance."
+                    }
+                ]
+            },
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This emphasizes the importance of code simplicity, readability, and maintainability as core quality attributes in Agile."
+                    },
+                    {
+                        "code": "Sustainable Design",
+                        "justification": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] Highlights the Agile focus on adaptability and future-proofing through sustainable design practices."
+                    }
+                ]
+            },
+            {
+                "role": "Quality Assurance",
+                "codebook": [
+                    {
+                        "code": "Clean Code",
+                        "justification": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This emphasizes the importance of code quality attributes like simplicity and maintainability, which are critical for long-term software health."
+                    },
+                    {
+                        "code": "Sustainable Design",
+                        "justification": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] Sustainable design ensures adaptability to future requirements, a key goal in Agile development."
+                    },
+                    {
+                        "code": "Readability",
+                        "justification": "[Clean code... should be simple, readable and maintainable.] Readability is explicitly mentioned as a core attribute of clean code, directly impacting maintainability."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Clean Code",
+                "evidence": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This emphasizes the importance of code quality attributes like simplicity, readability, and maintainability, which are core to agile development."
+            },
+            {
+                "code": "Sustainable Design",
+                "evidence": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] This highlights the need for adaptable and future-proof design, a key agile principle."
+            },
+            {
+                "code": "Readability",
+                "evidence": "[Clean code... should be simple, readable and maintainable.] Readability is explicitly mentioned as a critical factor for clean code, aiding collaboration and long-term maintenance."
+            }
+        ]
+    }
+]

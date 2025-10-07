@@ -1,0 +1,10 @@
+openai
+tiktoken
+openpyxl
+tqdm
+pandas
+numpy
+seaborn
+scikit-learn
+scipy
+streamlit

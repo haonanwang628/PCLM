@@ -1,0 +1,162 @@
+{
+    "target_text": "\"Agile advocates for quality but it doesn\u2019t necessarily define it. My understanding is that quality in agile means clean code and sustainable design. Clean code is subjective, but we know at least it should be simple, readable and maintainable. We know a clean code when we see it! In agile, we also keen in creating software design that is sustainable; we can easily change it in the future to accommodate new requirements.\"",
+    "Role_Team": [
+        {
+            "role": "Product Owners",
+            "disciplinary_background": "Sociology",
+            "core_value": "Innovation",
+            "positionality": "As a Product Owner with a background in sociology, I approach innovation through a lens of human-centered design, ensuring solutions address real societal needs while balancing feasibility and impact. My core value of innovation drives me to challenge assumptions and co-create inclusive, transformative products with diverse stakeholders."
+        },
+        {
+            "role": "Scrum Masters",
+            "disciplinary_background": "Ethics",
+            "core_value": "Accuracy",
+            "positionality": "As a Scrum Master with a background in ethics, I prioritize accuracy in all aspects of agile processes to ensure transparency, fairness, and trust within teams. My ethical grounding reinforces my commitment to precise communication and decision-making, fostering accountability and integrity in agile practices."
+        },
+        {
+            "role": "Quality Assurance",
+            "disciplinary_background": "Business/Management",
+            "core_value": "Innovation",
+            "positionality": "As someone with a business and management background, I approach quality assurance with a focus on efficiency and continuous improvement, and my core value of innovation drives me to seek creative solutions that enhance both product quality and process effectiveness."
+        }
+    ],
+    "Role_init_codebook": [
+        {
+            "role": "Product Owner",
+            "codebook": [
+                {
+                    "code": "Clean Code",
+                    "justification": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This highlights the emphasis on code quality attributes like simplicity and maintainability, which are core to agile development."
+                },
+                {
+                    "code": "Sustainable Design",
+                    "justification": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] This underscores the importance of adaptability and future-proofing in agile software design."
+                },
+                {
+                    "code": "Readability",
+                    "justification": "[Clean code... should be simple, readable and maintainable.] Readability is explicitly mentioned as a key criterion for clean code, facilitating collaboration and maintenance."
+                }
+            ]
+        },
+        {
+            "role": "Scrum Master",
+            "codebook": [
+                {
+                    "code": "Clean Code",
+                    "justification": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This emphasizes the agile focus on code quality through simplicity, readability, and maintainability."
+                },
+                {
+                    "code": "Sustainable Design",
+                    "justification": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] Highlights the agile principle of designing for future adaptability and scalability."
+                },
+                {
+                    "code": "Readability",
+                    "justification": "[Clean code... should be simple, readable and maintainable.] Readability is explicitly mentioned as a key attribute of clean code in agile development."
+                },
+                {
+                    "code": "Maintainability",
+                    "justification": "[Clean code... should be... maintainable.] Maintainability is critical in agile to ensure long-term software quality and ease of updates."
+                }
+            ]
+        },
+        {
+            "role": "Quality Assurance",
+            "codebook": [
+                {
+                    "code": "Clean Code",
+                    "justification": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This emphasizes the importance of code clarity and maintainability as core quality goals in Agile."
+                },
+                {
+                    "code": "Sustainable Design",
+                    "justification": "[We also keen in creating software design that is sustainable.] This highlights the need for adaptable and future-proof design to meet evolving requirements."
+                },
+                {
+                    "code": "Readability",
+                    "justification": "[Simple, readable and maintainable.] Readability is a key attribute of clean code, ensuring ease of understanding and collaboration."
+                },
+                {
+                    "code": "Maintainability",
+                    "justification": "[We can easily change it in the future.] Maintainability ensures long-term viability and reduces technical debt in Agile projects."
+                }
+            ]
+        }
+    ],
+    "Consolidating_results": {
+        "Agreed": [
+            {
+                "code": "Clean Code",
+                "evidence": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This is supported by all roles (Product Owner, Scrum Master, QA) as a core agile principle, emphasizing simplicity, readability, and maintainability."
+            },
+            {
+                "code": "Sustainable Design",
+                "evidence": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] All roles agree on the importance of adaptability and future-proofing in agile design."
+            },
+            {
+                "code": "Readability",
+                "evidence": "[Clean code... should be simple, readable and maintainable.] Explicitly mentioned by all roles as a key attribute of clean code, facilitating collaboration and maintenance."
+            }
+        ],
+        "Disagreed": [
+            {
+                "code": "Maintainability",
+                "evidence": "While mentioned by Scrum Master and QA, it is not explicitly highlighted by the Product Owner. The divergence lies in granularity\u2014some roles treat it as a standalone attribute, while others bundle it under 'Clean Code.'"
+            }
+        ]
+    },
+    "disagree_explain": "The disagreement centers on 'Maintainability,' where Scrum Master and QA explicitly code it as a standalone attribute ([should be... maintainable] and [We can easily change it in the future]), while Product Owner bundles it under 'Clean Code' without separate emphasis, reflecting role-specific priorities in agile quality interpretation.  \n\n**Click on the option under Disagreed Items on the left to start the debate**",
+    "Debate": [
+        {
+            "Disagreed": "Maintainability",
+            "Process": [
+                {
+                    "round 1": "('1', 'Please make a clear decision based on your role\u2019s perspective:\\n\\n**##Your task:**\\n\\n**Should this disagree code be retained in the final data annotation?**\\n\\n**## Output Format:**\\n\\nYou can only choose one of the following positions:\\n\\n- \u2705 Yes, the code should be retained.\\n- \u274c No, the code should not be retained.\\n\\nBe concise \u2014 No explanation needed here')",
+                    "response": "['Role1(Product Owners): Round 1\\n\u2705 Yes, the code should be retained.\\n\\n', 'Role2(Scrum Masters): Round 1\\n\u2705 Yes, the code should be retained.\\n\\n', 'Role3(Quality Assurance): Round 1\\n\u2705 Yes, the code should be retained.\\n\\n']"
+                },
+                {
+                    "round 2": "('2', '##Your task:\\nProvide factual evidence from the target text that directly supports your position in Round 1.\\n\\nYou should:\\n\\n- Identify one or more specific phrases, sentences, or expressions from the target text.\\n- Focus only on **observable, textual facts** \u2014 avoid reasoning or interpretation.\\n- Choose content that has a **strong and explicit connection** to your claim (retain or remove the code).\\n\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 1\u20133 sentences quoting or paraphrasing the most relevant parts of the original text.\\n\\nYou must ensure your evidence **aligned** with the disputed code under debate.')",
+                    "response": "[\"Role1(Product Owners): Round 2\\nAddressing the point that [maintainability] is bundled under 'Clean Code' in the target text:  \\n\\nThe text explicitly states [clean code and sustainable design] as key components of quality in agile, with further elaboration that clean code should be [simple, readable and maintainable]. This directly aligns maintainability with the broader concept of clean code, supporting the bundled relationship.  \\n\\nThe evidence from the target text:  \\n1. [clean code and sustainable design]  \\n2. [simple, readable and maintainable]  \\n\\nThese phrases confirm that maintainability is framed as an inherent attribute of clean code, not treated as entirely separate.\\n\\n\", \"Role2(Scrum Masters): Round 2\\nAddressing the point that [maintainable] is bundled under [clean code] in the target text:  \\n\\nThe text explicitly states [clean code and sustainable design] as components of quality, with [clean code] defined as [simple, readable and maintainable]. This directly supports the code's inclusion by showing maintainability is a named attribute within the agile quality framework.  \\n\\nKey evidence:  \\n- [clean code and sustainable design]  \\n- [simple, readable and maintainable]  \\n\\n(Note: While the Product Owner didn\u2019t separately highlight maintainability, the Scrum Master\u2019s quoted text explicitly lists it under clean code, justifying the granularity debate in the disagreement code.)\\n\\n\", 'Role3(Quality Assurance): Round 2\\nAddressing the point that [maintainable] is bundled under [clean code], the target text explicitly states: [clean code is subjective, but we know at least it should be simple, readable and maintainable]. This directly links maintainability to clean code, supporting the granularity divergence noted in the disagreement code.  \\n\\nAdditionally, the text emphasizes [we can easily change it in the future to accommodate new requirements], which further underscores maintainability as a core quality attribute in agile.  \\n\\nEvidence:  \\n1. [clean code is subjective, but we know at least it should be simple, readable and maintainable]  \\n2. [we can easily change it in the future to accommodate new requirements]\\n\\n']"
+                },
+                {
+                    "round 3": "('3', '\ud83d\udd17 Warrant (Reasoning Rule or Logic)\\n\\nThe reasoning principle or general assumption that connects the evidence (Ground) to your claim.\\n\\n##Your task:\\nExplain **why** the evidence you identified in Round 2 logically supports your position in Round 1.\\n\\nThis is not about what you saw \u2014 it\\'s about **why what you saw matters**.\\n\\nYou may consider:\\n\\n- Annotation principles (e.g., clarity, distinctiveness, usefulness)\\n- Common assumptions in the task domain (e.g., subjective language signals sentiment)\\n- Reasoning patterns (e.g., if X happens, then it typically means Y)\\n- What would be lost if the evidence is ignored\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 2\u20133 sentences explaining your **reasoning logic**.\\n\\nAvoid quoting the text again. Instead, show how your Ground leads to your Claim through generalizable rules or annotation standards.')",
+                    "response": "['Role1(Product Owners): Round 3\\nRecapping the pivotal point: [maintainability] is framed as an inherent attribute of [clean code] in the target text.  \\n\\nThe evidence matters because it reveals a **hierarchical relationship** in agile quality definitions: maintainability isn\u2019t omitted but nested under broader principles. This aligns with annotation standards where granularity depends on context\u2014here, the text\u2019s structure bundles attributes under [clean code and sustainable design]. Ignoring this would misrepresent the text\u2019s intent by artificially separating intertwined concepts.  \\n\\nThe disagreement code\u2019s divergence stems from **role-specific framing**: Product Owners emphasize holistic quality (bundling), while QA/Scrum Masters dissect it (granularity). Both are valid, but the text\u2019s phrasing ([simple, readable and maintainable]) explicitly subordinates maintainability to clean code, justifying the bundled interpretation.\\n\\n', 'Role2(Scrum Masters): Round 3\\nRecapping the key point: [clean code is subjective, but we know at least it should be simple, readable and maintainable] directly links maintainability to clean code.  \\n\\nThe evidence matters because it demonstrates a **hierarchical relationship** in agile quality attributes: maintainability isn\u2019t treated as independent but as a **defining trait** of clean code. This aligns with annotation principles where granularity depends on explicit textual framing\u2014here, the text nests maintainability under clean code\u2019s criteria. Ignoring this would misrepresent the text\u2019s structure, where sustainable design and clean code are peer concepts, while maintainability is subordinate to the latter. The disagreement code\u2019s divergence stems from roles conflating levels of abstraction (clean code as a container vs. maintainability as a standalone).\\n\\n', 'Role3(Quality Assurance): Round 3\\nRecapping the pivotal point: [clean code is subjective, but we know at least it should be simple, readable and maintainable] directly links maintainability to clean code.  \\n\\nThe evidence matters because:  \\n1. **Annotation principle of granularity**: When a quality attribute (maintainability) is explicitly listed as a component of a broader concept (clean code), it validates both bundled and standalone interpretations. The text\u2019s phrasing (\"should be... maintainable\") treats maintainability as a *required* sub-feature, not an optional or separate trait.  \\n2. **Domain assumption in agile**: Sustainable design (implied by [we can easily change it in the future]) inherently relies on maintainability. This reinforces that maintainability isn\u2019t just a code-level concern but a systemic quality pillar, justifying its dual treatment in the disagreement code.  \\n\\nIgnoring this would obscure how agile frameworks nest granular attributes under broader principles while still allowing role-specific emphasis.\\n\\n']"
+                },
+                {
+                    "round 4": "('4', 'Backing (Theory, Principle, Standard)\\n\\nThe general principle or authority that supports the reasoning logic you presented in Round 3.\\n\\n##Your task:\\nSupport your Warrant by referring to a known **theory, annotation guideline, research practice, task standard, or domain assumption**.\\n\\nYour Backing should answer the question:\\n\\n**\"Why is your reasoning logic valid and worth trusting?\"**\\n\\nYou may consider:\\n\\n- Annotation schema or task instructions\\n- Published guidelines, research papers, or frameworks\\n- Common industry or domain assumptions\\n- Collective practices from expert annotators\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 1\u20132 sentences that reference a general principle or known standard.\\n\\nAvoid repeating your reasoning; instead, provide **evidence that your reasoning rule is widely accepted or justified**.')",
+                    "response": "['Role1(Product Owners): Round 4\\nRecapping the pivotal point: [clean code is subjective, but we know at least it should be simple, readable and maintainable] establishes maintainability as a core attribute of clean code.  \\n\\nThis aligns with **Martin Fowler\u2019s definition of clean code** in *Refactoring: Improving the Design of Existing Code*, where maintainability is treated as an inherent outcome of readability and simplicity, not a separate quality dimension. Similarly, the **Agile Manifesto\u2019s principle of technical excellence** bundles sustainable design and clean code as interdependent, validating the hierarchical relationship observed in the text.  \\n\\nThe disagreement code\u2019s divergence reflects **ISO/IEC 25010\u2019s modular quality model**, which allows maintainability to be both a standalone characteristic (QA/Scrum Master view) and a sub-feature of functional suitability (Product Owner\u2019s bundled interpretation).\\n\\n', 'Role2(Scrum Masters): Round 4\\nRecapping the pivotal point: [clean code is subjective, but we know at least it should be simple, readable and maintainable] explicitly subordinates maintainability under clean code.  \\n\\nThis aligns with **Martin Fowler\u2019s definition of clean code** in *Refactoring: Improving the Design of Existing Code*, where maintainability is treated as an intrinsic property of clean code (readability and simplicity being prerequisites). Similarly, the **Agile Manifesto\u2019s principle of sustainable development** implicitly bundles maintainability under technical excellence, validating the hierarchical relationship observed in the text.  \\n\\nThe disagreement code\u2019s divergence reflects **role-specific interpretations** permitted by agile frameworks (e.g., Scrum Guide\u2019s emphasis on \"Done\" criteria), where quality attributes can be emphasized differently without contradicting the text\u2019s nested structure.\\n\\n', 'Role3(Quality Assurance): Round 4\\nRecapping the pivotal point: [clean code is subjective, but we know at least it should be simple, readable and maintainable] directly links maintainability to clean code.  \\n\\nThis aligns with **ISO/IEC 25010**, which defines maintainability as a sub-characteristic of software quality under the broader attribute of functional suitability, mirroring how the text nests maintainability under clean code. Additionally, the **Agile Manifesto\u2019s principle of sustainable development** (\"Continuous attention to technical excellence enhances agility\") supports treating maintainability as both a standalone concern and an inherent part of clean code, validating the dual interpretations in the disagreement code.\\n\\n']"
+                },
+                {
+                    "round 5": "('5', 'Rebuttal (Counterposition & Boundary Conditions)\\n\\nRespond to opposing views and recognize legitimate limits to your own claim.\\n\\n##Your task:\\nCritically reflect on the alternative position (e.g., those who claimed this disagree code should be removed).\\n\\nYou should:\\n\\n- Argue why that opposing position is flawed, limited, or misaligned with task goals.\\n- OR acknowledge any reasonable conditions under which your own claim might not hold.\\n- Your rebuttal can mix **counterattack** (against others\u2019 claims) and **boundary setting** (on your own claim).\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 2\u20133 sentences.\\n\\nYou may begin with phrases such as:\\n\\n- \u201cWhile some may argue that...\u201d\\n- \u201cThis perspective overlooks...\u201d\\n- \u201cMy claim may not apply if...\u201d\\n- \u201cHowever, in cases where..., I agree the code may be unnecessary.\u201d')",
+                    "response": "['Role1(Product Owners): Round 5\\nWhile some may argue that [maintainability] should be treated as a standalone attribute (as seen in ISO/IEC 25010 or QA/Scrum Master perspectives), this overlooks the Product Owner\u2019s holistic view where it is inherently bundled under [clean code and sustainable design]. The opposing position fails to reconcile the Agile Manifesto\u2019s principle of technical excellence, which treats these qualities as interdependent rather than siloed. However, I acknowledge the disagreement code may be unnecessary if the context explicitly prioritizes granular quality metrics over integrated agile values.  \\n\\nThis perspective also misaligns with Martin Fowler\u2019s framing of [clean code] as a unified concept where maintainability emerges naturally from [simple, readable] code\u2014validating the hierarchical relationship in the target text. The divergence in interpretations is legitimate only when role-specific emphasis (e.g., Scrum\u2019s \"Done\" criteria) temporarily overrides the default nesting of attributes.\\n\\n', 'Role2(Scrum Masters): Round 5\\nWhile some may argue that maintainability should be treated as a standalone attribute (as seen in [ISO/IEC 25010\u2019s modular quality model]), this perspective overlooks the text\u2019s explicit hierarchical structure: [clean code is subjective, but we know at least it should be simple, readable and maintainable]. The nested relationship aligns with **Martin Fowler\u2019s definition of clean code**, where maintainability is an intrinsic outcome of readability and simplicity, not a separate dimension.  \\n\\nHowever, in cases where role-specific interpretations (e.g., QA\u2019s granular focus) are prioritized over the text\u2019s bundled view, I agree the disagreement code may capture legitimate divergence\u2014but only as an exception, not the rule.\\n\\n', \"Role3(Quality Assurance): Round 5\\nWhile some may argue that [maintainability] should be treated as a standalone attribute, this perspective overlooks the explicit hierarchical relationship established in the target text: [clean code is subjective, but we know at least it should be simple, readable and maintainable]. The text clearly nests maintainability under clean code, aligning with **ISO/IEC 25010**'s modular quality model where maintainability can function both as a sub-characteristic and standalone dimension. However, in cases where role-specific interpretations (e.g., QA's granular focus) require explicit separation, I acknowledge the disagreement code may serve a purpose\u2014but this should not override the text's primary structure.\\n\\n\"]"
+                },
+                {
+                    "round 6": "('6', 'Qualifier (Final Position & Applicability)\\n\\nIndicate whether your position has changed, and specify the conditions or limitations under which your judgment applies.\\n\\n##Your task:\\nStep 1 \u2014 Choose one of the following to express your final stance:\\n\\n- \u2705 My position remains unchanged. I still believe the code should [be retained / not be retained].\\n- \ud83d\udd04 My position has shifted. Now I believe the code should [be retained / not be retained].\\n\\nStep 2 \u2014 Add a sentence to qualify your position.\\n\\nYou may include:\\n\\n- When the code **should** or **should not** apply\\n- In what type of task or context your view is relevant\\n- Your level of certainty (e.g., always, usually, rarely, only when...)\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 2\u20133 sentences in total:\\n\\n1. Begin with your selected base sentence from Step 1.\\n2. Follow with one or two sentences that define the **conditions** or **degree of certainty** under which your judgment applies.\\n\\nYou may use expressions like:\\n\\n- \u201c...but only when...\u201d\\n- \u201c...except in cases where...\u201d\\n- \u201c...especially if...\u201d\\n- \u201c...always/usually/rarely applies in...\u201d')",
+                    "response": "['Role1(Product Owners): Round 6\\n\u2705 My position remains unchanged. I still believe the code should be retained.  \\n\\nThis holds especially when interpreting [clean code and sustainable design] through an agile lens, where maintainability naturally emerges from [simple, readable] code rather than being treated as a siloed attribute. However, the disagreement code may be unnecessary in contexts requiring granular quality metrics (e.g., compliance audits) that override agile\u2019s integrated values.\\n\\n', 'Role2(Scrum Masters): Round 6\\n\u2705 My position remains unchanged. I still believe the code should be retained.  \\n\\nThis applies especially when teams prioritize [clean code and sustainable design] as interdependent qualities, as explicitly stated in the target text: [we know at least it should be simple, readable and maintainable]. The disagreement code captures legitimate divergence only in contexts where role-specific granularity (e.g., QA\u2019s focus on ISO/IEC 25010) temporarily overrides this bundled view.\\n\\n', 'Role3(Quality Assurance): Round 6\\n\u2705 My position remains unchanged. I still believe the code should be retained.  \\n\\nThis applies especially when quality attributes like [clean code and sustainable design] are interpreted hierarchically, as the text explicitly nests [maintainability] under [simple, readable and maintainable]. However, the disagreement code may serve a purpose in contexts where role-specific granularity (e.g., QA\u2019s focus on ISO/IEC 25010) temporarily overrides this bundled view.\\n\\n']"
+                }
+            ],
+            "Closing": {
+                "decision_mode": "Consensus",
+                "Resolution": "Retain",
+                "final_code": "disagree code",
+                "evidence": "All roles (Product Owners, Scrum Masters, Quality Assurance) unanimously agree in Round 6 that the code should be retained, especially when interpreting clean code and sustainable design through an agile lens, though with contextual caveats."
+            }
+        }
+    ],
+    "Codebook": [
+        {
+            "code": "Clean Code",
+            "evidence": "[Clean code is subjective, but we know at least it should be simple, readable and maintainable.] This is supported by all roles (Product Owner, Scrum Master, QA) as a core agile principle, emphasizing simplicity, readability, and maintainability."
+        },
+        {
+            "code": "Sustainable Design",
+            "evidence": "[We also keen in creating software design that is sustainable; we can easily change it in the future.] All roles agree on the importance of adaptability and future-proofing in agile design."
+        },
+        {
+            "code": "Readability",
+            "evidence": "[Clean code... should be simple, readable and maintainable.] Explicitly mentioned by all roles as a key attribute of clean code, facilitating collaboration and maintenance."
+        },
+        {
+            "*code": "disagree code",
+            "*evidence": "All roles (Product Owners, Scrum Masters, Quality Assurance) unanimously agree in Round 6 that the code should be retained, especially when interpreting clean code and sustainable design through an agile lens, though with contextual caveats."
+        }
+    ]
+}

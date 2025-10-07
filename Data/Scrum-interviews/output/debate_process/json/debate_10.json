@@ -1,0 +1,154 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role_Team": [
+        {
+            "role": "Product Owners",
+            "disciplinary_background": "Sociology",
+            "core_value": "Innovation",
+            "positionality": "As a Product Owner with a background in Sociology, I approach innovation through a lens of human-centered design, ensuring solutions address real societal needs while balancing feasibility and impact. My core value of innovation drives me to challenge assumptions and advocate for inclusive, equitable products that empower diverse users."
+        },
+        {
+            "role": "Scrum Masters",
+            "disciplinary_background": "Ethics",
+            "core_value": "Accuracy",
+            "positionality": "As a Scrum Master with a background in ethics, I prioritize accuracy in agile practices to ensure transparency, fairness, and trust within teams. My ethical grounding drives me to uphold integrity in processes, fostering accountability and alignment with shared goals."
+        },
+        {
+            "role": "Quality Assurance",
+            "disciplinary_background": "Business/Management",
+            "core_value": "Innovation",
+            "positionality": "As someone with a business and management background, I approach quality assurance with a focus on efficiency and continuous improvement, and my core value of innovation drives me to seek creative solutions that enhance both product quality and process effectiveness."
+        }
+    ],
+    "Role_init_codebook": [
+        {
+            "role": "Product Owner",
+            "codebook": [
+                {
+                    "code": "Code Maintainability",
+                    "justification": "[maintainable code that confirms to well established guidelines] highlights adherence to coding standards for long-term ease of updates."
+                },
+                {
+                    "code": "Design Sustainability",
+                    "justification": "[sustainability of the design] emphasizes adaptability to future requirements, a core quality in agile development."
+                },
+                {
+                    "code": "Clean Code",
+                    "justification": "[We aim for clean code] reflects prioritization of readability and simplicity, reducing technical debt."
+                }
+            ]
+        },
+        {
+            "role": "Scrum Master",
+            "codebook": [
+                {
+                    "code": "Maintainable Code",
+                    "justification": "[maintainable code] reflects adherence to clean coding practices, ensuring long-term readability and ease of updates."
+                },
+                {
+                    "code": "Design Sustainability",
+                    "justification": "[sustainability of the design] highlights adaptability to future requirements, a key Agile principle for scalable software."
+                },
+                {
+                    "code": "Guideline Compliance",
+                    "justification": "[confirms to well established guidelines] emphasizes standardized practices, reducing technical debt and fostering team alignment."
+                }
+            ]
+        },
+        {
+            "role": "Quality Assurance",
+            "codebook": [
+                {
+                    "code": "Code Maintainability",
+                    "justification": "[maintainable code that confirms to well established guidelines] highlights adherence to coding standards for long-term ease of updates and debugging."
+                },
+                {
+                    "code": "Design Sustainability",
+                    "justification": "[the software design is able to cope with new requirements easily] emphasizes adaptability to future changes, reducing technical debt."
+                },
+                {
+                    "code": "Clean Code",
+                    "justification": "[We aim for clean code] reflects a focus on readability, simplicity, and reduced complexity for better collaboration."
+                }
+            ]
+        }
+    ],
+    "Consolidating_results": {
+        "Agreed": [
+            {
+                "code": "Code Maintainability",
+                "evidence": "[maintainable code that confirms to well established guidelines] is cited by Product Owner, Scrum Master, and QA, highlighting adherence to coding standards for long-term ease of updates and debugging."
+            },
+            {
+                "code": "Design Sustainability",
+                "evidence": "[sustainability of the design] and [the software design is able to cope with new requirements easily] are emphasized by all three roles, underscoring adaptability to future requirements as a core Agile principle."
+            },
+            {
+                "code": "Clean Code",
+                "evidence": "[We aim for clean code] is supported by Product Owner and QA, reflecting prioritization of readability, simplicity, and reduced technical debt."
+            }
+        ],
+        "Disagreed": [
+            {
+                "code": "Guideline Compliance",
+                "evidence": "Scrum Master's [confirms to well established guidelines] focuses narrowly on standardization, while others merge this concept into broader 'Code Maintainability' or 'Clean Code'."
+            }
+        ]
+    },
+    "disagree_explain": "The Scrum Master's \"Guideline Compliance\" code focuses narrowly on [confirms to well established guidelines] as a standalone concept, while Product Owner and QA merge this into broader \"Code Maintainability\" or \"Clean Code,\" seeing standardization as part of holistic code quality rather than a separate goal.  \n\n**Click on the option under Disagreed Items on the left to start the debate**",
+    "Debate": [
+        {
+            "Disagreed": "Guideline Compliance",
+            "Process": [
+                {
+                    "round 1": "('1', 'Please make a clear decision based on your role\u2019s perspective:\\n\\n**##Your task:**\\n\\n**Should this disagree code be retained in the final data annotation?**\\n\\n**## Output Format:**\\n\\nYou can only choose one of the following positions:\\n\\n- \u2705 Yes, the code should be retained.\\n- \u274c No, the code should not be retained.\\n\\nBe concise \u2014 No explanation needed here')",
+                    "response": "['Role1(Product Owners): Round 1\\n\u2705 Yes, the code should be retained.\\n\\n', 'Role2(Scrum Masters): Round 1\\n\u2705 Yes, the code should be retained.\\n\\n', 'Role3(Quality Assurance): Round 1\\n\u2705 Yes, the code should be retained.\\n\\n']"
+                },
+                {
+                    "round 2": "('2', '##Your task:\\nProvide factual evidence from the target text that directly supports your position in Round 1.\\n\\nYou should:\\n\\n- Identify one or more specific phrases, sentences, or expressions from the target text.\\n- Focus only on **observable, textual facts** \u2014 avoid reasoning or interpretation.\\n- Choose content that has a **strong and explicit connection** to your claim (retain or remove the code).\\n\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 1\u20133 sentences quoting or paraphrasing the most relevant parts of the original text.\\n\\nYou must ensure your evidence **aligned** with the disputed code under debate.')",
+                    "response": "[\"Role1(Product Owners): Round 2\\nAddressing the Scrum Master's focus on [confirms to well established guidelines], the target text explicitly states: [We aim for clean code. This mean maintainable code that confirms to well established guidelines.]  \\n\\nThis directly supports the guideline compliance aspect of the disagreement code, showing the text's emphasis on both standardization (guidelines) and maintainability as dual objectives.  \\n\\nThe connection is strong since [confirms to well established guidelines] is a verbatim match to the disputed code's evidence.\\n\\n\", 'Role2(Scrum Masters): Round 2\\nAddressing the point that [\"confirms to well established guidelines\"] focuses narrowly on standardization:  \\n\\nThe target text explicitly states [maintainable code that confirms to well established guidelines], directly linking guideline compliance to maintainability. This supports the Scrum Master\\'s emphasis on standardization as a distinct aspect of clean code.  \\n\\nEvidence:  \\n- [maintainable code that confirms to well established guidelines]  \\n- [We aim for clean code.]  \\n\\nThe text treats guideline adherence as a separate, measurable criterion within the broader goal of clean code.\\n\\n', 'Role3(Quality Assurance): Round 2\\nAddressing the Scrum Master\\'s point about [confirms to well established guidelines], the target text explicitly states: [We aim for clean code. This mean maintainable code that confirms to well established guidelines.]  \\n\\nThis directly supports the \"Guideline Compliance\" code by showing the text\\'s clear emphasis on adherence to established standards as a core aspect of clean, maintainable code. The phrase [confirms to well established guidelines] is a standalone requirement, not merged into broader concepts.  \\n\\n(Note: Since all roles agreed to retain the code in Round 1, this evidence reinforces that alignment.)\\n\\n']"
+                },
+                {
+                    "round 3": "('3', '\ud83d\udd17 Warrant (Reasoning Rule or Logic)\\n\\nThe reasoning principle or general assumption that connects the evidence (Ground) to your claim.\\n\\n##Your task:\\nExplain **why** the evidence you identified in Round 2 logically supports your position in Round 1.\\n\\nThis is not about what you saw \u2014 it\\'s about **why what you saw matters**.\\n\\nYou may consider:\\n\\n- Annotation principles (e.g., clarity, distinctiveness, usefulness)\\n- Common assumptions in the task domain (e.g., subjective language signals sentiment)\\n- Reasoning patterns (e.g., if X happens, then it typically means Y)\\n- What would be lost if the evidence is ignored\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 2\u20133 sentences explaining your **reasoning logic**.\\n\\nAvoid quoting the text again. Instead, show how your Ground leads to your Claim through generalizable rules or annotation standards.')",
+                    "response": "[\"Role1(Product Owners): Round 3\\nRecapping the Scrum Master's point: guideline compliance is treated as a distinct aspect of clean code, evidenced by [maintainable code that confirms to well established guidelines].  \\n\\nThis matters because:  \\n1) Annotation principles require distinguishing between composite concepts (like clean code) and their atomic components (like guideline compliance). The text's parallel structure\u2014listing maintainability and guideline adherence as separate aims\u2014shows they're intentionally framed as distinct dimensions.  \\n2) In software development taxonomy, standardization (guidelines) and maintainability are commonly treated as orthogonal concerns\u2014one ensures consistency, the other adaptability. The text mirrors this domain convention by not conflating them.  \\n\\nIgnoring this would collapse two measurable quality attributes into one, reducing annotation granularity.\\n\\n\", 'Role2(Scrum Masters): Round 3\\nRecapping the Scrum Master\\'s point: [maintainable code that confirms to well established guidelines] directly links guideline compliance to maintainability.  \\n\\nThis matters because:  \\n1) The text\\'s structure treats [confirms to well established guidelines] as a distinct clause modifying \"maintainable code,\" showing standardization is a measurable sub-goal under clean code (not merged).  \\n2) Annotation principles require preserving such explicit technical criteria when they\u2019re verbatim in the text, as ignoring them would flatten nuanced software ethics into vague ideals.  \\n3) Domain logic: In agile development, guideline compliance (e.g., SOLID principles) is both a maintenance enabler *and* a standalone quality metric\u2014exactly as the text\u2019s parallel phrasing captures.  \\n\\nLoss if ignored: The code\u2019s specificity helps teams audit adherence objectively, beyond subjective \"cleanliness.\"\\n\\n', \"Role3(Quality Assurance): Round 3\\nRecapping the Scrum Master's point about [confirms to well established guidelines] being treated as a distinct criterion:  \\n\\nThe evidence matters because annotation principles require clear separation of concepts when they serve different purposes. [maintainable code that confirms to well established guidelines] shows two parallel objectives\u2014maintainability (process-focused) and guideline compliance (standardization-focused). If merged, we lose the ability to track adherence to external standards separately from internal code quality metrics, which violates the annotation principle of granularity for actionable feedback.  \\n\\nThis distinction aligns with common software quality frameworks where compliance (e.g., ISO, PEP) is auditable separately from maintainability scores. Ignoring it would conflate measurable standards with subjective quality assessments.\\n\\n\"]"
+                },
+                {
+                    "round 4": "('4', 'Backing (Theory, Principle, Standard)\\n\\nThe general principle or authority that supports the reasoning logic you presented in Round 3.\\n\\n##Your task:\\nSupport your Warrant by referring to a known **theory, annotation guideline, research practice, task standard, or domain assumption**.\\n\\nYour Backing should answer the question:\\n\\n**\"Why is your reasoning logic valid and worth trusting?\"**\\n\\nYou may consider:\\n\\n- Annotation schema or task instructions\\n- Published guidelines, research papers, or frameworks\\n- Common industry or domain assumptions\\n- Collective practices from expert annotators\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 1\u20132 sentences that reference a general principle or known standard.\\n\\nAvoid repeating your reasoning; instead, provide **evidence that your reasoning rule is widely accepted or justified**.')",
+                    "response": "['Role1(Product Owners): Round 4\\nBacking the Product Owner\\'s distinction between [maintainable code] and [confirms to well established guidelines], the ISO/IEC 25010 software quality model explicitly separates \"Maintainability\" (ease of modification) from \"Compliance\" (adherence to standards) as independent characteristics, validating the need to annotate them distinctly.  \\n\\nThis aligns with Agile Alliance\u2019s principle that \"technical excellence\" requires both adaptive design ([sustainability of the design]) and disciplined execution ([well established guidelines]), treating them as complementary but non-overlapping dimensions.\\n\\n', 'Role2(Scrum Masters): Round 4\\nBacking the Scrum Master\\'s reasoning about [confirms to well established guidelines] as a distinct dimension:  \\n\\nThis aligns with ISO/IEC 25010\\'s software quality model, which treats \"functional suitability\" (standards compliance) and \"maintainability\" as separate characteristics. The Agile Alliance\\'s definition of technical excellence also explicitly separates \"following agreed standards\" from \"adaptable design,\" mirroring the text\\'s parallel structure in [maintainable code that confirms to well established guidelines].\\n\\n', 'Role3(Quality Assurance): Round 4\\nBacking the distinction between [maintainable code that confirms to well established guidelines], ISO/IEC 25010 explicitly separates \"Functional Suitability\" (guideline compliance) from \"Maintainability\" as independent quality characteristics. This aligns with the text\\'s parallel structure and validates treating them as distinct dimensions.  \\n\\nThe Software Engineering Body of Knowledge (SWEBOK) similarly distinguishes standardization (as part of construction best practices) from maintainability (a product quality attribute), confirming this separation is industry-standard.\\n\\n']"
+                },
+                {
+                    "round 5": "('5', 'Rebuttal (Counterposition & Boundary Conditions)\\n\\nRespond to opposing views and recognize legitimate limits to your own claim.\\n\\n##Your task:\\nCritically reflect on the alternative position (e.g., those who claimed this disagree code should be removed).\\n\\nYou should:\\n\\n- Argue why that opposing position is flawed, limited, or misaligned with task goals.\\n- OR acknowledge any reasonable conditions under which your own claim might not hold.\\n- Your rebuttal can mix **counterattack** (against others\u2019 claims) and **boundary setting** (on your own claim).\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 2\u20133 sentences.\\n\\nYou may begin with phrases such as:\\n\\n- \u201cWhile some may argue that...\u201d\\n- \u201cThis perspective overlooks...\u201d\\n- \u201cMy claim may not apply if...\u201d\\n- \u201cHowever, in cases where..., I agree the code may be unnecessary.\u201d')",
+                    "response": "['Role1(Product Owners): Round 5\\nWhile some may argue that [confirms to well established guidelines] should be merged into broader concepts like [maintainable code], this perspective overlooks the critical distinction validated by ISO/IEC 25010\\'s separation of \"Compliance\" and \"Maintainability\" as independent quality characteristics.  \\n\\nHowever, in cases where a project\\'s scope is extremely narrow or short-lived, I agree the distinction between [well established guidelines] and [sustainability of the design] may become less impactful, making the separate coding less necessary. The Agile principle of \"technical excellence\" still demands both dimensions, but their annotation priority could flex based on project context.\\n\\n', 'Role2(Scrum Masters): Round 5\\nWhile some may argue that [confirms to well established guidelines] should be merged into broader concepts like [maintainable code], this perspective overlooks the explicit parallel structure in the Target Text that treats them as distinct yet complementary goals.  \\n\\nThe ISO/IEC 25010 standard and Agile Alliance principles validate this separation, as [well established guidelines] (compliance) and [sustainability of the design] (adaptability) serve different purposes in achieving technical excellence.  \\n\\nHowever, in cases where guidelines are inherently tied to maintainability (e.g., style conventions), I agree the distinction may blur\u2014but the text\u2019s phrasing still warrants separate annotation to reflect its intentional duality.\\n\\n', 'Role3(Quality Assurance): Round 5\\nWhile some may argue that [confirms to well established guidelines] should be merged into broader concepts like [maintainable code], this perspective overlooks the explicit separation in ISO/IEC 25010 and SWEBOK, where standardization and maintainability are treated as distinct quality dimensions.  \\n\\nHowever, in cases where the guidelines are so deeply embedded in the coding practices that they become indistinguishable from general maintainability (e.g., team-specific conventions), I agree the distinction may become unnecessary. Yet, the text\u2019s parallel structure ([maintainable code that confirms to well established guidelines]) clearly treats them as complementary but separate aims.\\n\\n']"
+                },
+                {
+                    "round 6": "('6', 'Qualifier (Final Position & Applicability)\\n\\nIndicate whether your position has changed, and specify the conditions or limitations under which your judgment applies.\\n\\n##Your task:\\nStep 1 \u2014 Choose one of the following to express your final stance:\\n\\n- \u2705 My position remains unchanged. I still believe the code should [be retained / not be retained].\\n- \ud83d\udd04 My position has shifted. Now I believe the code should [be retained / not be retained].\\n\\nStep 2 \u2014 Add a sentence to qualify your position.\\n\\nYou may include:\\n\\n- When the code **should** or **should not** apply\\n- In what type of task or context your view is relevant\\n- Your level of certainty (e.g., always, usually, rarely, only when...)\\n- Review every other role\u2019s last reply, extract the 1\u20132 pivotal sentences, and begin your response with a one-sentence recap of the point you\u2019re addressing (you may quote a key phrase).\\nResponses from other roles in the previous round:\\n\"[response]\"\\n\\n##Output Format:\\nWrite 2\u20133 sentences in total:\\n\\n1. Begin with your selected base sentence from Step 1.\\n2. Follow with one or two sentences that define the **conditions** or **degree of certainty** under which your judgment applies.\\n\\nYou may use expressions like:\\n\\n- \u201c...but only when...\u201d\\n- \u201c...except in cases where...\u201d\\n- \u201c...especially if...\u201d\\n- \u201c...always/usually/rarely applies in...\u201d')",
+                    "response": "['Role1(Product Owners): Round 6\\n\u2705 My position remains unchanged. I still believe the code should be retained.  \\n\\nThis distinction between [confirms to well established guidelines] and [maintainable code] is especially critical in long-term, scalable projects where standardization and adaptability must be explicitly addressed. However, in short-lived or highly constrained projects, the separation may carry less weight, though the Agile principle of technical excellence still favors clarity.\\n\\n', 'Role2(Scrum Masters): Round 6\\n\u2705 My position remains unchanged. I still believe the code should be retained.  \\n\\nThis distinction between [confirms to well established guidelines] and [maintainable code] is especially critical in long-term projects where compliance and adaptability must be tracked separately, though the separation may blur in small, short-lived initiatives. The Agile principle of technical excellence demands this clarity, but the annotation priority could flex based on project scope.\\n\\n', 'Role3(Quality Assurance): Round 6\\n\u2705 My position remains unchanged. I still believe the code should be retained.  \\n\\nThis distinction between [confirms to well established guidelines] and [maintainable code] is especially critical in regulated industries or long-term projects, where compliance and maintainability serve separate auditing and scalability needs. However, in small-scale or prototype development where guidelines are minimal, the separation may carry less weight\u2014though the text\u2019s phrasing still justifies distinct annotation.\\n\\n']"
+                }
+            ],
+            "Closing": {
+                "decision_mode": "Consensus",
+                "Resolution": "Retain",
+                "final_code": "confirms to well established guidelines",
+                "evidence": "All roles unanimously agree the code should be retained, emphasizing its distinction from maintainability and alignment with ISO/IEC 25010 standards, especially in long-term projects."
+            }
+        }
+    ],
+    "Codebook": [
+        {
+            "code": "Code Maintainability",
+            "evidence": "[maintainable code that confirms to well established guidelines] is cited by Product Owner, Scrum Master, and QA, highlighting adherence to coding standards for long-term ease of updates and debugging."
+        },
+        {
+            "code": "Design Sustainability",
+            "evidence": "[sustainability of the design] and [the software design is able to cope with new requirements easily] are emphasized by all three roles, underscoring adaptability to future requirements as a core Agile principle."
+        },
+        {
+            "code": "Clean Code",
+            "evidence": "[We aim for clean code] is supported by Product Owner and QA, reflecting prioritization of readability, simplicity, and reduced technical debt."
+        },
+        {
+            "*code": "confirms to well established guidelines",
+            "*evidence": "All roles unanimously agree the code should be retained, emphasizing its distinction from maintainability and alignment with ISO/IEC 25010 standards, especially in long-term projects."
+        }
+    ]
+}

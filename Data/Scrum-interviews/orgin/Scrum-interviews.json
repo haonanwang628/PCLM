@@ -1,0 +1,2050 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2022-06-08T12:35:42.840315+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 46,
+    "enabled": true,
+    "entries": {
+      "Data Analysis - First Cycle - RQ1 - Final.xlsx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9fc3dff255c2195c35de7e6f5f432a8e",
+        "ext": "xlsx",
+        "id": "e97da7c3-53f1-47c2-bc81-22d5c2b3607c",
+        "key": "Data Analysis - First Cycle - RQ1 - Final.xlsx",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20First%20Cycle%20-%20RQ1%20-%20Final.xlsx/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20First%20Cycle%20-%20RQ1%20-%20Final.xlsx"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 142016,
+        "storage_class": "L"
+      },
+      "Data Analysis - First Cycle - RQ2 - Final.xlsx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5d489312cf7b00add82f9580fc3ef829",
+        "ext": "xlsx",
+        "id": "42d234f5-bd38-4907-878c-d0411fafef5e",
+        "key": "Data Analysis - First Cycle - RQ2 - Final.xlsx",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20First%20Cycle%20-%20RQ2%20-%20Final.xlsx/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20First%20Cycle%20-%20RQ2%20-%20Final.xlsx"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 205758,
+        "storage_class": "L"
+      },
+      "Data Analysis - Second Cycle - RQ1 - Final.xlsx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4dabc0364f5fa1a1dd4b47a4bf2b96d8",
+        "ext": "xlsx",
+        "id": "b9539a0a-acc4-431f-8b45-1e39ab464d64",
+        "key": "Data Analysis - Second Cycle - RQ1 - Final.xlsx",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20Second%20Cycle%20-%20RQ1%20-%20Final.xlsx/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20Second%20Cycle%20-%20RQ1%20-%20Final.xlsx"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 19166,
+        "storage_class": "L"
+      },
+      "Data Analysis - Second Cycle - RQ2 - Final.xlsx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:983fe4967fcfcc2bc5bacefdefc56d15",
+        "ext": "xlsx",
+        "id": "97ab80e9-0cbf-48ee-8716-62c7dc7ac6c5",
+        "key": "Data Analysis - Second Cycle - RQ2 - Final.xlsx",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20Second%20Cycle%20-%20RQ2%20-%20Final.xlsx/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Data%20Analysis%20-%20Second%20Cycle%20-%20RQ2%20-%20Final.xlsx"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 26962,
+        "storage_class": "L"
+      },
+      "Focus Group 1 - Interview A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b0500056cef409fce56e294bd41b28de",
+        "ext": "pdf",
+        "id": "544efdd9-b9c3-493e-b0b3-0dc2221f1a67",
+        "key": "Focus Group 1 - Interview A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Focus%20Group%201%20-%20Interview%20A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%201%20-%20Interview%20A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%201%20-%20Interview%20A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Focus%20Group%201%20-%20Interview%20A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%201%20-%20Interview%20A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Focus%20Group%201%20-%20Interview%20A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 215316,
+        "storage_class": "L"
+      },
+      "Focus Group 2 - Interview A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d554bb95120154d1280086a1edd15105",
+        "ext": "pdf",
+        "id": "251bda43-10c5-48df-8458-ae5950f9fadd",
+        "key": "Focus Group 2 - Interview A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Focus%20Group%202%20-%20Interview%20A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%202%20-%20Interview%20A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%202%20-%20Interview%20A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Focus%20Group%202%20-%20Interview%20A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%202%20-%20Interview%20A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Focus%20Group%202%20-%20Interview%20A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 147231,
+        "storage_class": "L"
+      },
+      "Focus Group Slides.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:34c963ab27058580eeae5b67cbad8d9a",
+        "ext": "pdf",
+        "id": "afc8fdfb-9e6f-45c2-a8d3-8c8c8ab0ba87",
+        "key": "Focus Group Slides.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Focus%20Group%20Slides.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Focus%20Group%20Slides.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Focus%20Group%20Slides.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 94711,
+        "storage_class": "L"
+      },
+      "Participant 1 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f3dc8bba9f1f05530ad67ebaa2d663d4",
+        "ext": "pdf",
+        "id": "fe629ff1-2e00-4fb8-97b6-efb5ad8ef11f",
+        "key": "Participant 1 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%201%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%201%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%201%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%201%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%201%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%201%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 149353,
+        "storage_class": "L"
+      },
+      "Participant 10 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:366e0f959d8c2fd5251c211ddbe46a92",
+        "ext": "pdf",
+        "id": "5fafb1ea-dadc-407e-91ee-3d85760b85d5",
+        "key": "Participant 10 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2010%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2010%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2010%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2010%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2010%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2010%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 136579,
+        "storage_class": "L"
+      },
+      "Participant 11 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6d0b25b603052088054a3064c9071fce",
+        "ext": "pdf",
+        "id": "e652bb42-a68f-4ce7-9b9c-4d2acc1e3808",
+        "key": "Participant 11 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2011%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2011%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2011%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2011%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2011%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2011%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 228140,
+        "storage_class": "L"
+      },
+      "Participant 12 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c6686db2db94b6976eec97d20e4905e9",
+        "ext": "pdf",
+        "id": "d2de02da-5548-47ee-a6df-ca86a5b3b149",
+        "key": "Participant 12 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2012%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2012%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2012%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2012%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2012%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2012%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 159050,
+        "storage_class": "L"
+      },
+      "Participant 13 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:495f3e07f8d381d698d3402efc847d77",
+        "ext": "pdf",
+        "id": "784a7128-6010-4ac1-a821-64b8dffc7e32",
+        "key": "Participant 13 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2013%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2013%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2013%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2013%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2013%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2013%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 125445,
+        "storage_class": "L"
+      },
+      "Participant 14 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ac9c4a55e73999bf3c56b2cf21a774c2",
+        "ext": "pdf",
+        "id": "79663668-3282-4313-b275-f1198ce0426f",
+        "key": "Participant 14 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2014%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2014%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2014%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2014%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2014%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2014%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 104714,
+        "storage_class": "L"
+      },
+      "Participant 15 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f6669ca6f179b9266ea851aefd4f0b15",
+        "ext": "pdf",
+        "id": "fdf896c6-698c-435f-9b9c-cfb3fdcbced5",
+        "key": "Participant 15 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2015%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2015%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2015%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2015%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2015%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2015%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 149753,
+        "storage_class": "L"
+      },
+      "Participant 16 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6704894937dcae490f5ec16608c1c721",
+        "ext": "pdf",
+        "id": "ee3586e5-f8fe-489b-b511-ab20bd8c283d",
+        "key": "Participant 16 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2016%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2016%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2016%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2016%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2016%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2016%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 177812,
+        "storage_class": "L"
+      },
+      "Participant 17 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2ca2ce2cfec66fe8831f0622c98aab96",
+        "ext": "pdf",
+        "id": "48be1ba0-9c7e-40f9-8915-f2c8b0a8622e",
+        "key": "Participant 17 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2017%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2017%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2017%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2017%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2017%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2017%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 129081,
+        "storage_class": "L"
+      },
+      "Participant 18 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6f556a002c69efb35e7c45a2dfe9ce45",
+        "ext": "pdf",
+        "id": "d0e14d31-35c7-4ed5-bb64-2bbf253226c1",
+        "key": "Participant 18 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2018%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2018%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2018%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2018%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2018%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2018%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 87431,
+        "storage_class": "L"
+      },
+      "Participant 19 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c26c8aefeaa09fa71e185132dc6ca082",
+        "ext": "pdf",
+        "id": "c59244c7-6e16-4fa7-9d81-4088a0149b5a",
+        "key": "Participant 19 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2019%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2019%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2019%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2019%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2019%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2019%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 122586,
+        "storage_class": "L"
+      },
+      "Participant 2 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1c9c51552a0ad757e4984cd1917ec151",
+        "ext": "pdf",
+        "id": "f2760f63-d1b3-4ce6-8969-da8b97cfef31",
+        "key": "Participant 2 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%202%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%202%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%202%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%202%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%202%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%202%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 162457,
+        "storage_class": "L"
+      },
+      "Participant 20 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:63e5d47fa1630d4c41194198845b52b4",
+        "ext": "pdf",
+        "id": "17d451d9-a8b3-4e83-a2ae-f58ee1d2d40e",
+        "key": "Participant 20 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2020%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2020%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2020%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2020%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2020%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2020%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 155428,
+        "storage_class": "L"
+      },
+      "Participant 21 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fa6a4a73e3e05455edc9879d4f22015e",
+        "ext": "pdf",
+        "id": "6def590f-bd62-4e9f-b677-999fd2ed371d",
+        "key": "Participant 21 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2021%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2021%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2021%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2021%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2021%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2021%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 146491,
+        "storage_class": "L"
+      },
+      "Participant 22 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:21cb52718eb34164a9ed3331e867cee8",
+        "ext": "pdf",
+        "id": "44fabc8a-4022-41f3-81bd-caab86b6323d",
+        "key": "Participant 22 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2022%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2022%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2022%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2022%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2022%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2022%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 121957,
+        "storage_class": "L"
+      },
+      "Participant 23 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:06bdfe5782fa01869d45be02afe8b1e1",
+        "ext": "pdf",
+        "id": "0ce2ab53-9059-4fd0-95a5-fd6957e9695e",
+        "key": "Participant 23 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2023%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2023%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2023%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2023%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2023%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2023%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 160899,
+        "storage_class": "L"
+      },
+      "Participant 24 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:80c09c66fc08c887f02956083f00fa1f",
+        "ext": "pdf",
+        "id": "b3f36fc9-0af1-404d-868e-c298dcfe80ff",
+        "key": "Participant 24 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2024%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2024%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2024%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2024%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2024%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2024%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 109482,
+        "storage_class": "L"
+      },
+      "Participant 25 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e34c9e9911163377c6e2660ca330d6d5",
+        "ext": "pdf",
+        "id": "902d10f0-fb33-4f07-8572-c0a0ee784726",
+        "key": "Participant 25 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2025%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2025%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2025%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2025%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2025%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2025%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 158662,
+        "storage_class": "L"
+      },
+      "Participant 26 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4a75a3e9658ffb01c653996ddcc4fe35",
+        "ext": "pdf",
+        "id": "60918e2e-2039-4fd4-9f72-946e3265bf78",
+        "key": "Participant 26 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2026%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2026%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2026%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2026%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2026%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2026%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 129525,
+        "storage_class": "L"
+      },
+      "Participant 27 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dca39f9ea0bff02b0f5835a50b63c9f7",
+        "ext": "pdf",
+        "id": "cc293973-3ee6-47bf-a7f8-62506a0265e4",
+        "key": "Participant 27 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2027%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2027%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2027%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2027%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2027%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2027%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 105190,
+        "storage_class": "L"
+      },
+      "Participant 28 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f5680083d2cbb52d4e7d91885b1adab6",
+        "ext": "pdf",
+        "id": "8e21807f-0845-491f-b73e-f5f141c02a87",
+        "key": "Participant 28 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2028%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2028%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2028%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2028%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2028%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2028%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 129345,
+        "storage_class": "L"
+      },
+      "Participant 29 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b286d29560df3cb9408b1ba196a69833",
+        "ext": "pdf",
+        "id": "8ef80767-7524-4c80-a86f-45979a39a7aa",
+        "key": "Participant 29 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2029%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2029%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2029%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2029%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2029%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2029%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 137828,
+        "storage_class": "L"
+      },
+      "Participant 3 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f857ebe20f16fcc3082f88a5f76c3c53",
+        "ext": "pdf",
+        "id": "c5877b61-54b7-482d-9f0b-af735e6edd7d",
+        "key": "Participant 3 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%203%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%203%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%203%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%203%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%203%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%203%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 131966,
+        "storage_class": "L"
+      },
+      "Participant 30 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9e5df2f838e15119d3005480af6e7339",
+        "ext": "pdf",
+        "id": "ae4e06f8-4e09-4707-a9d4-46be3c773548",
+        "key": "Participant 30 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2030%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2030%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2030%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2030%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2030%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2030%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 177443,
+        "storage_class": "L"
+      },
+      "Participant 31 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9f6f72391ae17432e8d229b8183a13e8",
+        "ext": "pdf",
+        "id": "eb816aa2-7e6a-48d4-8a1e-1fb1e7941e23",
+        "key": "Participant 31 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2031%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2031%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2031%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2031%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2031%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2031%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 156364,
+        "storage_class": "L"
+      },
+      "Participant 32 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:17b0c3d64c1eb748fab446686c553ae1",
+        "ext": "pdf",
+        "id": "31cfa485-c315-426b-a723-26073d607dd8",
+        "key": "Participant 32 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2032%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2032%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2032%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2032%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2032%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2032%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 207051,
+        "storage_class": "L"
+      },
+      "Participant 33 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:85ee6c31c9015a0b462ed22749f4eaaa",
+        "ext": "pdf",
+        "id": "a458d89f-5bf0-4a91-8e42-ae4c9f872130",
+        "key": "Participant 33 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2033%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2033%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2033%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2033%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2033%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2033%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 166298,
+        "storage_class": "L"
+      },
+      "Participant 34 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2236513328f0bdf051722e3f2d07935e",
+        "ext": "pdf",
+        "id": "735bd6bb-77df-443e-bdac-22ff6cac2120",
+        "key": "Participant 34 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2034%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2034%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2034%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2034%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2034%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2034%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 155674,
+        "storage_class": "L"
+      },
+      "Participant 35 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ad3346a2283d30e18a859568b1aae485",
+        "ext": "pdf",
+        "id": "26e93860-54f9-4609-a951-f77ff3544711",
+        "key": "Participant 35 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2035%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2035%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2035%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2035%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2035%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2035%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 164629,
+        "storage_class": "L"
+      },
+      "Participant 36 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:87d986c71bd0672dbb5d6cc837f5a2d5",
+        "ext": "pdf",
+        "id": "dcbc196c-35bc-433d-8a55-9833721d9b8a",
+        "key": "Participant 36 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2036%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2036%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2036%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2036%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2036%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2036%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 138706,
+        "storage_class": "L"
+      },
+      "Participant 37 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5e16d830d3a6721be2fe2bc77a49f631",
+        "ext": "pdf",
+        "id": "71a3fd4c-cce5-492b-b9ee-641297c65716",
+        "key": "Participant 37 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2037%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2037%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2037%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2037%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2037%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2037%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 182090,
+        "storage_class": "L"
+      },
+      "Participant 38 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c755545db7a4c47364a950efe2215172",
+        "ext": "pdf",
+        "id": "34d8e9cb-f08c-441f-9631-792b71b5df12",
+        "key": "Participant 38 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2038%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2038%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2038%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2038%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2038%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2038%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 135455,
+        "storage_class": "L"
+      },
+      "Participant 39 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:891ffbd2cc010e12221846d57c22fdb0",
+        "ext": "pdf",
+        "id": "542272e5-481c-4cbb-b403-181c79d54099",
+        "key": "Participant 39 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2039%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%2039%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%2039%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%2039%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%2039%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2039%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 85558,
+        "storage_class": "L"
+      },
+      "Participant 4 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ce5b38d125a9e40d83e6a89245252423",
+        "ext": "pdf",
+        "id": "90801ead-fb58-4f4b-87a1-c942203eba1b",
+        "key": "Participant 4 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%204%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%204%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%204%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%204%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%204%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%204%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 152935,
+        "storage_class": "L"
+      },
+      "Participant 5 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:50d613c540c4647a9e3ee2806d46890a",
+        "ext": "pdf",
+        "id": "9f62db1a-39b4-4b9f-b924-7a2debfbea7c",
+        "key": "Participant 5 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%205%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%205%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%205%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%205%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%205%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%205%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 147573,
+        "storage_class": "L"
+      },
+      "Participant 6 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:892189307aaba0b8c1cae715d03c5580",
+        "ext": "pdf",
+        "id": "47c83263-3b22-4d46-ab0c-fa4dcdd23e41",
+        "key": "Participant 6 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%206%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%206%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%206%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%206%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%206%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%206%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 164142,
+        "storage_class": "L"
+      },
+      "Participant 7 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:29eb91683f4f7a92a1f56870aeb89086",
+        "ext": "pdf",
+        "id": "c6d75cf5-c4ff-4713-adf9-2bd2c21ebd45",
+        "key": "Participant 7 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%207%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%207%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%207%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%207%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%207%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%207%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 118477,
+        "storage_class": "L"
+      },
+      "Participant 8 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9c6d0241f1227ba3a1198449d45805c5",
+        "ext": "pdf",
+        "id": "4a413f01-936a-464b-b93d-20b9f9556106",
+        "key": "Participant 8 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%208%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%208%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%208%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%208%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%208%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%208%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 111378,
+        "storage_class": "L"
+      },
+      "Participant 9 - Interview_A.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7b45217f134cbd502ea9c1146b4eeb82",
+        "ext": "pdf",
+        "id": "1a49627c-665a-4aaf-a7ad-61a656ec9d02",
+        "key": "Participant 9 - Interview_A.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%209%20-%20Interview_A.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:6624064:Participant%209%20-%20Interview_A.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:6624064:Participant%209%20-%20Interview_A.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:6624064/canvas/Participant%209%20-%20Interview_A.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:6624064:Participant%209%20-%20Interview_A.pdf/info.json",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%209%20-%20Interview_A.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 169439,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 6503546
+  },
+  "id": "6624064",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/6624064/access",
+    "access_grants": "https://zenodo.org/api/records/6624064/access/grants",
+    "access_links": "https://zenodo.org/api/records/6624064/access/links",
+    "access_request": "https://zenodo.org/api/records/6624064/access/request",
+    "access_users": "https://zenodo.org/api/records/6624064/access/users",
+    "archive": "https://zenodo.org/api/records/6624064/files-archive",
+    "archive_media": "https://zenodo.org/api/records/6624064/media-files-archive",
+    "communities": "https://zenodo.org/api/records/6624064/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/6624064/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.6624064",
+    "draft": "https://zenodo.org/api/records/6624064/draft",
+    "files": "https://zenodo.org/api/records/6624064/files",
+    "latest": "https://zenodo.org/api/records/6624064/versions/latest",
+    "latest_html": "https://zenodo.org/records/6624064/latest",
+    "media_files": "https://zenodo.org/api/records/6624064/media-files",
+    "parent": "https://zenodo.org/api/records/6624063",
+    "parent_doi": "https://doi.org/10.5281/zenodo.6624063",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6624063",
+    "parent_html": "https://zenodo.org/records/6624063",
+    "preview_html": "https://zenodo.org/records/6624064?preview=1",
+    "requests": "https://zenodo.org/api/records/6624064/requests",
+    "reserve_doi": "https://zenodo.org/api/records/6624064/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/6624064",
+    "self_doi": "https://doi.org/10.5281/zenodo.6624064",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6624064",
+    "self_html": "https://zenodo.org/records/6624064",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6624064/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6624064/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:6624064:Focus%20Group%20Slides.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/6624064/versions"
+  },
+  "media_files": {
+    "count": 42,
+    "enabled": true,
+    "entries": {
+      "Focus Group 1 - Interview A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "b0047f34-aefa-42cb-a96d-b0935c78af0c",
+        "key": "Focus Group 1 - Interview A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Focus%20Group%201%20-%20Interview%20A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Focus%20Group%201%20-%20Interview%20A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "544efdd9-b9c3-493e-b0b3-0dc2221f1a67",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Focus Group 2 - Interview A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e82299a5-a75d-4ecb-9f49-fd03975f94f9",
+        "key": "Focus Group 2 - Interview A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Focus%20Group%202%20-%20Interview%20A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Focus%20Group%202%20-%20Interview%20A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "251bda43-10c5-48df-8458-ae5950f9fadd",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Focus Group Slides.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f87951ad-7ec1-4067-872b-b2ff0acfd676",
+        "key": "Focus Group Slides.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Focus%20Group%20Slides.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Focus%20Group%20Slides.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "afc8fdfb-9e6f-45c2-a8d3-8c8c8ab0ba87",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 1 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2340c7ff-8f30-4218-87c7-2a303d41498f",
+        "key": "Participant 1 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%201%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%201%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "fe629ff1-2e00-4fb8-97b6-efb5ad8ef11f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 10 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6cd1f43b-8913-4b2d-a9af-74fcde4c7968",
+        "key": "Participant 10 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2010%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2010%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "5fafb1ea-dadc-407e-91ee-3d85760b85d5",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 11 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4dd63bfb-35cc-4b97-874b-65bb4cff655d",
+        "key": "Participant 11 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2011%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2011%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e652bb42-a68f-4ce7-9b9c-4d2acc1e3808",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 12 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a8ae3ff2-0aa5-488d-b728-d0d9b5acc53b",
+        "key": "Participant 12 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2012%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2012%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d2de02da-5548-47ee-a6df-ca86a5b3b149",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 13 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "72ed9843-220a-4ae2-b319-4bd036d0f21c",
+        "key": "Participant 13 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2013%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2013%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "784a7128-6010-4ac1-a821-64b8dffc7e32",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 14 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "30912cd9-171c-4fcf-b022-bf72d6e0a9c1",
+        "key": "Participant 14 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2014%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2014%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "79663668-3282-4313-b275-f1198ce0426f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 15 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "992d0569-68ae-4150-a912-28e5e5e89f27",
+        "key": "Participant 15 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2015%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2015%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "fdf896c6-698c-435f-9b9c-cfb3fdcbced5",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 16 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "592a655e-d6fd-4e01-9936-d173d77f75f9",
+        "key": "Participant 16 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2016%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2016%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ee3586e5-f8fe-489b-b511-ab20bd8c283d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 17 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4036dcd9-e7f9-4a4c-931e-3ae49349183f",
+        "key": "Participant 17 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2017%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2017%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "48be1ba0-9c7e-40f9-8915-f2c8b0a8622e",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 18 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "9e49150c-0bc6-48ff-902c-77946032d3c5",
+        "key": "Participant 18 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2018%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2018%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d0e14d31-35c7-4ed5-bb64-2bbf253226c1",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 19 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "9337bcb0-34b4-40fc-a300-5a6c0fecd777",
+        "key": "Participant 19 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2019%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2019%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c59244c7-6e16-4fa7-9d81-4088a0149b5a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 2 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "809e4978-6f5e-4c0f-b288-ee3eb2ab7c6a",
+        "key": "Participant 2 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%202%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%202%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f2760f63-d1b3-4ce6-8969-da8b97cfef31",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 20 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "3d01f808-36fe-4f9d-8914-eebf375035b1",
+        "key": "Participant 20 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2020%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2020%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "17d451d9-a8b3-4e83-a2ae-f58ee1d2d40e",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 21 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "aebc60d6-8285-408a-9b4c-b5081e91aaaf",
+        "key": "Participant 21 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2021%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2021%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "6def590f-bd62-4e9f-b677-999fd2ed371d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 22 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e360404f-22ce-4023-b75e-cb74e736bb05",
+        "key": "Participant 22 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2022%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2022%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "44fabc8a-4022-41f3-81bd-caab86b6323d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 23 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "d14ad7d6-92ee-442b-b201-4484ca624b27",
+        "key": "Participant 23 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2023%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2023%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "0ce2ab53-9059-4fd0-95a5-fd6957e9695e",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 24 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "deea11fd-922f-4deb-aeac-b3ef900ec64e",
+        "key": "Participant 24 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2024%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2024%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "b3f36fc9-0af1-404d-868e-c298dcfe80ff",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 25 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4be66106-e137-4129-a3d0-5e2c849ff64f",
+        "key": "Participant 25 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2025%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2025%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "902d10f0-fb33-4f07-8572-c0a0ee784726",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 26 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "cd0f5b58-1abe-4bb9-b510-92cbb4adcbb9",
+        "key": "Participant 26 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2026%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2026%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "60918e2e-2039-4fd4-9f72-946e3265bf78",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 27 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "40ff7571-2a5f-4a8b-abb1-26fe9e5909bb",
+        "key": "Participant 27 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2027%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2027%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "cc293973-3ee6-47bf-a7f8-62506a0265e4",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 28 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "64aa8d2b-43b3-4426-aae9-c65e74a82c4c",
+        "key": "Participant 28 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2028%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2028%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "8e21807f-0845-491f-b73e-f5f141c02a87",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 29 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "fa587340-79a9-493e-9a05-6e2a1c8166f7",
+        "key": "Participant 29 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2029%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2029%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "8ef80767-7524-4c80-a86f-45979a39a7aa",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 3 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4f1a2bd6-2b13-44ca-a8b3-c234b993de23",
+        "key": "Participant 3 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%203%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%203%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c5877b61-54b7-482d-9f0b-af735e6edd7d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 30 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "856725ed-04b2-4659-a8d8-a49890c6b891",
+        "key": "Participant 30 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2030%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2030%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ae4e06f8-4e09-4707-a9d4-46be3c773548",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 31 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "b5f7bf41-fe51-4725-973e-5934837db325",
+        "key": "Participant 31 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2031%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2031%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "eb816aa2-7e6a-48d4-8a1e-1fb1e7941e23",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 32 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2c560891-1ea2-4aed-b28a-fa340002312b",
+        "key": "Participant 32 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2032%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2032%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "31cfa485-c315-426b-a723-26073d607dd8",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 33 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f6332946-9ca2-4735-a69d-1bf9ac13b92b",
+        "key": "Participant 33 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2033%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2033%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "a458d89f-5bf0-4a91-8e42-ae4c9f872130",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 34 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6c604a5b-5a23-4585-9d4f-70d1bc611305",
+        "key": "Participant 34 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2034%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2034%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "735bd6bb-77df-443e-bdac-22ff6cac2120",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 35 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "20c71092-8930-4914-aa78-c74096024454",
+        "key": "Participant 35 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2035%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2035%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "26e93860-54f9-4609-a951-f77ff3544711",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 36 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "94e01e35-a8bd-4a2d-9b1f-b22021eefd88",
+        "key": "Participant 36 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2036%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2036%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "dcbc196c-35bc-433d-8a55-9833721d9b8a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 37 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "255b9aa5-fea2-4f40-b8b3-2ce2604e65b6",
+        "key": "Participant 37 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2037%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2037%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "71a3fd4c-cce5-492b-b9ee-641297c65716",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 38 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "796c1903-c756-4f47-8f0a-11f1c3339016",
+        "key": "Participant 38 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2038%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2038%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "34d8e9cb-f08c-441f-9631-792b71b5df12",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 39 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a1f1134a-3251-4fff-bec3-7d694cb46e4c",
+        "key": "Participant 39 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%2039%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%2039%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "542272e5-481c-4cbb-b403-181c79d54099",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 4 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1bbf3a5f-a3bf-4938-a1c4-ab6ed82ba09e",
+        "key": "Participant 4 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%204%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%204%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "90801ead-fb58-4f4b-87a1-c942203eba1b",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 5 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8be2c662-7dab-4186-ac58-23f267d02b1b",
+        "key": "Participant 5 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%205%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%205%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "9f62db1a-39b4-4b9f-b924-7a2debfbea7c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 6 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "427529fd-a08b-4f57-9e55-0018c8795c7d",
+        "key": "Participant 6 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%206%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%206%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "47c83263-3b22-4d46-ab0c-fa4dcdd23e41",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 7 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a70443dc-c54b-453e-9bfe-0488e717464e",
+        "key": "Participant 7 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%207%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%207%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c6d75cf5-c4ff-4713-adf9-2bd2c21ebd45",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 8 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a26c00e2-6200-42b5-9233-06e5b7084bc7",
+        "key": "Participant 8 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%208%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%208%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "4a413f01-936a-464b-b93d-20b9f9556106",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Participant 9 - Interview_A.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8031c4d7-32f2-4137-b107-c2709d420453",
+        "key": "Participant 9 - Interview_A.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/6624064/files/Participant%209%20-%20Interview_A.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/6624064/files/Participant%209%20-%20Interview_A.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1a49627c-665a-4aaf-a7ad-61a656ec9d02",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Aalborg University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Alami",
+          "given_name": "Adam",
+          "name": "Alami, Adam",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>39 interviews with Scrum practitioners on the topic of how Scrum as a method contribute to achieving software quality. Data analysis documentation also available with the dataset. Two validation focus groups transcript also available with the data.</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2022-06-08",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Scrum, Software quality, Agile, Qualitative data"
+      }
+    ],
+    "title": "How Scrum Adds Value to Achieving Software Quality?"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "347706"
+      }
+    },
+    "communities": {
+      "default": "bf9878bc-9048-4ff7-8033-6a6c36466dad",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "open",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2015-04-09T17:36:48+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "bf9878bc-9048-4ff7-8033-6a6c36466dad",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>Sanity check</p>",
+            "description": "Data, code and papers about empirical knowledge in software engineering.",
+            "title": "Empirical Software Engineering"
+          },
+          "revision_id": 2,
+          "slug": "empirical-software-engineering",
+          "updated": "2024-07-16T12:47:51.639477+00:00"
+        }
+      ],
+      "ids": [
+        "bf9878bc-9048-4ff7-8033-6a6c36466dad"
+      ]
+    },
+    "id": "6624063",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.6624063",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.6624064",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:6624064",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 13,
+  "stats": {
+    "all_versions": {
+      "data_volume": 314045717.0,
+      "downloads": 2167,
+      "unique_downloads": 2006,
+      "unique_views": 522,
+      "views": 548
+    },
+    "this_version": {
+      "data_volume": 313907011.0,
+      "downloads": 2166,
+      "unique_downloads": 2005,
+      "unique_views": 522,
+      "views": 548
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2024-07-16T15:36:45.223068+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}

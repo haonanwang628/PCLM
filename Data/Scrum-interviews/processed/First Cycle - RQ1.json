@@ -1,0 +1,691 @@
+[
+  {
+    "participant": "Participant 1",
+    "data_chunk": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+    "code": [
+      "Software quality",
+      "Process quality"
+    ]
+  },
+  {
+    "participant": "Participant 1",
+    "data_chunk": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "code": [
+      "Quality assurance",
+      "Practicing quality assurance"
+    ]
+  },
+  {
+    "participant": "Participant 1",
+    "data_chunk": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+    "code": [
+      "Conformity to business needs",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 1",
+    "data_chunk": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "code": [
+      "Quality is a subjective concept"
+    ]
+  },
+  {
+    "participant": "Participant 1",
+    "data_chunk": "\"I’d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn’t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "code": [
+      "Internal quality",
+      "Maintainability",
+      "Understandable Code",
+      "Reusability of code"
+    ]
+  },
+  {
+    "participant": "Participant 1",
+    "data_chunk": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That’s the process.\"",
+    "code": [
+      "Continuous improvements",
+      "Reflecting on the Scrum process",
+      "Become better",
+      "Developing Software",
+      "Software quality"
+    ]
+  },
+  {
+    "participant": "Participant 10",
+    "data_chunk": "\"It is difficult to define and measure. That’s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer’s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "code": [
+      "Free of defects",
+      "Conformity to business needs",
+      "Sustainable design"
+    ]
+  },
+  {
+    "participant": "Participant 11",
+    "data_chunk": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+    "code": [
+      "Internal quality",
+      "Free of defects",
+      "Meets the end user requirements",
+      "External qualiy"
+    ]
+  },
+  {
+    "participant": "Participant 12",
+    "data_chunk": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "code": [
+      "Internal quality"
+    ]
+  },
+  {
+    "participant": "Participant 12",
+    "data_chunk": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+    "code": [
+      "Scrum",
+      "Continuous improvements"
+    ]
+  },
+  {
+    "participant": "Participant 12",
+    "data_chunk": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "code": [
+      "Clean code",
+      "Sustainable design"
+    ]
+  },
+  {
+    "participant": "Participant 12",
+    "data_chunk": "\"We don’t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "code": [
+      "Software quality",
+      "Quality assurance",
+      "Practicing",
+      "Peer review",
+      "Guidelines",
+      "Check lists"
+    ]
+  },
+  {
+    "participant": "Participant 12",
+    "data_chunk": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+    "code": [
+      "Conformity to business requirements",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 13",
+    "data_chunk": "\"000'''\"",
+    "code": [
+      "Software quality"
+    ]
+  },
+  {
+    "participant": "Participant 13",
+    "data_chunk": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "code": [
+      "Meet business needs",
+      "No defects",
+      "Scrum",
+      "Continuous improvements"
+    ]
+  },
+  {
+    "participant": "Participant 14",
+    "data_chunk": "\"We need the whole hour just for this question! But, let’s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "code": [
+      "Meets business needs",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 15",
+    "data_chunk": "\"Very subjective and it depends on who you ask. The quality of software can be defined as the ability of the software to function as per user requirements and of course no defects. We usually focus on this aspect of quality. But there are other aspects we always aim to achieve. Like good design and clean code. Clean code is easy to read, understand and easy to change.\"",
+    "code": [
+      "Conformity to business needs",
+      "No defects",
+      "Good design",
+      "Clean code"
+    ]
+  },
+  {
+    "participant": "Participant 16",
+    "data_chunk": "\"Quality can be defined in many ways. The definition may differ from person to person. But, there should be some standards. So quality for me is a product meets customer requirements and free of defects.\"",
+    "code": [
+      "Conformity to business needs",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 17",
+    "data_chunk": "\"I’m glad this is not an exam question! But to narrow it down, I see quality taking place in three levels: product, software code and the development process. I’ll explain. The product quality is a functioning product free of defects and conforms with the business needs. Software code quality particularly in agile means clean code and a design that caters for future changes. In agile, we believe in responding to change over following a plan. It is important that we deliver a software that doesn’t break each time the business wants a change. The process is important. Chaos doesn’t deliver software, but a committed team and a strong process does. Agile believes in continuous learning and improvement. The software process becomes more robust when we learn from our mistakes and improve.\"",
+    "code": [
+      "Conformity to business needs",
+      "Free of defects",
+      "Clean code",
+      "Sustainable design"
+    ]
+  },
+  {
+    "participant": "Participant 18",
+    "data_chunk": "\"Agile advocates for quality but it doesn’t necessarily define it. My understanding is that quality in agile means clean code and sustainable design. Clean code is subjective, but we know at least it should be simple, readable and maintainable. We know a clean code when we see it! In agile, we also keen in creating software design that is sustainable; we can easily change it in the future to accommodate new requirements.\"",
+    "code": [
+      "Clean code",
+      "Readable code",
+      "Maintainable code",
+      "Sustainable design"
+    ]
+  },
+  {
+    "participant": "Participant 19",
+    "data_chunk": "\"Very broad topic, but I’ll keep it simple. Software quality means first and foremost no bugs. The business doesn’t like buggy software. The software should add value to the business, this usually means addressing the needs of the business. This is my perspective as a QA. A software developer may tell you software quality is more code quality and good design. That’s is also important and fundamental.\"",
+    "code": [
+      "No bugs",
+      "Conformity to business needs"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "\"But a straight forward answer would be quality has three aspects: product quality, internal quality and the process by which we deliver the software.\"",
+    "code": [
+      "Product quality",
+      "Internal quality",
+      "Scrum"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "\"In agile, we believe that the process is a continuous improvement job. From my experience, organizations do not get the process right from the first go. I think the best process is a robust process that is the product of continuous reflections, learning and adaptation.\"",
+    "code": [
+      "Continuous improvement",
+      "Scrum",
+      "Continuous reflections",
+      "Learning",
+      "Adaptation"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "\"Internal quality has to do with the way that the software has been constructed or built. It has much more concrete attributes like clean code, simplicity, component reuse and flexible design.\"",
+    "code": [
+      "Internal quality",
+      "Clean code",
+      "Simplicity",
+      "Flexible design"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "\"It can be assured through predefined standards, linting tools, unit tests etc. \"",
+    "code": [
+      "Quality assurance",
+      "Software quality standards",
+      "Linting tools",
+      "Unit testing"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "\"It is at the same time complex and subjective concept.\"",
+    "code": [
+      "Software quality is a complex concept",
+      "Software quality is a subjective concept"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "\"Yes. Good question. The process is the software development method and its principles and guidelines we use to deliver the software. If you don’t have a good process then the software quality will suffer. The more you work in the process and continuously improve it the better we become at achieving quality.\"",
+    "code": [
+      "Scrum",
+      "Continuous improvement",
+      "Achieving software quality"
+    ]
+  },
+  {
+    "participant": "Participant 2",
+    "data_chunk": "Product quality can be simply defined as being defects free and add a business value or at least meets the user needs.",
+    "code": [
+      "Product quality",
+      "Defects free",
+      "Add a business value",
+      "Meet business needs"
+    ]
+  },
+  {
+    "participant": "Participant 20",
+    "data_chunk": "\"For me, Agile is brings two perspective to quality, the process quality and the structural quality which is the code and the design. Before agile we were mainly concerned by findings bugs. The agile mindset is having improving the process for continuous delivery of valuable software. Agile calls for delivering a working software frequently. This doesn’t happen without a clean code and a sustainable design. Continuous delivery needs a quality process. Agile believes that a process becomes efficient by continuously reflecting on it, tune it and adjust it.\"",
+    "code": [
+      "Structural quality",
+      "Clean code",
+      "Sustainable design",
+      "Continuous improvements"
+    ]
+  },
+  {
+    "participant": "Participant 20",
+    "data_chunk": "\"From my experience, the more we work on improving the Scrum implementation and tune it to our particularities, the better is the software quality and the efficiency of the team.\"",
+    "code": [
+      "Scrum",
+      "Software quality"
+    ]
+  },
+  {
+    "participant": "Participant 21",
+    "data_chunk": "\"As a QA, I would say free of bugs first. Then, meets the business needs. But this is not all, right! Quality is also structural or internal. Developers aim for good code and design. It’s fundamental to agility because we like to deliver software more frequent. Saying that, if you don’t have a good process you not going to deliver at all.\"",
+    "code": [
+      "Meets the business needs",
+      "Free of bugs",
+      "Internal quality",
+      "Good code",
+      "Good design"
+    ]
+  },
+  {
+    "participant": "Participant 22",
+    "data_chunk": "\"Oh! There are hundreds of books and standards written on this topic. But to be honest with you in reality, we don’t know it until we see it and agree this is the quality we want. To narrow it down and for the sake of this conversation, I think software quality is internal and external without ignoring the importance of the process that takes place to produce the software. External means no bugs and adding value to the business. Internal is the quality of the code and the design.\"",
+    "code": [
+      "Internal quality",
+      "External quality",
+      "No bugs",
+      "Adding value to the business",
+      "Quality of the code",
+      "Quality of the design"
+    ]
+  },
+  {
+    "participant": "Participant 23",
+    "data_chunk": "\"You will get different answer from different people that for sure. For example, we QAs focus on finding bugs. For us software quality is free of bugs and meets the requirements. For developers, it’s code quality and design. But as a team, we collectively thrive to improve our process to deliver quality software.\"",
+    "code": [
+      "Meets the requirements",
+      "Free of bugs"
+    ]
+  },
+  {
+    "participant": "Participant 24",
+    "data_chunk": "\"From my experience, the best way to achieve process quality it continuous improvement. In agile, we have ongoing reviews and retros to evaluate our process. We learn and improve all the time. If you ask a developer. He may tell you the code quality first. But, if you don’t have a good process and practices in place like guidelines, peer reviews and definition of done then from my experience developers do not produce good code. But quality is a team objective; it’s the people who create quality.\"",
+    "code": [
+      "Continuous improvement"
+    ]
+  },
+  {
+    "participant": "Participant 24",
+    "data_chunk": "\"They go together. The better your Scrum implementation the better is the quality of your software.\"",
+    "code": [
+      "Scrum",
+      "Software quality"
+    ]
+  },
+  {
+    "participant": "Participant 24",
+    "data_chunk": "\"You will get different answers depending who you ask. I’m a Test Lead. My perspective is the outcome and the process. Our role in the software team is to ensure the software is free of bugs and meets the customer satisfaction and needs.\"",
+    "code": [
+      "Free of bugs",
+      "Conformity to business needs"
+    ]
+  },
+  {
+    "participant": "Participant 25",
+    "data_chunk": "\"I guess to avoid a lengthy discussion in this topic, I’ll be brief.  From the QA perspective. I’m a Test Lead, so my team focus on finding bugs and a product that meets our users needs. This is what we consider software quality. But this is a narrow view of quality. So developers have additional criterion for quality. So, they aim for quality code and flexible design. Because in agile we deliver frequently. We get new requirements all the time and the design should cater for that otherwise we not adding value. This is a brief definition. But this topic is broad and we can discuss for hours!\"",
+    "code": [
+      "No bugs",
+      "Meets business needs"
+    ]
+  },
+  {
+    "participant": "Participant 26",
+    "data_chunk": "\"Well, there is the end result and the process to achieve it. The end result is the product or the software for us. The minimum is that it should meet the requirements and ideally less defects or no defects. That’s external quality. Agile is keen also on internal quality because we believe in responding to change. So, we like to have good code quality and a sustainable design to cater for future changes. Process quality is improving our software development activities and practices and the way we work. Software quality doesn’t happen without a robust and quality process.\"",
+    "code": [
+      "Software quality",
+      "Meet the requirements",
+      "No defects",
+      "Internal quality",
+      "Code quality",
+      "Sustainable design",
+      "Continuous improvements"
+    ]
+  },
+  {
+    "participant": "Participant 26",
+    "data_chunk": "\"Yes. The Scrum method and how we use it.\"",
+    "code": [
+      "Scrum"
+    ]
+  },
+  {
+    "participant": "Participant 27",
+    "data_chunk": "\"The word quality can be defined in many different ways. Most of the time the word is used to describe product quality, which often depends on criteria such as user satisfaction, functionality, and free of defects. However, Agile Software Development takes the definition in another light. When speaking of software quality, it takes into account not only the delivery of the functional requirements. It has to insure that the source code fits within the software architecture at the unit level as well as the system level. This means that the developers have to produce code that is clean and an architecture that accommodate future needs. We also need a process that assures quality. Quality is required not only in the product, but also in processes. Agile is keen in improving the process. We believe is fundamental to achieving quality.\"",
+    "code": [
+      "Software quality",
+      "User satisfaction",
+      "Free of defects",
+      "Clean code",
+      "Sustainable design",
+      "Continuous improvements"
+    ]
+  },
+  {
+    "participant": "Participant 27",
+    "data_chunk": "\"… So, with a Scrum environment or with the Agile environment, I keep referencing Scrum if that's okay.\"",
+    "code": [
+      "Scrum"
+    ]
+  },
+  {
+    "participant": "Participant 28",
+    "data_chunk": "\"For me as a software developer, quality mean good and working software. This implies quality code and scalable design. The design should be flexible and easy to change. I aim for well written code, easy to read and maintain. We have guidelines in place. We also use linting tools and code review to assure code quality. But quality also mean the product meets the business needs and ideally free of defects.\"",
+    "code": [
+      "Scalable design",
+      "Code readability",
+      "Code maintainability",
+      "Code quality",
+      "Linting tools",
+      "Code review",
+      "Code guidelines",
+      "Quality assurance",
+      "Practicing",
+      "Meets the business needs",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 29",
+    "data_chunk": "\"I’ll start with no defects and fit for purpose, these are standards requirements for quality. But a messy code can have no defects. We focus on code quality or clean code. We assure it by code review and having guidelines and standards. The design is another aspect of quality. It has to be flexible to accommodate future change with minimum impact on the overall design.\"",
+    "code": [
+      "No defects",
+      "Fit for purpose",
+      "Clean code",
+      "Quality assurnace",
+      "Code review",
+      "Guidelines",
+      "Flexible design",
+      "Assuring"
+    ]
+  },
+  {
+    "participant": "Participant 3",
+    "data_chunk": "\"An attempt to define it would be three attributes: code quality, external quality and of course the process quality.\"",
+    "code": [
+      "Code quality",
+      "External quaity",
+      "Process quality"
+    ]
+  },
+  {
+    "participant": "Participant 3",
+    "data_chunk": "\"Good question! From my experience, software quality is subjective, but we always know it when we see it.\"",
+    "code": [
+      "Software quality is subjective"
+    ]
+  },
+  {
+    "participant": "Participant 3",
+    "data_chunk": "\"I think external quality is a product free of defects and It's the ability to fulfil and meet the requirements of the end user.\"",
+    "code": [
+      "External quality",
+      "Meet the requirements of the end user"
+    ]
+  },
+  {
+    "participant": "Participant 3",
+    "data_chunk": "\"Obviously, these two attributes do not happen without a robust software development process. Agile is keen in continuous experimentation, learning and improvements. The process is always subject to improvements.\"\n\n\"Yes, that’s a good word. Correct, the process enables better software quality.\"",
+    "code": [
+      "Scrum",
+      "Continuous experimentation",
+      "Continuous learning",
+      "Continuous improvements"
+    ]
+  },
+  {
+    "participant": "Participant 3",
+    "data_chunk": "Code quality is difficult to define, but in my experience it can be enforced by having standards and guidelines in place plus a peer-review process for code. The opinion of 2 or 3 reviewers on the quality of the code is always better than the single judgement of the author of the code.",
+    "code": [
+      "Code quality",
+      "Peer review",
+      "Code standards"
+    ]
+  },
+  {
+    "participant": "Participant 30",
+    "data_chunk": "\"So, for us, software quality follows three main principles. It has to have high performance. So that if we are dealing with ten thousand Records, or even a hundred thousand, the users don't have to wait at their computer for ten minutes, just for something to work. So, what that does is, we might opt to choose a more, quote unquote, complex solution, as opposed to simply just running three, four loops and it works, as opposed to just immediately taking a bit a few more days to come up with a better way to iterate through things, just what works better and the high load. That's the number one.\"",
+    "code": [
+      "Software performance"
+    ]
+  },
+  {
+    "participant": "Participant 30",
+    "data_chunk": "\"Thing number two is scalability. We're coming from where we used to be before we first started implementing it now.\"",
+    "code": [
+      "Scalability"
+    ]
+  },
+  {
+    "participant": "Participant 30",
+    "data_chunk": "\"We're coming from where we used to be before we first started implementing it now. Developers write code anyhow. No documentation, there's no code quality, no, let's say consistency, like people, one is using three spaces. One is using four spaces, others put a new line after every function, all those different personality traits that come with the developers. And what happened was, when you give one developer, the work that was done by another developer, it scales. It takes so much time for that new developer to understand what's being done. And something that is supposed to take us through our weekly sprint, takes about two weeks just because a new developer is trying to understand what was before. So, for us, code quality also means scalability. If we grow this team, or if we grow the product, it doesn't start crumbling.\"",
+    "code": [
+      "Code quality",
+      "Consistency",
+      "Maintainability"
+    ]
+  },
+  {
+    "participant": "Participant 31",
+    "data_chunk": "\"But I think in my experience, there's also a more sort of like meta quality, which is the software fit for purpose, does it actually do what it's supposed to do. Is it easy to use, the whole UX user experience thing, can people figure out how to use it? And that's also part of quality. And I think it's especially in those regards, it's not so much in the oh, there's a defect here, we can fix it. That's not an Agile's main strength, in my opinion. The main strength is the ability to get user feedback, and to use that to actually make the software do what it's supposed to do, and to make it function in the way that brings most value to the end user. So, they can say, okay, this is, this is technically correct what you've built, but it doesn't fit our workflow one hundred percent. So could we do these changes, and we'll get a better fit, we'll get less friction in using the system. So, I think that kind of ping pong with the user is very much helping increase quality in the solution in the end.\"",
+    "code": [
+      "Fit for purpose",
+      "Useability",
+      "User involvement",
+      "Agile's strength",
+      "Software quality"
+    ]
+  },
+  {
+    "participant": "Participant 31",
+    "data_chunk": "\"So, if you asked me what quality is, I mean, the obvious thing that people think about when they talk about software quality is probably bugs. So, there's something goes wrong computer does something you didn't expect, and so on. That's the obvious, quality mission.\"",
+    "code": [
+      "No bugs"
+    ]
+  },
+  {
+    "participant": "Participant 32",
+    "data_chunk": "\"And the second one is that don't take shortcuts is that's quality to me. I can be quite rigid about this. But I believe it is fundamentally like one of the biggest things as well. Because, you know, it's the difference between having all your validation in, say, like some encryption software, or like, making sure that your security on the website, like if you are submitting passwords that everyone through sort of lots of different layers of protection, right? It's the difference between that and just creating like an if statement that goes here's the password, is it does it match up with what's in our database?\"",
+    "code": [
+      "Software security"
+    ]
+  },
+  {
+    "participant": "Participant 32",
+    "data_chunk": "\"And then it did. But this is what I mean is sort of like that is one of the key things that I'd consider to be quality and like technical debt, you know, it's it ties in with the memory management as well, where it's sort of like, people sort of say, like, Oh, it's only microseconds, it's only microseconds and all that sort of thing. And I'm like, Yes, it is only microseconds. But that's on, like, when we're talking about like one part of the program. And it's actually like, if you look at the actual statistics for like bigger applications, all of those microseconds on like, the, like, you've got ten thousand lines of code, and you've got each line of code consuming twenty microseconds more than it should do. And that adds up. And I was like, even that, in itself is a form of technical debt in my eyes. But you know, like, I can have this argument for days about why you should use certain bits of programming for certain things and other bits for other elements is what it's why I'm such a big fan of Rust. Because it basically is the best of all worlds. Like, it's just a very well-designed language. And I get along with it quite well. And yeah. What was the other one? Sorry, it's technical debt and?\"",
+    "code": [
+      "Avoiding technical debt"
+    ]
+  },
+  {
+    "participant": "Participant 32",
+    "data_chunk": "\"But it is the biggest important one, if we're moving to looking like behind the hood, the biggest important thing with like quality code to me is making sure number one, that it's readable.\"",
+    "code": [
+      "Code quality",
+      "Code readability"
+    ]
+  },
+  {
+    "participant": "Participant 32",
+    "data_chunk": "\"Okay, quality to me. The biggest one is that it does what the user wants it to do. And I don't mean this behind the hood, I mean, just sort of like it produces the end result.\"",
+    "code": [
+      "Conformity to business needs",
+      "Internal quality"
+    ]
+  },
+  {
+    "participant": "Participant 32",
+    "data_chunk": "\"So, I am acutely aware of the fact that my personal preference for that will put a very heavy bias towards what I view as quality because, you know, in my world, memory management is a very important thing. But in the JavaScript world, memory management is not important at all.\"",
+    "code": [
+      "Memory management"
+    ]
+  },
+  {
+    "participant": "Participant 32",
+    "data_chunk": "\"Yes. And the scalability thing, just quick point on that is just, I often find there's a very sort of, like, frustrating element of people tend to design things for just that one specific task. And again, like you can point out to them say like, Well, look, this is going to break if you know, your work for like ten requests, but we're expecting this to possibly have like a thousand requests. And once it hits a thousand requests like this is going to this is not going to function as well as you want it to. And again, it kind of ties in with the technical debt as well. But most of my perspective comes from like a technical point of view.\"",
+    "code": [
+      "Scalability"
+    ]
+  },
+  {
+    "participant": "Participant 33",
+    "data_chunk": "\"Well, it's definitely, see I don't know generally how the wider community defines quality. And this is educational for me. So, I'm paying attention at this point. So, but as a software developer, we know that even if your business users aren't interested in elegance in code or, you know, progressive design patterns, and you know, all that stuff. I think it's important to have something that is reasonably elegant from a maintainability and extensibility perspective. So, if we then the question boils down to if we consider maintainability and extensibility aspects that determine quality or improved quality, then yes, I would say that it's true.\"",
+    "code": [
+      "Maintainability",
+      "Scalability"
+    ]
+  },
+  {
+    "participant": "Participant 33",
+    "data_chunk": "\"Whenever somebody talks about quality one thought, so almost like a primal of thought, jumps to mind for me, and this is because my area of interest is theoretical computer science. And I remember reading this years ago, you cannot test correctness into a program. So, I just want to put that out there. But I think quality can best in my mind, and this is very, very, this is a program, and I'm really on shaky ground. But in my mind, does the artifact or the product you developing achieve the required the desired requirements, both functional and non-functional requirements expected by the target users?\"",
+    "code": [
+      "Conformity to business needs"
+    ]
+  },
+  {
+    "participant": "Participant 34",
+    "data_chunk": "\"Well, as I said, like, not, not a single person writes the code, like for complete project. So, what we'll be doing is whoever writes the code, like right now, we are using Git to push our code so that at a time multiple people can work on that. And once the code was moved to the Git repository, we will be creating a cross review, where we'll be adding some SMEs and our team leads and other peers just to review the code so that we are not missing, like, we are not missing any standards. So, what I mean standard is there are some things let's, in a technical way, what I can say is, instead of not making the code structured way, like let's say, if I'm having a complete, like I belongs to Java background. So, I can say like, if my Java page is having too many debugging statements, like, sys out and system that print, and many, many things like that, so it doesn't look great, although you're debugging, your writing for that for that debugging purpose, you have to remove that when moving into the code review, because that's the thing that's going to move to production later. So, this way, like whether we have all these method names, and variable names, everything is in proper things. So, these things will be reviewed by other peers. And sometimes even other teams. Like we'll be adding one external reviewer too so that he can provide his own comments. So, this way we'll be having this cross review, which helps us achieve that software quality.\"",
+    "code": [
+      "Code review",
+      "Code standards",
+      "Code quality",
+      "Help"
+    ]
+  },
+  {
+    "participant": "Participant 35",
+    "data_chunk": "\"Well, general quality, we define it by our guidelines, or public methods must be commented. So that's the public API of any class package. So, those need to be commented, we need a software design documents for any bigger feature we implement. And we also, what else, we have a zero-bug policy preferably we try to stick too much as long as much as possible at the end of the sprint. So, it will be these three things. Also, unit test and end to end if possible. We account for all of these using the estimations. So, let's say it encompasses them.\"",
+    "code": [
+      "Zero bug"
+    ]
+  },
+  {
+    "participant": "Participant 36",
+    "data_chunk": "\"I think quality might mean different things for different projects … I have worked on projects where quality meant that you squeeze every bit of CPU power for the battery life of a device. I've seen projects were, like, healthcare projects where quality, absolutely zero chance of an error. And you might think, yeah, it's, let's do a test case and provide a hundred percent reliability, but it might not be that, for example, for Google search engine. They have so many computers that the CPU has a very, very small error rate, like, I don't know zero point zero zero zero one percent. But when you have millions of computers processing data, you already have to think about cross checking results. So, you might need the same calculations more than once or more than one PC. And cross check the results. So, this is good quality for them to provide reliable results, not just that your code is good, including the underlying hardware will provide good results. Until this day, NASA, in their mathematical CPUs, they need special hardware to ensure that very high precision, math will provide accurate results, not like oops, there was a zero zero one percent chance for an error and then crashed, you cannot afford this quality results from the project. Quality on long term projects might also mean that you are able to handover your part of the project to someone else in a clean manner. So, the code is commented, the code is beautiful, I would say, this might mean for them quality code. Because if they keep bringing on new programmers, and there's no quality code, after a while the project will crash from start from zero. Code quality might mean testing friendly code. So many cases you expect your code to behave in a certain manner. And why behave many situations. But for maybe even Google, if you want to provide a quality project, you are able, this is why I like functional programming. You can test every part, you have a very good code coverage for retesting, because you know you can test all the inputs for a simple function, and you have certain output ranges. Now if you are coding object oriented and your object can do absolutely everything. That is almost impossible to do code coverage and reliable testing. So might not be quality code for them. Simply because it's unpredictable. What else could mean good quality. Quality code from a UI perspective. We can talk a lot about it. Is it usability? Does the menu, the order of the menus pop up, which are used more frequently? \"",
+    "code": [
+      "Free of defects",
+      "Clean code",
+      "Maintainability",
+      "Useability"
+    ]
+  },
+  {
+    "participant": "Participant 36",
+    "data_chunk": "\"Or is it arranged that buttons are hidden; important information is in the center of the screen. When trackers, click counters, so based on performance counter, the UI is what the user expects and not what the programmer thinks is good. ID quality, UI quality project. Quality UI might also be something that is trendy, the colors, rounded edges, the size of the fonts. Do they, are they placed in the current trending style? Or is it for a future trending style? Or is it some retro style? What kind of clients focusing on? These might be quality project just that it actually targets the correct personas. A fictional personas that actually the project management requires the developers to target wanting what the management expects. And what the programmers provide. Quality would also mean that actually meets expectations.\"",
+    "code": [
+      "Conformity to business needs"
+    ]
+  },
+  {
+    "participant": "Participant 37",
+    "data_chunk": "\"Yep. I think there's probably two views of quality. One is the quality that comes from not introducing any more bugs into a system, as well as continually improving your system without introducing any more issues. So that's sort of the quiet code quality SDLC maintenance quality aspects. Then there's the sort of external facing quality, which is more, I suppose, a perceived perception of quality, more so than what's happening inside the code base itself, which could be from anything from UX experience through to performance. How clients actually interact with the system and perceive the system was changing, irrespective of how the development team thinks it's changing. So, two different aspects, I suppose.\"",
+    "code": [
+      "Free of defects",
+      "Code quality",
+      "Maintainability",
+      "Useability"
+    ]
+  },
+  {
+    "participant": "Participant 38",
+    "data_chunk": "\"Quality is I think it's how developed software meets clients expectations. So, sometimes when a plan meets some big solution, which is, a bug might be not implemented all features he wants but if it solves his current problems, he can treat it as quality software.\"",
+    "code": [
+      "Free of defects",
+      "Conformity to business needs"
+    ]
+  },
+  {
+    "participant": "Participant 4",
+    "data_chunk": "\"Agile came in with a purpose to improve software quality and the team capabilities to deliver software. To be honest with you, after years in the industry, we do not know yet how to measure quality. But most people in the industry know what it is. I think the minimum is a software that meets the business needs and ideally free of defects.\"",
+    "code": [
+      "Meet the business needs",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 5",
+    "data_chunk": "\"It can get philosophical when trying to define quality. Software quality for me it the degree a software, component, or process conforms to specific requirements or expectations. It is somehow subjective. In many cases, we know quality software when we see it. But the main attribute is a software free of errors. It also enables users to perform tasks quickly and effortlessly.\"",
+    "code": [
+      "Conformance to user requirements",
+      "Free of errors",
+      "Add business value",
+      "Software quality is subjective"
+    ]
+  },
+  {
+    "participant": "Participant 6",
+    "data_chunk": "\"Software quality is an abstract and complex concept. It can be difficult to define, but its absence can be easy to see as well. I’m sure you have heard of fitness for purpose. This means the product has to meet the business needs and obviously no defects. But, agile has a view of quality which is focused on software code, design and process. In my team, we have guidelines and standards to enforce clean code. Again! It is subjective, but we have code review to help each other’s assuring clean code. In agile we believe in responding to change, that why we give great importance to a sustainable design. The business should be able to come to us for changes all the time and we should have a design that take in changes without major changes to the software. Quality doesn’t come without a process and practices. The software development process itself is subject to continuous improvements.\"",
+    "code": [
+      "Software quality is an abstract concept",
+      "Software quality is a complex concept",
+      "Meet the business needs",
+      "No defects",
+      "Clean code",
+      "Code review",
+      "Code standards",
+      "Assuring clean code",
+      "Sustainable design"
+    ]
+  },
+  {
+    "participant": "Participant 7",
+    "data_chunk": "\"Quality take place in many aspects of what we do in software development. From my experience, the focus has always been product quality, which is basically delivering a software that works and without defects. But with the rise of agile, I saw a shift toward getting the process right, code quality and good design. Agile believes in responding to change that’s why we aim for a design that is flexible and aims for reusability.  Agile calls for continuous improvement. As a team, we always reflect on the way we work and our process. We learn, we identify improvement and implement them when possible. It is a journey!\"",
+    "code": [
+      "Product quality",
+      "Defects free",
+      "Code quality",
+      "Good design",
+      "Reusability"
+    ]
+  },
+  {
+    "participant": "Participant 7",
+    "data_chunk": "\"Yes, I mean Scrum. Sorry! I wasn’t clear enough. From my experience, the more you invest in improving the process the better is the software quality. Learn from your mistakes and improve continuously. The people adapt and become better at what they do.\"",
+    "code": [
+      "Continuous improvements",
+      "Scrum"
+    ]
+  },
+  {
+    "participant": "Participant 8",
+    "data_chunk": "\"My understanding is you want to understand how we achieve quality not the means by which we achieve it. Right? Then, it is product quality. But process quality is one of a number of contributors to product quality. You can’t achieve a quality product without a process. Product quality is how well it conforms to the product requirements, specifications, and ultimately customer expectations. But for software it is important to mention free or fewer defects. Process quality focuses on how well the software delivery process is working. In agile, we keen on continuous learning and improvements. They go together. We always try to identify how we can improve the process.\"",
+    "code": [
+      "Product quality",
+      "Conformity to business requirements",
+      "Free of defects"
+    ]
+  },
+  {
+    "participant": "Participant 8",
+    "data_chunk": "\"Of course! Continuous improvement of Scrum of other Agile method will contributes significantly to the efficiency of the software development and subsequently better software quality. Not only that, people are engaged in the improvement process. They learn from the mistakes and they become better at developing software.\"",
+    "code": [
+      "Continuous improvements",
+      "Scrum",
+      "Software development"
+    ]
+  },
+  {
+    "participant": "Participant 9",
+    "data_chunk": "\"Yes! An important and difficult question. I think historically, software engineering attempted to quantify quality. But in practice, we still struggle to measure it. I’ll answer this question from my experience, right? The most important aspect of software quality is that the product meets the business needs and obviously and most importantly free of defects. We achieve this by using a combination of engineering and process practices. From the process perspective, we always review the way we work and thrive to improve it. You cannot get the process right from the first go at it. It is a journey. Quality take place from the moment we write the User Story to the delivery of the code. It is ongoing review of our artifacts to assure their quality.\"",
+    "code": [
+      "Meets the business needs",
+      "Free of defects",
+      "Engineering practices",
+      "Contributing"
+    ]
+  },
+  {
+    "participant": "Participant 9",
+    "data_chunk": "Yes, let me clarify. By process, I obviously mean Scrum and the traditional quality assurance practices. This include all types of testing, code review, code standards, etc. Scrum itself helps quality. It has the Definition of Done and it promotes continuous improvements. This is ongoing fine-tuning of the Scrum implementation, to achieve the best process that work for us as a team. The better we become at using Scrum, the better we become at developing software and achieving quality.",
+    "code": [
+      "Scrum",
+      "Quality assurance",
+      "Definition of Done",
+      "Continuous improvements",
+      "Software Development",
+      "Software quality"
+    ]
+  }
+]

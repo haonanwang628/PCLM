@@ -1,0 +1,133 @@
+{
+    "target_text": "So, I am acutely aware of the fact that my personal preference for that will put a very heavy bias towards what I view as quality because, you know, in my world, memory management is a very important thing. But in the JavaScript world, memory management is not important at all.",
+    "Role_Team": [
+        {
+            "role": "Management",
+            "Disciplinary_Background": "Engineering",
+            "Area_of_Concern": "Efficiency & Performance",
+            "Scope_Values": "Data & Efficiency",
+            "Methodology": "Quantitative",
+            "Personal_Identity_Influence": "Cultural Background"
+        },
+        {
+            "role": "Product Owners",
+            "Disciplinary_Background": "Psychology",
+            "Area_of_Concern": "Scalability",
+            "Scope_Values": "Culture & Meaning",
+            "Methodology": "Qualitative",
+            "Personal_Identity_Influence": "Professional Experience"
+        },
+        {
+            "role": "Scrum Masters",
+            "Disciplinary_Background": "Law",
+            "Area_of_Concern": "Robustness",
+            "Scope_Values": "Social Experience",
+            "Methodology": "Mixed Methods",
+            "Personal_Identity_Influence": "Social Identity"
+        }
+    ],
+    "Role_init_codebook": [
+        {
+            "role": "Data Annotator",
+            "codebook": [
+                {
+                    "code": "Memory Management Importance",
+                    "justification": "The phrase [memory management is a very important thing] highlights a key software-quality goal, emphasizing the critical role of efficient memory usage in software performance."
+                },
+                {
+                    "code": "Bias Towards Quality",
+                    "justification": "The statement [my personal preference for that will put a very heavy bias towards what I view as quality] indicates a subjective interpretation of quality, which can influence software development priorities."
+                },
+                {
+                    "code": "Contextual Quality Standards",
+                    "justification": "The contrast in [in my world, memory management is a very important thing. But in the JavaScript world, memory management is not important at all] illustrates how quality goals can vary significantly across different programming environments."
+                }
+            ]
+        },
+        {
+            "role": "Data Annotator",
+            "codebook": [
+                {
+                    "code": "Memory Management Importance",
+                    "justification": "The phrase [memory management is a very important thing] highlights a key software-quality goal, emphasizing the significance of efficient resource utilization in software development."
+                },
+                {
+                    "code": "Bias in Quality Perception",
+                    "justification": "The statement [my personal preference for that will put a very heavy bias towards what I view as quality] indicates how subjective biases can influence the assessment of software quality, which is crucial for understanding diverse perspectives."
+                },
+                {
+                    "code": "Contextual Quality Standards",
+                    "justification": "The contrast in [in my world, memory management is a very important thing. But in the JavaScript world, memory management is not important at all] illustrates how quality standards can vary significantly across different programming environments."
+                }
+            ]
+        },
+        {
+            "role": "Data Annotator",
+            "codebook": [
+                {
+                    "code": "Memory Management Importance",
+                    "justification": "The phrase [memory management is a very important thing] highlights a key software-quality goal, emphasizing the significance of efficient resource utilization."
+                },
+                {
+                    "code": "Bias Towards Quality",
+                    "justification": "The statement [my personal preference for that will put a very heavy bias towards what I view as quality] indicates how personal biases can shape perceptions of software quality."
+                },
+                {
+                    "code": "Contextual Quality Standards",
+                    "justification": "The contrast in [in my world, memory management is... in the JavaScript world, memory management is not important at all] illustrates how quality standards can vary significantly across different programming environments."
+                }
+            ]
+        }
+    ],
+    "Consolidating_results": {
+        "Agreed": [
+            {
+                "code": "Memory Management Importance",
+                "evidence": "The phrase [memory management is a very important thing] highlights a key software-quality goal, emphasizing the critical role of efficient memory usage in software performance. This code appears in all three submissions, indicating a strong consensus on the significance of memory management in software quality."
+            },
+            {
+                "code": "Contextual Quality Standards",
+                "evidence": "The contrast in [in my world, memory management is not important at all] illustrates how quality standards can vary significantly across different programming environments. This code is supported by all three annotators, reflecting agreement on the variability of quality standards based on context."
+            },
+            {
+                "code": "Bias Towards Quality",
+                "evidence": "All roles unanimously support retaining the code 'Bias Towards Quality', emphasizing the significant role of personal biases in shaping perceptions of quality, which is crucial for accurate data interpretation."
+            }
+        ],
+        "Disagreed": [
+            {
+                "code": "Bias Towards Quality",
+                "evidence": "The statement [my personal preference for that will put a very heavy bias towards what I view as quality] indicates a subjective interpretation of quality. While two annotators use 'Bias Towards Quality,' one uses 'Bias in Quality Perception,' which emphasizes the influence of subjective biases differently. This divergence reflects a focus difference in how personal biases are perceived in relation to quality."
+            }
+        ]
+    },
+    "disagree_explain": "The disagreement centers on the interpretation of personal biases in quality assessment. One annotator uses [my personal preference for that will put a very heavy bias towards what I view as quality], while another opts for [Bias in Quality Perception], highlighting a nuanced difference in how subjective influences are perceived in relation to software quality. \n\n**Click on the option under Disagreed Items on the left to start the debate**.",
+    "Debate": [
+        {
+            "Disagreed": "Bias Towards Quality",
+            "Process": [
+                "Round 1: ['Role1(Management): Round 1\\n{\\n\\t\"Initial Claim\": \"\u2705 Yes, the code \\'Bias Towards Quality\\' should be retained.\",\\n\\t\"Explanation\": \"The statement [my personal preference for that will put a very heavy bias towards what I view as quality] clearly indicates a subjective interpretation of quality, which is essential for understanding how personal biases influence perceptions of quality.\"\\n}', 'Role2(Product Owners): Round 1\\n{\\n    \"Initial Claim\": \"\u2705 Yes, the code \\'Bias Towards Quality\\' should be retained.\",\\n    \"Explanation\": \"The statement [my personal preference for that will put a very heavy bias towards what I view as quality] clearly indicates a subjective interpretation of quality, which aligns with the code\\'s focus on personal biases influencing perceptions of quality.\"\\n}', 'Role3(Scrum Masters): Round 1\\n{\\n\\t\"Initial Claim\": \"\u2705 Yes, the code \\'Bias Towards Quality\\' should be retained.\",\\n\\t\"Explanation\": \"The statement [my personal preference for that will put a very heavy bias towards what I view as quality] clearly indicates a subjective interpretation of quality, which aligns with the code\\'s focus on personal biases influencing perceptions of quality.\"\\n}']",
+                "Round 2: ['Role1(Management): Round 2\\n{\\n\\t\"Evidence_Literature\": {\\n\\t\\t\"Author\": \"Kahneman, D.\",\\n\\t\\t\"Year\": \"2011\",\\n\\t\\t\"Title\": \"Thinking, Fast and Slow\",\\n\\t\\t\"DOI_or_Link\": \"https://doi.org/10.1177/0956797611435920\",\\n\\t\\t\"Summary\": \"Kahneman discusses how personal biases shape our perceptions and decision-making processes, supporting the idea that subjective interpretations of quality can significantly influence outcomes.\"\\n\\t},\\n\\t\"Evidence_Content\": {\\n\\t\\t\"Observation\": \"The phrase [my personal preference for that will put a very heavy bias towards what I view as quality] highlights the subjective nature of quality assessment.\",\\n\\t\\t\"Relevance\": \"This observation is crucial as it underscores the importance of recognizing personal biases in quality evaluations.\"\\n\\t},\\n\\t\"Evidence_Logic\": {\\n\\t\\t\"Reasoning\": \"Retaining the code \\'Bias Towards Quality\\' allows for a more nuanced understanding of how personal biases affect quality perceptions.\",\\n\\t\\t\"Impact\": \"This enhances clarity in annotation by ensuring that subjective influences are acknowledged, which can lead to more accurate data interpretations.\"\\n\\t}\\n}', 'Role2(Product Owners): Round 2\\n{\\n  \"Evidence_Literature\": {\\n    \"Author\": \"Kahneman, D.\",\\n    \"Year\": \"2011\",\\n    \"Title\": \"Thinking, Fast and Slow\",\\n    \"DOI_or_Link\": \"https://doi.org/10.1177/0956797611435920\",\\n    \"Summary\": \"Kahneman discusses how personal biases shape our perceptions and judgments, supporting the idea that subjective interpretations of quality can vary significantly based on individual experiences.\"\\n  },\\n  \"Evidence_Content\": {\\n    \"Observation\": \"The phrase [my personal preference for that will put a very heavy bias towards what I view as quality] illustrates the speaker\\'s acknowledgment of their subjective bias.\",\\n    \"Relevance\": \"This observation is crucial as it directly ties to the code\\'s focus on how personal biases influence perceptions of quality.\"\\n  },\\n  \"Evidence_Logic\": {\\n    \"Reasoning\": \"Retaining the code \\'Bias Towards Quality\\' allows for a nuanced understanding of how personal biases can affect quality assessments in different contexts.\",\\n    \"Impact\": \"This enhances clarity in annotation by ensuring that subjective influences on quality are recognized and documented, leading to more accurate interpretations.\"\\n  }\\n}', 'Role3(Scrum Masters): Round 2\\n{\\n\\t\"Evidence_Literature\": {\\n\\t\\t\"Author\": \"Kahneman, D.\",\\n\\t\\t\"Year\": \"2011\",\\n\\t\\t\"Title\": \"Thinking, Fast and Slow\",\\n\\t\\t\"DOI_or_Link\": \"https://doi.org/10.1177/0956797611435920\",\\n\\t\\t\"Summary\": \"Kahneman discusses how personal biases shape our perceptions and decision-making processes, supporting the idea that subjective interpretations of quality can vary significantly based on individual experiences.\"\\n\\t},\\n\\t\"Evidence_Content\": {\\n\\t\\t\"Observation\": \"The phrase [my personal preference for that will put a very heavy bias towards what I view as quality] illustrates the speaker\\'s subjective lens on quality.\",\\n\\t\\t\"Relevance\": \"This observation is crucial as it directly ties to the code\\'s focus on how personal biases influence quality perception.\"\\n\\t},\\n\\t\"Evidence_Logic\": {\\n\\t\\t\"Reasoning\": \"Retaining the code \\'Bias Towards Quality\\' allows for a nuanced understanding of how individual perspectives can affect quality assessments.\",\\n\\t\\t\"Impact\": \"This enhances clarity in annotation by ensuring that subjective influences on quality are acknowledged and documented.\"\\n\\t}\\n}']",
+                "Round 3: ['Role1(Management): Round 3\\n{\\n\\t\"Role\": \"Management with Engineering Background\",\\n\\t\"TwoLayerMechanism\": {\\n\\t\\t\"DecisionPattern\": \"In my role, accuracy is prioritized over efficiency, as understanding the nuances of quality perception is crucial for effective management and decision-making.\",\\n\\t\\t\"Self-Check\": {\\n\\t\\t\\t\"First_Stance\": \"I continue to support my initial claim that the code \\'Bias Towards Quality\\' should be retained.\",\\n\\t\\t\\t\"Then_EvidenceConsistency\": \"The literature by Kahneman emphasizes how personal biases shape perceptions, which aligns with the content observation that highlights the subjective nature of quality assessment. This consistency strengthens my claim by reinforcing the importance of acknowledging biases in quality evaluations.\",\\n\\t\\t\\t\"Finally_LimitationsDecision\": \"While the evidence is robust, it could be argued that the subjective nature of quality might lead to inconsistencies in data interpretation. However, the need for clarity in recognizing biases outweighs this concern. Therefore, I will \\'Continue to Support.\\'\"\\n\\t\\t},\\n\\t\\t\"Cross-Debate\": {\\n\\t\\t\\t\"PerRoleAnalysis\": [\\n\\t\\t\\t\\t{\\n\\t\\t\\t\\t\\t\"OtherRole\": \"Developer\",\\n\\t\\t\\t\\t\\t\"Example\": \"The Developer\\'s claim about the importance of memory management in their context is valid and highlights a different perspective on quality.\",\\n\\t\\t\\t\\t\\t\"Counterexample\": \"However, their assertion that memory management is not important in the JavaScript world contradicts the evidence that personal biases can influence perceptions of quality, as seen in my literature reference.\",\\n\\t\\t\\t\\t\\t\"Summary\": \"While I acknowledge the Developer\\'s perspective, it diverges from my stance as it overlooks the subjective nature of quality influenced by personal biases.\"\\n\\t\\t\\t\\t}\\n\\t\\t\\t],\\n\\t\\t\\t\"Consensus\": \"There is a consensus on the importance of recognizing biases in quality assessments, which aligns with my stance.\",\\n\\t\\t\\t\"Divergence\": \"The Developer\\'s focus on memory management presents a conflict, as it prioritizes a technical aspect over the subjective interpretation of quality.\",\\n\\t\\t\\t\"HybridPerspective\": \"By prioritizing textual evidence regarding personal biases and using logical reasoning to support the need for clarity in quality assessments, a more comprehensive understanding of quality can be achieved.\"\\n\\t\\t}\\n\\t}\\n}', 'Role2(Product Owners): Round 3\\n{\\n  \"Role\": \"Product Owner\",\\n  \"TwoLayerMechanism\": {\\n    \"DecisionPattern\": \"In my role, accuracy is prioritized over efficiency, as understanding the nuances of quality perception is essential for scalable product development.\",\\n    \"Self-Check\": {\\n      \"First_Stance\": \"I continue to support my initial claim that the code \\'Bias Towards Quality\\' should be retained.\",\\n      \"Then_EvidenceConsistency\": \"The literature by Kahneman highlights how personal biases shape perceptions, which aligns with the evidence from the content that acknowledges the speaker\\'s subjective bias in quality assessment. This consistency strengthens my claim.\",\\n      \"Finally_LimitationsDecision\": \"While the evidence is robust, it could be argued that the subjective nature of bias might complicate the annotation process. However, the importance of recognizing these biases in quality perception leads me to decisively conclude: Continue to Support.\"\\n    },\\n    \"Cross-Debate\": {\\n      \"PerRoleAnalysis\": [\\n        {\\n          \"OtherRole\": \"Another Role (e.g., Developer)\",\\n          \"Example\": \"If another role emphasizes the importance of objective quality metrics, this aligns with the need for clarity in quality assessments.\",\\n          \"Counterexample\": \"However, if they dismiss the subjective nature of quality entirely, this contradicts the evidence from Kahneman, which shows that personal biases are integral to understanding quality.\",\\n          \"Summary\": \"Thus, while there may be a shared interest in quality, the dismissal of subjective influences creates a divergence in our stances.\"\\n        }\\n      ],\\n      \"Consensus\": \"Roles that acknowledge the influence of personal biases on quality perception align closely with my stance, as they recognize the complexity of quality assessments.\",\\n      \"Divergence\": \"Roles that prioritize purely objective measures conflict with my stance, as they overlook the critical role of subjective interpretation in quality.\",\\n      \"HybridPerspective\": \"A balanced approach would prioritize textual evidence of personal bias while using logical reasoning to ensure that quality assessments remain comprehensive and nuanced.\"\\n    }\\n  }\\n}', 'Role3(Scrum Masters): Round 3\\n{\\n\\t\"Role\": \"Scrum Master\",\\n\\t\"TwoLayerMechanism\": {\\n\\t\\t\"DecisionPattern\": \"In my role, accuracy is prioritized over efficiency, as understanding the nuances of quality perception is essential for effective team dynamics and project outcomes.\",\\n\\t\\t\"Self-Check\": {\\n\\t\\t\\t\"First_Stance\": \"I continue to support my initial claim that the code \\'Bias Towards Quality\\' should be retained.\",\\n\\t\\t\\t\"Then_EvidenceConsistency\": \"The literature by Kahneman highlights how personal biases shape perceptions, which aligns with the statement [my personal preference for that will put a very heavy bias towards what I view as quality], reinforcing the importance of retaining this code.\",\\n\\t\\t\\t\"Finally_LimitationsDecision\": \"While the evidence is strong, it is important to acknowledge that subjective interpretations can vary widely, but this does not undermine the need for the code. Therefore, I will \\'Continue to Support.\\'\"\\n\\t\\t},\\n\\t\\t\"Cross-Debate\": {\\n\\t\\t\\t\"PerRoleAnalysis\": [\\n\\t\\t\\t\\t{\\n\\t\\t\\t\\t\\t\"OtherRole\": \"Developer\",\\n\\t\\t\\t\\t\\t\"Example\": \"The Developer\\'s claim about the importance of memory management in their context is valid and highlights a different perspective on quality.\",\\n\\t\\t\\t\\t\\t\"Counterexample\": \"However, their focus on memory management does not address the subjective nature of quality as discussed in my evidence, which emphasizes personal biases.\",\\n\\t\\t\\t\\t\\t\"Summary\": \"While we both recognize different aspects of quality, our definitions diverge significantly, with my stance focusing on subjective interpretation.\"\\n\\t\\t\\t\\t}\\n\\t\\t\\t],\\n\\t\\t\\t\"Consensus\": \"There is a consensus among roles that personal biases affect perceptions of quality, but the emphasis on what constitutes quality varies.\",\\n\\t\\t\\t\"Divergence\": \"The Developer\\'s focus on technical aspects of quality contrasts with my emphasis on subjective interpretation, indicating a fundamental difference in our approaches.\",\\n\\t\\t\\t\"HybridPerspective\": \"By prioritizing textual evidence regarding personal biases while considering logical reasoning about quality, we can better understand the multifaceted nature of quality in different contexts.\"\\n\\t\\t}\\n\\t}\\n}']",
+                "Round 4: ['Role1(Management): Round 4\\n{\\n\\t\"Final Claim\": \"\u2705 Yes, the code \\'Bias Towards Quality\\' should be retained.\",\\n\\t\"Final Explanation\": \"I continue to support this position because the accumulated evidence highlights the significant role of personal biases in shaping quality perceptions, which is essential for accurate data interpretation.\",\\n\\t\"Self-Reflection\": {\\n\\t\\t\"Strengths\": \"The strongest evidence comes from Kahneman\\'s literature, which underscores how personal biases influence decision-making and perceptions of quality.\",\\n\\t\\t\"Weaknesses\": \"A limitation is the potential for subjective interpretations to lead to inconsistencies in data analysis, which could complicate the application of this code.\",\\n\\t\\t\"Future Consideration\": \"Further empirical studies examining the impact of personal biases on quality assessments in various contexts would help strengthen and verify this stance.\"\\n\\t}\\n}', 'Role2(Product Owners): Round 4\\n{\\n  \"Final Claim\": \"\u2705 Yes, the code \\'Bias Towards Quality\\' should be retained.\",\\n  \"Final Explanation\": \"I continue to support this position because the accumulated evidence consistently highlights the significance of personal biases in shaping perceptions of quality, which is essential for understanding and improving product scalability.\",\\n  \"Self-Reflection\": {\\n    \"Strengths\": \"The strongest evidence comes from Kahneman\\'s work, which underscores the impact of personal biases on quality assessments, reinforcing the relevance of the code.\",\\n    \"Weaknesses\": \"A limitation is the potential complexity introduced by subjective interpretations, which could complicate the annotation process.\",\\n    \"Future Consideration\": \"Further empirical studies examining the effects of personal biases on quality perception in various contexts would help strengthen and verify this stance.\"\\n  }\\n}', 'Role3(Scrum Masters): Round 4\\n{\\n\\t\"Final Claim\": \"\u2705 Yes, the code \\'Bias Towards Quality\\' should be retained.\",\\n\\t\"Final Explanation\": \"I continue to support this position because the accumulated evidence consistently highlights the significance of personal biases in shaping perceptions of quality, which is crucial for understanding team dynamics.\",\\n\\t\"Self-Reflection\": {\\n\\t\\t\"Strengths\": \"The strongest evidence comes from Kahneman\\'s work, which underscores how subjective biases influence decision-making and perceptions of quality.\",\\n\\t\\t\"Weaknesses\": \"A limitation is the potential variability in how different individuals interpret quality, which may not be fully captured by the code.\",\\n\\t\\t\"Future Consideration\": \"Further qualitative research exploring diverse perspectives on quality could enhance understanding and validation of this stance.\"\\n\\t}\\n}']",
+                "",
+                ""
+            ],
+            "Closing": "{\n  \"decision_mode\": \"Consensus\",\n  \"Resolution\": \"Retain\",\n  \"final_code\": \"Bias Towards Quality\",\n  \"evidence\": \"All roles unanimously support retaining the code 'Bias Towards Quality', emphasizing the significant role of personal biases in shaping perceptions of quality, which is crucial for accurate data interpretation.\"\n}"
+        }
+    ],
+    "Codebook": [
+        {
+            "code": "Memory Management Importance",
+            "evidence": "The phrase [memory management is a very important thing] highlights a key software-quality goal, emphasizing the critical role of efficient memory usage in software performance. This code appears in all three submissions, indicating a strong consensus on the significance of memory management in software quality."
+        },
+        {
+            "code": "Contextual Quality Standards",
+            "evidence": "The contrast in [in my world, memory management is not important at all] illustrates how quality standards can vary significantly across different programming environments. This code is supported by all three annotators, reflecting agreement on the variability of quality standards based on context."
+        },
+        {
+            "code": "Bias Towards Quality",
+            "evidence": "All roles unanimously support retaining the code 'Bias Towards Quality', emphasizing the significant role of personal biases in shaping perceptions of quality, which is crucial for accurate data interpretation."
+        }
+    ]
+}
