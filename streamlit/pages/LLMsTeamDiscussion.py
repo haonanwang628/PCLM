@@ -64,10 +64,10 @@ class MultiAgentsDiscussion:
                     Research Question
                 </h3>
                 """, unsafe_allow_html=True)
-        st.session_state.setdefault("user_response", "")
+        st.session_state.setdefault("user_rq", "")
         st.text_area(
             "Your Research Question",
-            key="user_response",
+            key="user_rq",
             label_visibility="collapsed",
             height=150,
             placeholder="Input your research question here..."
@@ -85,13 +85,13 @@ class MultiAgentsDiscussion:
                 </h3>
                 """, unsafe_allow_html=True)
         st.info("Your research question guide the qualitative coding process.")
-        if "user_response" in st.session_state:
-            st.success(f"User Response from Home: {st.session_state.user_response}")
+        if "user_rq" in st.session_state:
+            st.success(f"User Response from Home: {st.session_state.user_rq}")
         # if os.path.exists("config/session_cache.json"):
         #     with open("config/session_cache.json", "r") as f:
         #         if os.path.getsize("config/session_cache.json") != 0:
-        #             st.session_state.user_response = json.load(f)
-        #             st.success(f"User Response from Home: {st.session_state.user_response}")
+        #             st.session_state.user_rq = json.load(f)
+        #             st.success(f"User Response from Home: {st.session_state.user_rq}")
         if "chat_history" not in st.session_state:
             # introduce (F1)
             prologue = self.config["Facilitator"]["task1"]
@@ -346,9 +346,9 @@ class MultiAgentsDiscussion:
         if pos:
             pos_prompts, positionality = [], []
             for role, meta in zip(st.session_state.roles, st.session_state.roles_identity):
-                if st.session_state.user_response != "":
+                if st.session_state.user_rq != "":
                     pos_prompt = self.config["role_prompt"]["positionality_rq"] \
-                        .replace("[user response]", st.session_state.user_response)
+                        .replace("[Research Question]", st.session_state.user_rq)
                 else:
                     pos_prompt = self.config["role_prompt"]["positionality"]
                 pos_prompt = pos_prompt \

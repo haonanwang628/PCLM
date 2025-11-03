@@ -30,7 +30,7 @@ class DebateModel:
         for i, role in enumerate(roles):
             if rq is not None:
                 pos_prompt = self.config["role_prompt"]["positionality_rq"] \
-                    .replace("[user response]", rq)
+                    .replace("[Research Question]", rq)
             else:
                 pos_prompt = self.config["role_prompt"]["positionality"]
             pos_prompt = pos_prompt \

@@ -1,1 +1,16 @@
-Windows code v1,v2,v3......
+# Title
+
+This work aims to explore the debating capability of LLMs by proposing the MAD framework, which stands for Multi-Agents Debate. (TBD)
+
+## Brief Introduction
+TBD
+
+## Framework
+TBD
+
+# Run
+## Preparation
+
+  ```shell
+  pip3 install -r requirements.txt
+  ```
