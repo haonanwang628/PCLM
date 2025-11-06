@@ -1,4 +1,4 @@
-# Title
+# PerspectiveCoder-LM
 
 This work aims to explore the debating capability of LLMs by proposing the MAD framework, which stands for Multi-Agent System. (TBD)
 
