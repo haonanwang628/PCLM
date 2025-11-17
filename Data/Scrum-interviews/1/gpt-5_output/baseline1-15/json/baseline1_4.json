@@ -1,0 +1,33 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Codebook": [
+        {
+            "Code": "Internal Software Quality Focus",
+            "Definition": "States that the team emphasizes internal aspects of software quality, not just outward results."
+        },
+        {
+            "Code": "External Outcomes Not Sufficient",
+            "Definition": "Asserts that meeting business needs and having fewer defects does not guarantee acceptable internal quality."
+        },
+        {
+            "Code": "Business Fit and Low Defects Acknowledged",
+            "Definition": "Recognizes outcomes where the product conforms to business requirements and exhibits fewer defects."
+        },
+        {
+            "Code": "Maintainability as Quality Criterion",
+            "Definition": "Identifies the ability to maintain code as a desired attribute to assess software quality."
+        },
+        {
+            "Code": "Understandability as Quality Criterion",
+            "Definition": "Identifies code understandability as a desired attribute to assess software quality."
+        },
+        {
+            "Code": "Reusability as Quality Criterion",
+            "Definition": "Identifies the potential to reuse code as a desired attribute to assess software quality."
+        },
+        {
+            "Code": "Integrating Internal Criteria into Evaluation",
+            "Definition": "Calls for incorporating maintainability, understandability, and reusability into the overall quality evaluation."
+        }
+    ]
+}

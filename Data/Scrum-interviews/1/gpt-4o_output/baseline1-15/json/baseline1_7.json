@@ -1,0 +1,17 @@
+{
+    "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+    "Codebook": [
+        {
+            "Code": "Software Quality",
+            "Definition": "The overall measure of how well software meets certain standards, including structural integrity and user satisfaction."
+        },
+        {
+            "Code": "Structural Perspective",
+            "Definition": "The aspect of software quality that focuses on the internal components such as code and design."
+        },
+        {
+            "Code": "External Component",
+            "Definition": "The aspect of software quality that involves the software being free of defects and meeting the requirements of the end user."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+    "Codebook": [
+        {
+            "Code": "Goal Orientation",
+            "Definition": "References an aim or objective to be accomplished, indicated by the phrase 'achieve that'."
+        },
+        {
+            "Code": "Stated Requirement",
+            "Definition": "Expresses a necessary condition or prerequisite using 'we need'."
+        },
+        {
+            "Code": "Software Development Process Focus",
+            "Definition": "Situates the statement specifically within the context of a software development process."
+        },
+        {
+            "Code": "Process Robustness",
+            "Definition": "Calls for a resilient and reliable process, captured by the term 'robust'."
+        },
+        {
+            "Code": "Continuous Review",
+            "Definition": "Advocates ongoing evaluation or assessment of the process over time."
+        },
+        {
+            "Code": "Continuous Improvement",
+            "Definition": "Emphasizes repeated enhancements or refinements to the process."
+        }
+    ]
+}

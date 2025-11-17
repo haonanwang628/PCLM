@@ -1,0 +1,32 @@
+{
+    "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Qualitative SE/HCI Researcher \u2014 PhD Candidate; Discipline: Computer Science (Software Engineering); NSF Interest: Human-Centered Computing; Reflexivity: privileges user-centric quality, cautious of compliance bias.",
+            "codebook": [
+                {
+                    "code": "Requirement Conformance",
+                    "justification": "[confirms to the requirements]. Frames quality as spec compliance\u2014a contested, interpretive criterion shaped by acceptance criteria and stakeholder negotiation."
+                },
+                {
+                    "code": "Defect-Free Ideal",
+                    "justification": "[free of defects]. Zero-defect is an aspirational construct; defect taxonomies, test coverage, and severity thresholds encode subjective trade-offs."
+                },
+                {
+                    "code": "Primacy Claim",
+                    "justification": "[first and most]. Establishes a normative hierarchy of quality cues, influencing weighting functions and evaluation heuristics in SE practice."
+                }
+            ]
+        }
+    ]
+}

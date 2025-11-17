@@ -1,0 +1,36 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher \u2014 Doctoral Level; QS: Computer Science & Information Systems (Software Engineering); NSF Interest: Human-Centered Computing/Software Systems; Biases: prioritizes internal code quality and maintainability over business conformance.",
+            "codebook": [
+                {
+                    "code": "Internal Quality Emphasis",
+                    "justification": "As a CS/SE doctoral researcher, I foreground [the internal software quality] as a subjective construct encompassing architecture, readability, and cohesion."
+                },
+                {
+                    "code": "Beyond Defect Metrics",
+                    "justification": "I read the contrast between [have fewer defects] and [it doesn't always mean] as valuing non-functional, latent qualities beyond business conformance."
+                },
+                {
+                    "code": "Maintainability Valued",
+                    "justification": "My SE lens privileges maintainability heuristics, aligning with [maintain, understand and reuse code] as evaluative criteria."
+                },
+                {
+                    "code": "Quality Criteria Expansion",
+                    "justification": "I interpret [We have to add the desires to maintain, understand and reuse code to evaluate quality.] as expanding quality models beyond defect counts."
+                }
+            ]
+        }
+    ]
+}

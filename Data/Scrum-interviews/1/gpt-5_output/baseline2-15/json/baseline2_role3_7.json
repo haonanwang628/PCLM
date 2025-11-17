@@ -1,0 +1,36 @@
+{
+    "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "PhD Researcher in Software Engineering/HCI (QS: Computer Science & Information Systems; NSF: Human-Centered Computing; Reflexivity: socio-technical quality emphasis)",
+            "codebook": [
+                {
+                    "code": "Outcome-oriented quality",
+                    "justification": "[Software quality is the end result.] Teleological framing; my SE/HCI lens privileges outcome constructs over process metrics, emphasizing delivered value as a subjective quality criterion."
+                },
+                {
+                    "code": "Structural soundness",
+                    "justification": "[a structural perspective] Interpreted as internal quality of architecture/code design; my bias weights modularity and maintainability as hallmarks of \u201cgood\u201d structure, despite contested norms."
+                },
+                {
+                    "code": "User-centric fit",
+                    "justification": "[meets the end user requirements] Read through ISO/IEC 25010 as usability/fitness-for-purpose; requirements are negotiated and contextual, judged via situated, socio-technical criteria."
+                },
+                {
+                    "code": "Defect-free ideal",
+                    "justification": "[free of defects] A contested aspiration; defect absence depends on test coverage, risk tolerance, and severity thresholds\u2014value-laden judgments rather than absolute truth."
+                }
+            ]
+        }
+    ]
+}

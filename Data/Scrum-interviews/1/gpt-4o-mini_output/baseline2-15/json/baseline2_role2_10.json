@@ -1,0 +1,32 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer at the bachelor's level with a focus on statistics and a keen interest in economics, my background shapes my research goals to explore quantitative methods in economic analysis. However, I recognize that my cultural and personal biases may influence my interpretation of data and findings. These biases stem from my experiences and perspectives, which can color my understanding of economic phenomena. Consequently, my positionality compels me to critically examine how my role and assumptions affect my research process, ensuring that I remain aware of potential blind spots while striving for objectivity in my analysis."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Maintainable Code",
+                    "justification": "The phrase [maintainable code that confirms to well established guidelines] emphasizes the importance of code that can be easily updated and modified, reflecting best practices in software engineering."
+                },
+                {
+                    "code": "Sustainable Design",
+                    "justification": "The term [sustainability of the design] highlights the need for software that can adapt to future requirements, which is crucial for long-term project viability and user satisfaction."
+                },
+                {
+                    "code": "Adaptability to Requirements",
+                    "justification": "The statement [able to cope with new requirements easily moving forward] underscores the necessity for flexibility in software design, allowing for iterative development and responsiveness to user needs."
+                }
+            ]
+        }
+    ]
+}

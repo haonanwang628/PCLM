@@ -1,0 +1,29 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Codebook": [
+        {
+            "Code": "Extensive Time Requirement",
+            "Definition": "Expresses that the question could take an entire hour to address, indicating high complexity or scope."
+        },
+        {
+            "Code": "Simplification Strategy",
+            "Definition": "Proposes making the discussion simple despite its potential complexity."
+        },
+        {
+            "Code": "Software Development Context",
+            "Definition": "Frames the topic explicitly within the field of software development."
+        },
+        {
+            "Code": "Delivery Imperative",
+            "Definition": "Emphasizes the importance of delivering software as an outcome."
+        },
+        {
+            "Code": "Business Needs Alignment",
+            "Definition": "States that the software must meet business needs as a key criterion."
+        },
+        {
+            "Code": "Defect-Free Quality",
+            "Definition": "Asserts that the software should be free of defects, highlighting quality expectations."
+        }
+    ]
+}

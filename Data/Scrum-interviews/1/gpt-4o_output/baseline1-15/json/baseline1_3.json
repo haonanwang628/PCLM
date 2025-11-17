@@ -1,0 +1,13 @@
+{
+    "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "Codebook": [
+        {
+            "Code": "Subjectivity of Quality",
+            "Definition": "The idea that quality is not an absolute measure but varies based on individual perceptions and opinions."
+        },
+        {
+            "Code": "Challenge in Evaluation",
+            "Definition": "The difficulty in assessing or answering questions related to quality due to its subjective nature."
+        }
+    ]
+}

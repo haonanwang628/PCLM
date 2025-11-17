@@ -1,0 +1,32 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer with a bachelor's level understanding of statistics, my research interest lies in the intersection of economics and data analysis. My background in software development equips me with technical skills to analyze economic data, while my academic focus on statistics provides a solid foundation for quantitative research. However, I recognize that my cultural and personal biases may influence my interpretation of data, particularly in economic contexts. By acknowledging these biases, I strive to approach my research with a critical and reflective mindset, ensuring that my positionality informs, but does not unduly skew, my analysis and conclusions."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Business Alignment",
+                    "justification": "The phrase [meets business needs] highlights the importance of aligning software development with organizational objectives, a key concern in project management and systems engineering."
+                },
+                {
+                    "code": "Quality Assurance",
+                    "justification": "The term [free of defects] underscores the critical role of quality assurance processes in software development, emphasizing defect prevention and detection as essential for successful product delivery."
+                },
+                {
+                    "code": "Time Management",
+                    "justification": "The expression [We need the whole hour] suggests the complexity and time-intensive nature of software development discussions, reflecting the need for effective time management in project planning."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (PhD Candidate) \u2013 QS: Computer Science & Information Systems; NSF: Human-Centered Computing/Software; Biases: pro-iterative, quality-centric, process-critical",
+            "codebook": [
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "From an HCI/SE lens, I infer a kaizen orientation from [subject to continuous improvements], privileging perpetual iteration over fixed baselines."
+                },
+                {
+                    "code": "Structured Reflexivity",
+                    "justification": "The mention [We use retrospectives] signals formalized reflective practice, consistent with reflexivity-as-method rather than ad hoc learning."
+                },
+                {
+                    "code": "Quality Driven Motivation",
+                    "justification": "Goal framing centers value delivery via [delivering quality software], foregrounding teleological quality metrics over velocity."
+                },
+                {
+                    "code": "Process Reification",
+                    "justification": "The closure [That\u2019s the process.] reifies procedure as an anchor, aligning with my bias to scrutinize process-centric sensemaking."
+                }
+            ]
+        }
+    ]
+}

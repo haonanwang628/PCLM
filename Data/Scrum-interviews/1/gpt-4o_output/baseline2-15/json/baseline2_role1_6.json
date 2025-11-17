@@ -1,0 +1,36 @@
+{
+    "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner pursuing a Master's in Geography with a focus on Economics, I bring a unique perspective to my research. My background in product management informs my interest in the spatial dynamics of economic systems. I aim to explore how geographic factors influence economic development and decision-making. However, my epistemological assumptions may lead me to prioritize quantitative data and overlook qualitative insights. This positionality shapes my research by driving me to integrate economic theories with geographic analysis, while also challenging me to remain open to diverse methodologies and perspectives. My goal is to produce research that bridges these disciplines effectively."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Quality Measurement Challenge",
+                    "justification": "The phrase [It is difficult to define and measure] highlights the inherent complexity in quantifying quality, a concept that is often subjective and context-dependent, requiring nuanced understanding and interpretation."
+                },
+                {
+                    "code": "Product-Level Focus",
+                    "justification": "The text mentions [a great focus on product level quality], indicating a traditional emphasis on tangible product attributes, such as defect-free status and customer satisfaction, which are critical in product management and quality assurance disciplines."
+                },
+                {
+                    "code": "Agile Code Quality",
+                    "justification": "The shift [toward code quality and a design that responds to change] reflects agile methodologies' emphasis on adaptability and continuous improvement, aligning with software development practices that prioritize flexible and maintainable code structures."
+                },
+                {
+                    "code": "Process Improvement",
+                    "justification": "The mention of [continuous improvement of the process effort] underscores a commitment to iterative enhancement, a core principle in agile frameworks that focuses on refining processes to achieve better efficiency and effectiveness."
+                }
+            ]
+        }
+    ]
+}

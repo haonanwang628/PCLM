@@ -1,0 +1,32 @@
+{
+    "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner with a Master's level education in Geography, my research interests lie at the intersection of economic systems and spatial dynamics. I aim to explore how geographical factors influence economic outcomes, particularly in urban settings. However, I recognize that my epistemological assumptions may shape my interpretations, potentially leading me to prioritize quantitative data over qualitative insights. This positionality influences my research by framing my questions and analysis through a lens that may overlook alternative perspectives. By acknowledging these dimensions, I strive to approach my work with greater reflexivity, ensuring a more comprehensive understanding of the complex interplay between geography and economics."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Quality Measurement Challenges",
+                    "justification": "The text highlights the inherent difficulty in defining and measuring quality, indicating a subjective interpretation of quality metrics."
+                },
+                {
+                    "code": "Shift in Focus",
+                    "justification": "The mention of a shift from product-level quality to code quality reflects evolving priorities in agile methodologies, emphasizing adaptability."
+                },
+                {
+                    "code": "Continuous Improvement",
+                    "justification": "The phrase 'continuous improvement of the process effort' underscores the iterative nature of agile practices, which relies on ongoing human assessment."
+                }
+            ]
+        }
+    ]
+}

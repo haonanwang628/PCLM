@@ -1,0 +1,32 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner with a Master's level education in Geography, my research interests lie at the intersection of economic systems and spatial dynamics. I aim to explore how geographical factors influence economic outcomes, particularly in urban settings. However, I recognize that my epistemological assumptions may shape my interpretations, potentially leading me to prioritize quantitative data over qualitative insights. This positionality influences my research by framing my questions and analysis through a lens that may overlook alternative perspectives. By acknowledging these dimensions, I strive to approach my work with greater reflexivity, ensuring a more comprehensive understanding of the complex interplay between geography and economics."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Quality Assurance Practices",
+                    "justification": "The phrase [assure quality] highlights the importance of implementing systematic methods to maintain software integrity."
+                },
+                {
+                    "code": "Development Process",
+                    "justification": "The term [software development process] indicates a structured approach, emphasizing the need for organized practices in software engineering."
+                },
+                {
+                    "code": "Implementation and Exercise",
+                    "justification": "The words [implement and exercise] suggest active engagement and application of practices, reflecting a dynamic approach to quality assurance."
+                }
+            ]
+        }
+    ]
+}

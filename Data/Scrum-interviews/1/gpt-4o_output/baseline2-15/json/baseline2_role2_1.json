@@ -1,0 +1,32 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer with a bachelor's level understanding of statistics, my research interest lies in the intersection of economics and data analysis. My background in software development equips me with technical skills to analyze economic data, while my academic focus on statistics provides a solid foundation for quantitative research. However, I recognize that my cultural and personal biases may influence my interpretation of data, particularly in economic contexts. By acknowledging these biases, I strive to approach my research with a critical and reflective mindset, ensuring that my positionality informs, but does not unduly skew, my analysis and conclusions."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Quality Assurance",
+                    "justification": "The phrase [assure quality] indicates a focus on maintaining high standards, a key concern in software engineering to ensure reliability and performance."
+                },
+                {
+                    "code": "Development Practices",
+                    "justification": "The term [implement and exercise practices] suggests a systematic approach to software development, emphasizing the importance of methodical processes in achieving desired outcomes."
+                },
+                {
+                    "code": "Process Implementation",
+                    "justification": "The phrase [software development process] highlights the structured sequence of activities involved, reflecting the procedural nature of software engineering."
+                }
+            ]
+        }
+    ]
+}

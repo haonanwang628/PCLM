@@ -1,0 +1,36 @@
+{
+    "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "PhD Candidate (Information Systems/HCI) with software-quality and value-alignment focus; reflexive about business-centric biases",
+            "codebook": [
+                {
+                    "code": "Business Needs Alignment",
+                    "justification": "From an IS/HCI lens, [conformity to business needs] indexes requirements-fit and stakeholder value, an interpretive, context-contingent judgment."
+                },
+                {
+                    "code": "Defect-Free Standard",
+                    "justification": "Framed by software quality research, [free of defects] reflects a zero-defect norm; \u2018defect\u2019 severity/acceptance is socially negotiated, not purely objective."
+                },
+                {
+                    "code": "Attribute Prioritization",
+                    "justification": "The phrase [key attributes] encodes value prioritization; my academic bias foregrounds criteria weighting and trade-offs as subjective design decisions."
+                },
+                {
+                    "code": "Outcome-Centric Focus",
+                    "justification": "By emphasizing [the software or the end product], I infer an outcome-oriented evaluation heuristic, privileging deliverables over process\u2014a positional choice."
+                }
+            ]
+        }
+    ]
+}

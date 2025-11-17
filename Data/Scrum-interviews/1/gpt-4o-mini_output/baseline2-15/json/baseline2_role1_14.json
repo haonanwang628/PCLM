@@ -1,0 +1,32 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner with a Master's level education in Geography, my research interests lie at the intersection of economic systems and spatial dynamics. I aim to explore how geographical factors influence economic outcomes, particularly in urban settings. However, I recognize that my epistemological assumptions may shape my interpretations, potentially leading me to prioritize quantitative data over qualitative insights. This positionality influences my research by framing my questions and analysis through a lens that may overlook alternative perspectives. By acknowledging these dimensions, I strive to approach my work with greater reflexivity, ensuring a more comprehensive understanding of the complex interplay between geography and economics."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Outcome and Process",
+                    "justification": "The text emphasizes that software quality encompasses both the end product and the methods used to achieve it, highlighting the dual nature of quality assessment."
+                },
+                {
+                    "code": "Continuous Improvement",
+                    "justification": "The phrase 'continuous improvement process' indicates an iterative approach, which is central to agile methodologies, reflecting a commitment to evolving practices."
+                },
+                {
+                    "code": "Experimentation in Agile",
+                    "justification": "The mention of 'we always experiment' underscores the importance of innovation and adaptability in agile practices, which is crucial for enhancing software quality."
+                }
+            ]
+        }
+    ]
+}

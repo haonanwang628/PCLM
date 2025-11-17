@@ -1,0 +1,29 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Codebook": [
+        {
+            "Code": "Quality as Outcome and Process",
+            "Definition": "Software quality is defined in two dimensions: the end result (outcome) and the method by which the software is built (process). Both dimensions jointly determine overall quality."
+        },
+        {
+            "Code": "Outcome Criteria: Business Needs and Defect-Free",
+            "Definition": "The outcome is measured by the product\u2019s ability to meet business needs and by the absence of defects. High product quality is evidenced by fit-for-purpose functionality and no faults."
+        },
+        {
+            "Code": "Process Scope: Creation and Delivery",
+            "Definition": "The process aspect of quality concerns how software is created and delivered. It encompasses the practices and workflow used to produce the product."
+        },
+        {
+            "Code": "Agile Emphasis on Continuous Improvement",
+            "Definition": "In an agile context, the process is framed as continuous improvement. Teams iteratively enhance how they work over time."
+        },
+        {
+            "Code": "Reflection and Learning for Better Work",
+            "Definition": "Quality improves by continuously examining current ways of working to learn and change for the better. This focuses on inspection, feedback, and adaptation."
+        },
+        {
+            "Code": "Experimentation to Discover Better Ways",
+            "Definition": "Agile practice includes regularly experimenting with new approaches to find improvements. Experimentation is used to identify superior methods beyond existing routines."
+        }
+    ]
+}

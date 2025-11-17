@@ -1,0 +1,13 @@
+{
+    "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "Codebook": [
+        {
+            "Code": "Subjectivity of Quality",
+            "Definition": "This code refers to the idea that quality is perceived differently by individuals, indicating that it is not an absolute measure but rather influenced by personal opinions and experiences."
+        },
+        {
+            "Code": "Challenge in Evaluation",
+            "Definition": "This code captures the notion that assessing quality poses difficulties, suggesting that the evaluation process is complex and may vary based on individual perspectives."
+        }
+    ]
+}

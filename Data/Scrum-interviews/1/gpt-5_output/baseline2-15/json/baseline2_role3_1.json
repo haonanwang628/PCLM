@@ -1,0 +1,32 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Software Engineering Researcher (PhD)",
+            "codebook": [
+                {
+                    "code": "Process Discipline",
+                    "justification": "As a PhD-level SE researcher (QS: CS&IS; NSF: SE/HCC), my process-governance bias reads [software development process] as privileging formal discipline."
+                },
+                {
+                    "code": "Proactive Quality Assurance",
+                    "justification": "Role identity foregrounds agency; thus [we implement and exercise] signals intentional, proactive QA over purely reactive verification."
+                },
+                {
+                    "code": "Continuous Improvement",
+                    "justification": "From an empirical SE lens, [implement and exercise practices] implies iterative enactment and learning\u2014my reflexive assumption favors continuous improvement."
+                }
+            ]
+        }
+    ]
+}

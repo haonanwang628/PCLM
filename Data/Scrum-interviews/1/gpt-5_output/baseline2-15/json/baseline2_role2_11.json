@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Qualitative Software Engineering Researcher (PhD, CS Discipline)",
+            "codebook": [
+                {
+                    "code": "Process Centric Quality",
+                    "justification": "As a SE quality scholar, I read [We don\u2019t achieve software quality without a process that implement and foster quality practices.] as a normative claim. My bias toward process maturity foregrounds process as the locus of quality."
+                },
+                {
+                    "code": "Lifecycle Coverage Emphasis",
+                    "justification": "The phrase [It starts from the requirements elicitation and documentation to the testing.] signals holistic lifecycle scope. From a V&V-centric perspective, I privilege completeness over ad hoc practices."
+                },
+                {
+                    "code": "Review Culture Rigor",
+                    "justification": "I interpret [we have review processes for the requirements, the code and the design.] as valuing peer oversight. My QA lens equates structured reviews with rigor and defect prevention."
+                },
+                {
+                    "code": "Guideline Formalism",
+                    "justification": "The claim [We have check lists and documented guidelines.] suggests procedural codification. My reflexive assumption treats checklists/guidelines as indicators of process capability and governance."
+                }
+            ]
+        }
+    ]
+}

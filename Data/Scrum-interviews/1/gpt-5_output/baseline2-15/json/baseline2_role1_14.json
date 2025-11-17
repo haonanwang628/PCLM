@@ -1,0 +1,36 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflexive Software Engineering Researcher (PhD Candidate; CS-SE/HCI; NSF: Human-Centered Computing; Bias: pro-agile, socio-technical quality)",
+            "codebook": [
+                {
+                    "code": "Outcome process duality",
+                    "justification": "I foreground process\u2013outcome coupling; [Software quality is both outcome and process.] frames quality as a socio-technical construct rather than a single metric."
+                },
+                {
+                    "code": "Business value alignment",
+                    "justification": "From an HCI/SE lens, value is co-constructed; [ability to meet business needs] signals negotiated requirements beyond purely defect counts."
+                },
+                {
+                    "code": "Continuous improvement ethos",
+                    "justification": "My pro-agile bias privileges kaizen; [In agile, this is a continuous improvement process.] casts quality as iterative learning over static compliance."
+                },
+                {
+                    "code": "Experimental mindset",
+                    "justification": "I read an empirical stance; [In agile, we always experiment to come up with better ways.] implies hypothesis-driven change and adaptive governance."
+                }
+            ]
+        }
+    ]
+}

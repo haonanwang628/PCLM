@@ -1,0 +1,36 @@
+{
+    "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective SE-HCI researcher; Academic Level: Mid-career; Discipline (QS): Computer Science & Information Systems; Research Interests (NSF): Human-Centered Computing, Software Engineering; Biases: interpretivist, sociotechnical, user-centered",
+            "codebook": [
+                {
+                    "code": "Outcome-centric quality",
+                    "justification": "I foreground an outcome-oriented, constructivist view: [Software quality is the end result.], reading quality as emergent from socio-technical processes."
+                },
+                {
+                    "code": "Structural orientation",
+                    "justification": "From a SE lens, [a structural perspective] and [the code and the design] signal internal quality attributes requiring expert judgment and contested evaluation."
+                },
+                {
+                    "code": "Defect-free ideal",
+                    "justification": "The phrase [free of defects] encodes an absolutist ideal; in practice, defect taxonomies and severity thresholds are negotiated across teams."
+                },
+                {
+                    "code": "User requirements alignment",
+                    "justification": "My HCI/SE positionality foregrounds situated fit: [meets the end user requirements] depends on elicitation quality, evolving contexts, and interpretive stakeholder priors."
+                }
+            ]
+        }
+    ]
+}

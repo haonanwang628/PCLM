@@ -1,0 +1,32 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer with a bachelor's level understanding of statistics, my research interest lies in the intersection of economics and data analysis. My background in software development equips me with technical skills to analyze economic data, while my academic focus on statistics provides a solid foundation for quantitative research. However, I recognize that my cultural and personal biases may influence my interpretation of data, particularly in economic contexts. By acknowledging these biases, I strive to approach my research with a critical and reflective mindset, ensuring that my positionality informs, but does not unduly skew, my analysis and conclusions."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Quality Focus",
+                    "justification": "The phrase [internal software quality] highlights the emphasis on the intrinsic attributes of the software, which are crucial for long-term sustainability and maintainability, beyond just meeting business needs."
+                },
+                {
+                    "code": "Code Maintainability",
+                    "justification": "The need to [maintain, understand and reuse code] underscores the importance of writing code that is not only functional but also easy to modify and extend, which is a key aspect of software engineering best practices."
+                },
+                {
+                    "code": "Quality Evaluation Criteria",
+                    "justification": "The statement [evaluate quality] suggests a comprehensive approach to assessing software, incorporating both external performance and internal structural soundness, which is essential for holistic quality assurance."
+                }
+            ]
+        }
+    ]
+}

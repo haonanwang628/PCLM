@@ -1,0 +1,13 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Codebook": [
+        {
+            "Code": "Internal Quality",
+            "Definition": "Refers to the standards and measures that ensure the system is built and designed effectively from within."
+        },
+        {
+            "Code": "System Design",
+            "Definition": "Concerns the planning and structuring of a system to meet specific requirements and ensure functionality."
+        }
+    ]
+}

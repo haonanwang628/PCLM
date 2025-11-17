@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (Doctoral Candidate; QS: Computer Science & Information Systems; NSF: Human-Centered Computing & Software Engineering; biases: pragmatic simplification, value-alignment, quality-centric)",
+            "codebook": [
+                {
+                    "code": "Perceived Complexity",
+                    "justification": "Framing the inquiry as expansive [We need the whole hour just for this question!] signals subjective complexity and scope inflation."
+                },
+                {
+                    "code": "Simplification Heuristic",
+                    "justification": "The pivot to [let\u2019s make it simple.] indicates a deliberate reduction heuristic, privileging accessibility over nuance."
+                },
+                {
+                    "code": "Business-Value Alignment",
+                    "justification": "Prioritizing [meets business needs] encodes value-centric requirements; alignment quality is interpretive and context dependent."
+                },
+                {
+                    "code": "Defect-Free Ideal",
+                    "justification": "Asserting [free of defects] invokes a normative zero-defect stance; 'defect' definitions and thresholds are contested."
+                }
+            ]
+        }
+    ]
+}

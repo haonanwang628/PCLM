@@ -1,0 +1,36 @@
+{
+    "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Qualitative Software Engineering Researcher (PhD; CS/IS; NSF: HCC & SE; Reflexive)",
+            "codebook": [
+                {
+                    "code": "Quality Ambiguity",
+                    "justification": "[It is difficult to define and measure.] Signals a contested construct where operationalization hinges on chosen metrics and stakeholder values; my qualitative SE lens foregrounds construct validity and reflexive bias."
+                },
+                {
+                    "code": "Shift to Code Quality",
+                    "justification": "[a shift toward code quality] Reframes quality toward maintainability and readability\u2014value-laden priorities; as a CS/IS PhD researcher, I code this as a subjective level-of-analysis shift."
+                },
+                {
+                    "code": "Change Responsive Design",
+                    "justification": "[a design that responds to change] Elevates adaptability/evolvability as quality, a normative design stance; interpretation varies by context, risk tolerance, and agile ideology."
+                },
+                {
+                    "code": "Continuous Improvement",
+                    "justification": "[continuous improvement of the process] Invokes kaizen/process maturity, which are interpretively assessed; improvement is contingent on selected indicators and organizational sensemaking."
+                }
+            ]
+        }
+    ]
+}

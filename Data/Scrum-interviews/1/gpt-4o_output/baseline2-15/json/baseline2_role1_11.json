@@ -1,0 +1,32 @@
+{
+    "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner pursuing a Master's in Geography with a focus on Economics, I bring a unique perspective to my research. My background in product management informs my interest in the spatial dynamics of economic systems. I aim to explore how geographic factors influence economic development and decision-making. However, my epistemological assumptions may lead me to prioritize quantitative data and overlook qualitative insights. This positionality shapes my research by driving me to integrate economic theories with geographic analysis, while also challenging me to remain open to diverse methodologies and perspectives. My goal is to produce research that bridges these disciplines effectively."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Quality Process Implementation",
+                    "justification": "The text emphasizes the necessity of a structured process to achieve software quality, as seen in [a process that implement and foster quality practices]. This highlights the importance of systematic approaches in software development."
+                },
+                {
+                    "code": "Requirements Review",
+                    "justification": "The mention of [review processes for the requirements] underscores the critical role of thorough requirements analysis and validation in ensuring software quality, reflecting a key practice in software engineering."
+                },
+                {
+                    "code": "Documentation Guidelines",
+                    "justification": "The reference to [check lists and documented guidelines] indicates the reliance on formal documentation to guide and standardize quality practices, which is essential for maintaining consistency and accountability in software projects."
+                }
+            ]
+        }
+    ]
+}

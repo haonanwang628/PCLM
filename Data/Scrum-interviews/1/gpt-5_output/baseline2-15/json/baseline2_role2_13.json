@@ -1,0 +1,32 @@
+{
+    "target_text": "\"000\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflexive Researcher (PhD; HCI/Information Science; AI/NLP bias; constructivist, ethics-first)",
+            "codebook": [
+                {
+                    "code": "Symbolic Void",
+                    "justification": "Interpreting [000] via semiotic analysis, repeated zeros index absence/void rather than content. My constructivist stance foregrounds meaning emerging from form, not referent."
+                },
+                {
+                    "code": "Placeholder Ambiguity",
+                    "justification": "As in dataset conventions, [000] often marks a placeholder, signaling undecidability about intended value. This ambiguity requires judgment under incomplete specification."
+                },
+                {
+                    "code": "Anonymized Minimalism",
+                    "justification": "The sparse string [000] performs intentional minimalism, akin to redaction or de-identification practices. HCI/Information-science lenses read this as risk-averse signaling."
+                }
+            ]
+        }
+    ]
+}

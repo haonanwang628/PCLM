@@ -1,0 +1,36 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (PhD Candidate; QS: Computer Science & Information Systems; NSF: Human-Centered Computing; Biases: pro\u2011agile, socio\u2011technical, value\u2011centric)",
+            "codebook": [
+                {
+                    "code": "Outcome Process Duality",
+                    "justification": "[Software quality is both outcome and process.] This signals a socio-technical framing, integrating product metrics with process capability and culture."
+                },
+                {
+                    "code": "Business Alignment",
+                    "justification": "[meet business needs] positions quality as stakeholder value and fitness-for-purpose, an interpretive criterion beyond purely technical metrics."
+                },
+                {
+                    "code": "Continuous Improvement Mindset",
+                    "justification": "[a continuous improvement process] foregrounds kaizen, retrospectives, and feedback loops as the locus of quality evolution."
+                },
+                {
+                    "code": "Experimental Culture",
+                    "justification": "[we always experiment] indexes hypothesis-driven development and organizational learning as normative practices."
+                }
+            ]
+        }
+    ]
+}

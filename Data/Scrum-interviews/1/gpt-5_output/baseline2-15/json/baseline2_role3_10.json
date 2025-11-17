@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Doctoral Qualitative Software Engineering Researcher",
+            "codebook": [
+                {
+                    "code": "Maintainability Focus",
+                    "justification": "[maintainable code] signals a non-functional quality priority; as a doctoral SE qualitative analyst (QS: CS; NSF: Software Engineering/HCC), I interpret maintainability as a negotiated, team-specific norm."
+                },
+                {
+                    "code": "Best-Practice Orientation",
+                    "justification": "[well established guidelines] indicates standards-driven values; my bias toward codified best practices privileges guideline adherence over situational, emergent conventions."
+                },
+                {
+                    "code": "Design Sustainability",
+                    "justification": "[sustainability of the design] frames architectural longevity; through an HCC-SE lens, sustainability is interpretive, balancing maintainability, performance, and socio-technical debt."
+                },
+                {
+                    "code": "Evolvability Emphasis",
+                    "justification": "[cope with new requirements easily] foregrounds evolvability; I assume agile change-orientation, which may overvalue flexibility relative to upfront specification."
+                }
+            ]
+        }
+    ]
+}

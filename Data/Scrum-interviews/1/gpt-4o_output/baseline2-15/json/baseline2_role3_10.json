@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "As a software developer pursuing a master's degree in anthropology, my research is uniquely positioned at the intersection of technology, culture, and economics. My interest lies in understanding how economic systems influence societal structures and ethical considerations within digital communities. I recognize that my technical background may lead me to prioritize quantitative data and technological solutions, potentially overlooking qualitative cultural nuances. This awareness drives me to critically engage with my assumptions, ensuring a balanced approach. My positionality shapes my research by encouraging a multidisciplinary perspective, integrating technological insights with anthropological and economic theories to explore the ethical implications of digital economies."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Maintainable Code",
+                    "justification": "The phrase [maintainable code] highlights the importance of writing code that is easy to understand, modify, and extend. This aligns with software engineering principles that prioritize long-term usability and adaptability of software systems."
+                },
+                {
+                    "code": "Design Sustainability",
+                    "justification": "The term [sustainability of the design] emphasizes the need for software architecture that can accommodate future changes. This reflects a forward-thinking approach in software development, ensuring that the design remains relevant and functional over time."
+                },
+                {
+                    "code": "Adherence to Guidelines",
+                    "justification": "The phrase [conforms to well established guidelines] underscores the significance of following industry standards and best practices. This ensures consistency, reliability, and quality in software development, which are critical for successful project outcomes."
+                },
+                {
+                    "code": "Adaptability to Requirements",
+                    "justification": "The statement [able to cope with new requirements easily] indicates the necessity for software to be flexible and responsive to evolving needs. This is crucial for maintaining the software's relevance and effectiveness in dynamic environments."
+                }
+            ]
+        }
+    ]
+}

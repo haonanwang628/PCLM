@@ -1,0 +1,25 @@
+{
+    "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "Codebook": [
+        {
+            "Code": "Difficulty in Definition",
+            "Definition": "The challenge of clearly defining and measuring concepts, indicating ambiguity in understanding."
+        },
+        {
+            "Code": "Focus on Product Quality",
+            "Definition": "The emphasis on ensuring that products are free of defects and meet customer needs prior to the adoption of agile methodologies."
+        },
+        {
+            "Code": "Shift to Code Quality",
+            "Definition": "The transition in focus from general product quality to specific aspects of code quality within agile practices."
+        },
+        {
+            "Code": "Design Responsiveness",
+            "Definition": "The ability of design to adapt and respond to changes, highlighting flexibility in development processes."
+        },
+        {
+            "Code": "Continuous Improvement",
+            "Definition": "The ongoing effort to enhance processes, indicating a commitment to evolving practices over time."
+        }
+    ]
+}

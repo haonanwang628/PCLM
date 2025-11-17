@@ -1,0 +1,21 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Codebook": [
+        {
+            "Code": "Internal Software Quality",
+            "Definition": "Refers to the quality of the software from an internal perspective, focusing on aspects such as maintainability, understandability, and reusability of the code."
+        },
+        {
+            "Code": "Business Needs Alignment",
+            "Definition": "Indicates the degree to which the final product meets the requirements and expectations set by the business stakeholders."
+        },
+        {
+            "Code": "Defect Management",
+            "Definition": "Concerns the identification and reduction of defects in the software, aiming for a product with fewer errors."
+        },
+        {
+            "Code": "Quality Evaluation Criteria",
+            "Definition": "The standards or desires used to assess the quality of the software, including factors like maintainability and code reuse."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Software-Quality Researcher (Doctoral; CS/Software Engineering; NSF interest: sustainable software & quality; Biases: standards-oriented, long-termism)",
+            "codebook": [
+                {
+                    "code": "Clean Code Ideal",
+                    "justification": "[We aim for clean code.] As a standards-oriented SE scholar, \u201cclean\u201d is a normative aesthetic, negotiated by teams and communities rather than objectively fixed."
+                },
+                {
+                    "code": "Maintainability Priority",
+                    "justification": "Anchored by [maintainable code]. Maintainability is interpretive\u2014shaped by conventions, tooling, and experience\u2014without a single definitive metric."
+                },
+                {
+                    "code": "Guideline Conformity",
+                    "justification": "Cued by [well established guidelines]. Which guidelines are privileged and how strictly they\u2019re construed are subjective, reflecting methodological allegiances."
+                },
+                {
+                    "code": "Future-Proof Design",
+                    "justification": "Signaled by [cope with new requirements easily]. My long-termism bias foregrounds evolvability; judgments of \u201cease\u201d and acceptable change cost are context-dependent."
+                }
+            ]
+        }
+    ]
+}

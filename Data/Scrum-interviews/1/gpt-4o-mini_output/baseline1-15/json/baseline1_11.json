@@ -1,0 +1,25 @@
+{
+    "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "Codebook": [
+        {
+            "Code": "Quality Process",
+            "Definition": "Refers to the systematic approach and practices implemented to ensure software quality throughout the development lifecycle."
+        },
+        {
+            "Code": "Requirements Elicitation",
+            "Definition": "The process of gathering and documenting the needs and expectations of stakeholders to inform software development."
+        },
+        {
+            "Code": "Review Processes",
+            "Definition": "Structured evaluations conducted on requirements, code, and design to ensure adherence to quality standards."
+        },
+        {
+            "Code": "Checklists",
+            "Definition": "Lists of items or criteria used to verify that specific quality practices and standards are met during the software development process."
+        },
+        {
+            "Code": "Documented Guidelines",
+            "Definition": "Formalized instructions and best practices that guide the software development process to maintain quality."
+        }
+    ]
+}

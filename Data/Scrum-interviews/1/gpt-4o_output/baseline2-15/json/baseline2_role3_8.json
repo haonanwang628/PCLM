@@ -1,0 +1,28 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "As a software developer pursuing a master's degree in anthropology, my research is uniquely positioned at the intersection of technology, culture, and economics. My interest lies in understanding how economic systems influence societal structures and ethical considerations within digital communities. I recognize that my technical background may lead me to prioritize quantitative data and technological solutions, potentially overlooking qualitative cultural nuances. This awareness drives me to critically engage with my assumptions, ensuring a balanced approach. My positionality shapes my research by encouraging a multidisciplinary perspective, integrating technological insights with anthropological and economic theories to explore the ethical implications of digital economies."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Quality Assurance",
+                    "justification": "The phrase [It is important to also assure internal quality] highlights the necessity of maintaining standards within a system, emphasizing the subjective nature of quality assurance processes."
+                },
+                {
+                    "code": "System Design Integrity",
+                    "justification": "The phrase [the way that the system has been built and designed] underscores the importance of the system's architecture, which is crucial for ensuring its reliability and effectiveness."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner pursuing a Master's in Geography with a focus on Economics, I bring a unique perspective to my research. My background in product management informs my interest in the spatial dynamics of economic systems. I aim to explore how geographic factors influence economic development and decision-making. However, my epistemological assumptions may lead me to prioritize quantitative data and overlook qualitative insights. This positionality shapes my research by driving me to integrate economic theories with geographic analysis, while also challenging me to remain open to diverse methodologies and perspectives. My goal is to produce research that bridges these disciplines effectively."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Quality Focus",
+                    "justification": "The phrase [internal software quality] highlights the emphasis on the intrinsic attributes of the software, which are crucial for long-term sustainability and maintainability, beyond just meeting business needs."
+                },
+                {
+                    "code": "Code Maintainability",
+                    "justification": "The need to [maintain, understand and reuse code] underscores the importance of writing code that is not only functional but also easy to modify and extend, which is a key aspect of software engineering best practices."
+                },
+                {
+                    "code": "Quality Evaluation Criteria",
+                    "justification": "The statement [evaluate quality] suggests a comprehensive approach to assessing software, incorporating both external and internal metrics, which is essential for holistic quality assurance."
+                }
+            ]
+        }
+    ]
+}

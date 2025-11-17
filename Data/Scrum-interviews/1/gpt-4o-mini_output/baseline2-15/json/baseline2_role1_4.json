@@ -1,0 +1,32 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner with a Master's level education in Geography, my research interests lie at the intersection of economic systems and spatial dynamics. I aim to explore how geographical factors influence economic outcomes, particularly in urban settings. However, I recognize that my epistemological assumptions may shape my interpretations, potentially leading me to prioritize quantitative data over qualitative insights. This positionality influences my research by framing my questions and analysis through a lens that may overlook alternative perspectives. By acknowledging these dimensions, I strive to approach my work with greater reflexivity, ensuring a more comprehensive understanding of the complex interplay between geography and economics."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Software Quality",
+                    "justification": "The emphasis on 'internal software quality' highlights the importance of code maintainability and understandability, which are subjective measures of quality."
+                },
+                {
+                    "code": "Business Needs vs. Quality",
+                    "justification": "The phrase 'confirm to business needs and have fewer defects' illustrates the tension between meeting external requirements and ensuring internal quality, a nuanced evaluation."
+                },
+                {
+                    "code": "Code Reusability",
+                    "justification": "The mention of 'desires to maintain, understand and reuse code' indicates a focus on long-term software sustainability, which is often judged based on developer experience."
+                }
+            ]
+        }
+    ]
+}

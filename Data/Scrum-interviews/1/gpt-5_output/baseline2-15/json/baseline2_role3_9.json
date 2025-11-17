@@ -1,0 +1,36 @@
+{
+    "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Doctoral Researcher \u2014 Software Engineering (QS: Computer Science & Info Systems); NSF interest: Human-Centered Computing/Software Engineering; Bias: favors process maturity, CI/CD, QA governance",
+            "codebook": [
+                {
+                    "code": "Outcome Focus",
+                    "justification": "The phrase [To achieve that] signals a teleological, outcome-first framing guiding process rationale from my SE/HCI lens."
+                },
+                {
+                    "code": "Process Robustness Emphasis",
+                    "justification": "The segment [robust software development process] encodes a normative expectation of process maturity and resilience (CMMI-style robustness)."
+                },
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "The clause [continuous review and improvements] foregrounds an iterative learning culture (retrospectives, CI/CD) and kaizen orientation."
+                },
+                {
+                    "code": "Governance Orientation",
+                    "justification": "Being [subjected to continuous review] implies externalized oversight and accountability structures, a quality governance stance."
+                }
+            ]
+        }
+    ]
+}

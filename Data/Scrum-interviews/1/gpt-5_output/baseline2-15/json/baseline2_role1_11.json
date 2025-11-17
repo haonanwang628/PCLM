@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflexive Empirical Software Engineering Researcher (PhD Candidate; QS: Computer Science; NSF: Human-Centered Computing/Software & Systems; Bias: process-centric, formalization-valuing)",
+            "codebook": [
+                {
+                    "code": "Process-Centric Quality",
+                    "justification": "The claim [We don\u2019t achieve software quality without a process] foregrounds normative reliance on structured workflows, echoing my empirical SE bias toward process as a quality mediator."
+                },
+                {
+                    "code": "Lifecycle Holism",
+                    "justification": "Referencing [requirements elicitation and documentation] [to the testing] frames quality as end-to-end, an interpretive holistic stance about where assurance is constituted."
+                },
+                {
+                    "code": "Peer Oversight Culture",
+                    "justification": "Emphasis on [review processes] signals sociotechnical governance\u2014quality emerging through collective judgment rather than solely individual craftsmanship."
+                },
+                {
+                    "code": "Documentation-Driven Control",
+                    "justification": "Highlighting [check lists and documented guidelines] implies a formalization bias; I read documentation as a control artifact shaping compliance and accountability."
+                }
+            ]
+        }
+    ]
+}

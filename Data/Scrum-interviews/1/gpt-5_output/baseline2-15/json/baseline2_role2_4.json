@@ -1,0 +1,36 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflexive PhD Researcher - Computer Science (QS), Human-Centered Computing (NSF); bias toward internal code health",
+            "codebook": [
+                {
+                    "code": "Internal Quality Emphasis",
+                    "justification": "From a reflexive PhD CS/HCC stance, emphasis on [internal software quality] and that it [doesn\u2019t always mean the internal quality is acceptable] foregrounds intrinsic code health beyond defect counts. Aligns with ISO/IEC 25010."
+                },
+                {
+                    "code": "Maintainability Priority",
+                    "justification": "As a bias-aware SE researcher, highlighting [maintain] elevates a non-functional attribute; maintainability appraisals hinge on heuristics (code smells, complexity), not ground truths."
+                },
+                {
+                    "code": "Code Understandability",
+                    "justification": "From a human-centered lens, valuing [understand] invokes readability and cognitive load; understandability assessments are interpretive and context-dependent."
+                },
+                {
+                    "code": "Reusability Valuation",
+                    "justification": "Emphasizing [reuse code] frames quality as portability and modularity; reuse readiness is normatively judged via design decoupling, documentation, and style conventions."
+                }
+            ]
+        }
+    ]
+}

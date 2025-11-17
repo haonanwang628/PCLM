@@ -1,0 +1,25 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Codebook": [
+        {
+            "Code": "Clean Code",
+            "Definition": "Code that is easy to read, understand, and maintain, adhering to established coding guidelines."
+        },
+        {
+            "Code": "Maintainability",
+            "Definition": "The ability of the code to be easily modified or updated without introducing errors or requiring extensive rework."
+        },
+        {
+            "Code": "Sustainability of Design",
+            "Definition": "The capacity of the software design to adapt to new requirements and changes over time without significant restructuring."
+        },
+        {
+            "Code": "Adherence to Guidelines",
+            "Definition": "Following well-established coding standards and practices to ensure quality and consistency in the codebase."
+        },
+        {
+            "Code": "Adaptability",
+            "Definition": "The ability of the software to accommodate new features or changes in requirements with minimal effort."
+        }
+    ]
+}

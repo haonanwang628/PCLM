@@ -1,0 +1,17 @@
+{
+    "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "Codebook": [
+        {
+            "Code": "Perceived Question Difficulty",
+            "Definition": "Statements that characterize a question as difficult or challenging."
+        },
+        {
+            "Code": "Assertion of Subjectivity",
+            "Definition": "Statements that describe a key term or judgment as subjective, implying it varies by individual perspective."
+        },
+        {
+            "Code": "Causal Justification",
+            "Definition": "Statements that provide an explicit reason for a claim using causal connectors such as 'because'."
+        }
+    ]
+}

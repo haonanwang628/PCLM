@@ -1,0 +1,25 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Codebook": [
+        {
+            "Code": "Time Requirement",
+            "Definition": "The need for a significant amount of time to address a particular question or task, indicating its complexity or importance."
+        },
+        {
+            "Code": "Simplification",
+            "Definition": "The act of making a complex issue easier to understand or deal with by breaking it down into simpler components."
+        },
+        {
+            "Code": "Software Development",
+            "Definition": "The process of creating, designing, deploying, and supporting software, with a focus on meeting specific business needs."
+        },
+        {
+            "Code": "Business Needs",
+            "Definition": "The requirements or objectives that a business aims to fulfill through the development and implementation of software solutions."
+        },
+        {
+            "Code": "Defect-Free Software",
+            "Definition": "The goal of producing software that is free from errors or bugs, ensuring reliability and quality in its performance."
+        }
+    ]
+}

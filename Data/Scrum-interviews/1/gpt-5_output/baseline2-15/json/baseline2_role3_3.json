@@ -1,0 +1,32 @@
+{
+    "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher \u2014 Graduate, Social Sciences (STS/HCI), HCC, Constructivist",
+            "codebook": [
+                {
+                    "code": "Subjective Quality",
+                    "justification": "From an interpretivist social-science lens, I foreground evaluative relativism; [quality is a subjective concept] signals non-commensurable criteria. As an HCC-focused grad researcher, I anticipate inter-rater variability across contexts."
+                },
+                {
+                    "code": "Ambiguous Evaluation",
+                    "justification": "My reflexive stance reads [It is a challenging question] as epistemic uncertainty undermining a singular metric. STS disciplinary bias problematizes universalist quality thresholds."
+                },
+                {
+                    "code": "Context-Dependent Judgment",
+                    "justification": "Guided by constructivist assumptions, [quality is a subjective concept] implies context-contingent operationalization. This aligns with NSF HCC interests in stakeholder-defined standards."
+                }
+            ]
+        }
+    ]
+}

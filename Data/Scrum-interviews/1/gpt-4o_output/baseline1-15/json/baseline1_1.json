@@ -1,0 +1,21 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Codebook": [
+        {
+            "Code": "Software Development Process",
+            "Definition": "The series of steps or stages involved in creating and maintaining software applications."
+        },
+        {
+            "Code": "Implementation",
+            "Definition": "The act of putting a plan or system into operation within the software development process."
+        },
+        {
+            "Code": "Exercise Practices",
+            "Definition": "The application and execution of specific methods or techniques during the software development process."
+        },
+        {
+            "Code": "Quality Assurance",
+            "Definition": "The systematic activities implemented in a software development process to ensure that the product meets specified requirements and standards."
+        }
+    ]
+}

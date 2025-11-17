@@ -1,0 +1,32 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer with a bachelor's level understanding of statistics, my research interest lies in the intersection of economics and data analysis. My background in software development equips me with technical skills to analyze economic data, while my academic focus on statistics provides a solid foundation for quantitative research. However, I recognize that my cultural and personal biases may influence my interpretation of data, particularly in economic contexts. By acknowledging these biases, I strive to approach my research with a critical and reflective mindset, ensuring that my positionality informs, but does not unduly skew, my analysis and conclusions."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Maintainable Code",
+                    "justification": "The phrase [maintainable code that confirms to well established guidelines] highlights the importance of creating software that is easy to update and manage, reflecting a key principle in software engineering for long-term efficiency."
+                },
+                {
+                    "code": "Design Sustainability",
+                    "justification": "The statement [sustainability of the design] emphasizes the need for a software architecture that can adapt to future changes, a critical aspect in ensuring the longevity and relevance of software systems."
+                },
+                {
+                    "code": "Adaptability",
+                    "justification": "The phrase [able to cope with new requirements easily] underscores the necessity for software to be flexible and responsive to evolving user needs, a fundamental concept in agile development methodologies."
+                }
+            ]
+        }
+    ]
+}

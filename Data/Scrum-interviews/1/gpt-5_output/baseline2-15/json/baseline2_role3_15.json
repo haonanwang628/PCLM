@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Software Engineering PhD Researcher",
+            "codebook": [
+                {
+                    "code": "Perceived Complexity",
+                    "justification": "[We need the whole hour just for this question!] foregrounds perceived task complexity and scope. From a socio-technical lens, this frames cognitive load and negotiation of problem boundaries."
+                },
+                {
+                    "code": "Reductionist Framing",
+                    "justification": "[let\u2019s make it simple.] indicates a deliberate reductionism privileging communicability over nuance. As an SE/HCI researcher, I read this as a trade-off between fidelity and pragmatic clarity."
+                },
+                {
+                    "code": "Business Value Alignment",
+                    "justification": "[meets business needs] is a subjective, stakeholder-contingent criterion shaped by salience and requirements elicitation. I privilege stakeholder salience; value alignment varies across contexts, metrics, and governance regimes."
+                },
+                {
+                    "code": "Zero Defect Ideal",
+                    "justification": "[free of defects] expresses an aspirational quality norm dependent on defect taxonomies and severity thresholds. My quality bias recognizes QA standards encode negotiated risk tolerances, not absolute absence."
+                }
+            ]
+        }
+    ]
+}

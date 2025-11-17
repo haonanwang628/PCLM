@@ -1,0 +1,36 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (PhD candidate; Computer Science - Software Engineering; NSF IIS/HCC; biases: pro-Agile, socio-technical quality)",
+            "codebook": [
+                {
+                    "code": "Outcome-Process Duality",
+                    "justification": "From a socio-technical SE lens, interpreting [Software quality is both outcome and process.] entails subjective weighting of process vs product."
+                },
+                {
+                    "code": "Business Value Alignment",
+                    "justification": "As an agile-oriented researcher, quality tied to [meet business needs] relies on stakeholder sensemaking of value and context-specific success criteria."
+                },
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "Casting agile as a [continuous improvement process] is normative; what counts as 'better' hinges on chosen metrics and organizational culture."
+                },
+                {
+                    "code": "Experimental Mindset",
+                    "justification": "The claim [we always experiment] reflects an interpretive stance on learning loops, with rigor and risk tolerance negotiated in practice."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "As a software developer pursuing a master's degree in anthropology, my research is uniquely positioned at the intersection of technology, culture, and economics. My interest lies in understanding how economic systems influence societal structures and ethical considerations within digital communities. I recognize that my technical background may lead me to prioritize quantitative data and technological solutions, potentially overlooking qualitative cultural nuances. This awareness drives me to critically engage with my assumptions, ensuring a balanced approach. My positionality shapes my research by encouraging a multidisciplinary perspective, integrating technological insights with anthropological and economic theories to explore the ethical implications of digital economies."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Quality Focus",
+                    "justification": "The phrase [internal software quality] highlights the emphasis on the intrinsic attributes of the software, which are crucial for long-term sustainability and maintainability, beyond just meeting external business requirements."
+                },
+                {
+                    "code": "Code Maintainability",
+                    "justification": "The need to [maintain, understand and reuse code] underscores the importance of designing software that is not only functional but also adaptable and easy to modify, which is essential for efficient software lifecycle management."
+                },
+                {
+                    "code": "Quality Evaluation Criteria",
+                    "justification": "The statement [evaluate quality] suggests a comprehensive approach to assessing software, incorporating both external performance metrics and internal structural soundness, which is vital for holistic quality assurance."
+                }
+            ]
+        }
+    ]
+}

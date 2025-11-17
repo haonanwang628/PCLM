@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Software Engineering Researcher (Senior PhD; QS: Engineering & Technology; NSF: CI/SE)",
+            "codebook": [
+                {
+                    "code": "Clean Code Norms",
+                    "justification": "The value claim [We aim for clean code.] encodes subjective aesthetics and readability norms. Reflexively, as a senior PhD in SE (QS: Engineering), CI/SE focus, I foreground stylistic conventions."
+                },
+                {
+                    "code": "Maintainability Emphasis",
+                    "justification": "Framing quality as [maintainable code] relies on contextual judgment about complexity, coupling, and debt. My lifecycle-cost bias (NSF: CI/SE) prioritizes maintainability in evaluation criteria."
+                },
+                {
+                    "code": "Guideline Conformance",
+                    "justification": "Invoking [well established guidelines] leans on community standards whose interpretation varies by team and domain. My methods bias prefers formalized rules (linters) as proxies."
+                },
+                {
+                    "code": "Design Evolvability",
+                    "justification": "Preference for systems that [cope with new requirements easily] elevates evolvability, a negotiated, future-facing quality. With a software architecture lens, I privilege adaptability over initial optimality."
+                }
+            ]
+        }
+    ]
+}

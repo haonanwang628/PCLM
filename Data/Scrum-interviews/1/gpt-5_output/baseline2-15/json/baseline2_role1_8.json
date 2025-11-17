@@ -1,0 +1,36 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (PhD Candidate); Computer Science\u2014Software Engineering; Research: Trustworthy AI & Human-Centered Computing; Bias: process-centric, quality-first lens",
+            "codebook": [
+                {
+                    "code": "Internal Quality Priority",
+                    "justification": "Centers the evaluative emphasis on [assure internal quality], elevating it as a primary criterion in QA trade-offs. My SE lens treats this prioritization as value-laden rather than objective."
+                },
+                {
+                    "code": "Design-Build Integrity",
+                    "justification": "Links quality to process via [built and designed], foregrounding integrity judgments about architecture and implementation. Such integrity is assessed through subjective heuristics (cohesion, modularity)."
+                },
+                {
+                    "code": "Systemic Assurance Focus",
+                    "justification": "[Internal quality] signals an inward, system-centric locus of evaluation, not purely outcomes or UX. This stance hinges on chosen metrics (e.g., code smells) and interpretive thresholds."
+                },
+                {
+                    "code": "Normative Design Judgement",
+                    "justification": "The modal [It is important] encodes a value claim about acceptable design practices. My bias favors process rigor, shaping how I score adequacy and risk."
+                }
+            ]
+        }
+    ]
+}

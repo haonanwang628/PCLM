@@ -1,0 +1,36 @@
+{
+    "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective SE Researcher (PhD; CS/Software Engineering; NSF: Software Systems; Bias: prioritizes internal quality/maintainability)",
+            "codebook": [
+                {
+                    "code": "Internal Quality Emphasis",
+                    "justification": "Privileging [the internal software quality] signals a value-laden focus on non-functional attributes. This centers internal acceptability [the internal quality] over purely external outcomes."
+                },
+                {
+                    "code": "Quality Beyond Defects",
+                    "justification": "Contrasts external fit and [fewer defects] with internal standards, asserting that success [doesn\u2019t always mean the internal quality is acceptable]. Emphasizes subjective adequacy over metric counts."
+                },
+                {
+                    "code": "Maintainability Orientation",
+                    "justification": "Elevates evolvability via [maintain, understand and reuse code] as quality determinants [to evaluate quality], aligning with ISO 25010 maintainability. Judgments hinge on team expertise and conventions."
+                },
+                {
+                    "code": "Evaluation Criteria Expansion",
+                    "justification": "Advocates broadening the quality model: [We have to add the desires] and integrate internal attributes [to evaluate quality]. This reframes assessment as normative, not purely empirical."
+                }
+            ]
+        }
+    ]
+}

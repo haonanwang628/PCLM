@@ -1,0 +1,36 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "As a software developer pursuing a Master's in Anthropology with a focus on Economics, my background shapes my research goals to explore the intersection of technology and societal structures. I aim to understand how economic systems influence cultural practices and vice versa. However, I recognize my biases stemming from ethical and societal assumptions inherent in my technical background, which may color my interpretations of anthropological data. This positionality compels me to critically examine how my experiences and perspectives influence my analysis, ensuring that I remain aware of the complexities within the subjects I study and strive for a more nuanced understanding of the human experience."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Outcome and Process",
+                    "justification": "The text emphasizes that software quality encompasses both the end product and the methods used to achieve it, highlighting the dual nature of quality assessment."
+                },
+                {
+                    "code": "Continuous Improvement",
+                    "justification": "The phrase 'continuous improvement process' indicates an iterative approach, which is central to agile methodologies, reflecting a commitment to evolving practices."
+                },
+                {
+                    "code": "Experimentation in Agile",
+                    "justification": "The mention of 'we always experiment' underscores the importance of trial and error in agile practices, which is crucial for fostering innovation and adaptability."
+                },
+                {
+                    "code": "Meeting Business Needs",
+                    "justification": "The focus on 'ability to meet business needs' illustrates the alignment of software quality with organizational goals, emphasizing the practical implications of quality assessment."
+                }
+            ]
+        }
+    ]
+}

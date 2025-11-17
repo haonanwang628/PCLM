@@ -1,0 +1,21 @@
+{
+    "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+    "Codebook": [
+        {
+            "Code": "Question Importance Acknowledgement",
+            "Definition": "Expresses that the question is very important, signaling strong recognition of its significance."
+        },
+        {
+            "Code": "Requirements Conformance",
+            "Definition": "Defines software quality as the product conforming to specified requirements."
+        },
+        {
+            "Code": "Defect-Free Product",
+            "Definition": "Asserts that being free of defects is a key aspect of software quality."
+        },
+        {
+            "Code": "Primary Criteria Emphasis",
+            "Definition": "Highlights that these aspects are considered the foremost criteria for software quality (e.g., \u2018first and most\u2019)."
+        }
+    ]
+}

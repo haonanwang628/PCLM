@@ -1,0 +1,36 @@
+{
+    "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Qualitative Software Engineering Researcher",
+            "codebook": [
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "The phrase [subject to continuous improvements] indexes a kaizen-oriented value system. From a qualitative SE PhD lens, ethos shapes prioritization more than metrics."
+                },
+                {
+                    "code": "Ritualized Reflection",
+                    "justification": "[We use retrospectives] encodes ritualized reflective practice, not a purely technical mandate. As a human-centered SE researcher, [continuously reflect] signals culture-dependent learning."
+                },
+                {
+                    "code": "Quality-Centric Aspiration",
+                    "justification": "The aim [better at delivering quality software] asserts a contested, normative 'quality'. My interpretivist bias treats quality as negotiated within context."
+                },
+                {
+                    "code": "Process Primacy",
+                    "justification": "The assertion [That\u2019s the process.] elevates method\u2014process primacy\u2014over artifacts. This teleology steers sensemaking and legitimizes choices beyond measurements."
+                }
+            ]
+        }
+    ]
+}

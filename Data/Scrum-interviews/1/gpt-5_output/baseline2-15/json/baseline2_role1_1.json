@@ -1,0 +1,36 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (Doctoral CS/SE; QS: CS & IS; NSF: SE/HCC)",
+            "codebook": [
+                {
+                    "code": "Quality Focused Intent",
+                    "justification": "As a doctoral CS/SE reflective researcher (QS; NSF SE/HCC), I read [assure quality] as declared prioritization\u2014normative intent guiding socio-technical decisions and process maturity metrics."
+                },
+                {
+                    "code": "Proactive Practice Adoption",
+                    "justification": "From a doctoral CS/SE lens (QS; NSF SE), [implement and exercise] signals proactive orientation over mere compliance\u2014my process-maturity bias favors continuous improvement."
+                },
+                {
+                    "code": "Process Oriented Framing",
+                    "justification": "Framing via [software development process] foregrounds lifecycle governance; as an HCC/SE researcher, I privilege structured workflows, which shapes what I code as salient."
+                },
+                {
+                    "code": "Collective Agency",
+                    "justification": "The pronoun choice [we implement] cues team-level agency; my reflexive, sociotechnical stance imputes shared responsibility for QA outcomes."
+                }
+            ]
+        }
+    ]
+}

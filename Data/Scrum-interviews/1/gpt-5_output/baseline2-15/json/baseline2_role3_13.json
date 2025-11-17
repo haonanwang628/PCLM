@@ -1,0 +1,36 @@
+{
+    "target_text": "\"000\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Qualitative Analyst (Doctoral; Social Sciences/HCI; NSF HCC/IIS)",
+            "codebook": [
+                {
+                    "code": "Minimalist expression",
+                    "justification": "As a reflexive qualitative analyst (doctoral; social sciences/HCI), I read [000] as deliberate minimalism; my semiotic bias privileges form over content."
+                },
+                {
+                    "code": "Nullity symbolism",
+                    "justification": "With CS-adjacent research (NSF IIS/HCC), zeros index absence; I interpret [000] as symbolizing nullity, reflecting cross-disciplinary numeracy assumptions."
+                },
+                {
+                    "code": "Quoted self-reference",
+                    "justification": "The doubled quotes in [\"\"000\"\"] cue meta-ness; my interpretivist discourse lens foregrounds self-referential framing, acknowledging hermeneutic bias."
+                },
+                {
+                    "code": "Repetitive emphasis",
+                    "justification": "From discourse analysis training, repetition (tripled [000]) signals marked emphasis; I may over-read salience due to pattern-sensitivity."
+                }
+            ]
+        }
+    ]
+}

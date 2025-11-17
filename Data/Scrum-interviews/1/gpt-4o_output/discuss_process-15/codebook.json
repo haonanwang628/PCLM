@@ -1,0 +1,1145 @@
+[
+    {
+        "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+        "Code_GroundTruth": [
+            "Software quality",
+            "Process quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner",
+                "codebook": [
+                    {
+                        "code": "Process Quality",
+                        "justification": "The phrase [quality takes place in the process level] highlights the importance of process optimization, a key concern in product management to ensure efficiency and effectiveness in delivering value."
+                    },
+                    {
+                        "code": "Software Quality",
+                        "justification": "The mention of [quality takes place in the software level] underscores the critical role of software reliability and performance, which are essential for maintaining user satisfaction and competitive advantage."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Process Quality",
+                        "justification": "The phrase [quality takes place in the process level] highlights the importance of evaluating quality within the procedural aspects of software development. This involves assessing methodologies, workflows, and practices that contribute to the overall effectiveness and efficiency of the software creation process."
+                    },
+                    {
+                        "code": "Software Quality",
+                        "justification": "The phrase [quality takes place in the software level] emphasizes the need to assess the end product itself. This includes evaluating the software's functionality, reliability, and performance, which are critical for ensuring that the software meets user needs and industry standards."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Process Quality",
+                        "justification": "The phrase [quality takes place in the process level] highlights the importance of evaluating quality within the procedural aspects of software development, emphasizing the need for systematic analysis and improvement."
+                    },
+                    {
+                        "code": "Software Quality",
+                        "justification": "The mention of [quality takes place in the software level] suggests a focus on the end product's attributes, requiring subjective assessment of software performance, reliability, and user satisfaction."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Process Quality",
+                "definition": "The phrase [quality takes place in the process level] is consistently interpreted as emphasizing the importance of evaluating and optimizing procedural aspects of software development, such as methodologies, workflows, and practices, to ensure efficiency and effectiveness."
+            },
+            {
+                "code": "Software Quality",
+                "definition": "The mention of [quality takes place in the software level] is uniformly understood as focusing on the end product's attributes, including functionality, reliability, and performance, which are critical for meeting user needs and maintaining competitive advantage."
+            }
+        ]
+    },
+    {
+        "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+        "Code_GroundTruth": [
+            "Quality assurance",
+            "Practicing quality assurance"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The phrase [assure quality] indicates a focus on maintaining high standards, a key concern in software engineering to ensure reliability and performance."
+                    },
+                    {
+                        "code": "Development Practices",
+                        "justification": "The term [implement and exercise practices] suggests a systematic approach to software development, emphasizing the importance of methodical processes in achieving desired outcomes."
+                    },
+                    {
+                        "code": "Process Implementation",
+                        "justification": "The phrase [software development process] highlights the structured sequence of activities involved, reflecting the procedural nature of software engineering."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The phrase [assure quality] indicates a focus on maintaining high standards, a key concern in software engineering to ensure reliability and performance."
+                    },
+                    {
+                        "code": "Development Practices",
+                        "justification": "The term [implement and exercise practices] suggests a systematic approach to software development, emphasizing the importance of structured methodologies in achieving project goals."
+                    },
+                    {
+                        "code": "Process Implementation",
+                        "justification": "The phrase [software development process] highlights the procedural aspect of development, underscoring the need for a well-defined sequence of actions to achieve desired outcomes."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The phrase [assure quality] indicates a focus on maintaining high standards, a key concern in software engineering to ensure reliability and performance."
+                    },
+                    {
+                        "code": "Development Practices",
+                        "justification": "The term [implement and exercise practices] suggests a systematic approach to software development, emphasizing the importance of methodical processes in achieving desired outcomes."
+                    },
+                    {
+                        "code": "Process Implementation",
+                        "justification": "The phrase [software development process] highlights the structured sequence of activities involved, reflecting the procedural nature of software engineering."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Quality Assurance",
+                "definition": "The phrase [assure quality] indicates a focus on maintaining high standards, a key concern in software engineering to ensure reliability and performance."
+            },
+            {
+                "code": "Development Practices",
+                "definition": "The term [implement and exercise practices] suggests a systematic approach to software development, emphasizing the importance of methodical processes in achieving desired outcomes."
+            },
+            {
+                "code": "Process Implementation",
+                "definition": "The phrase [software development process] highlights the structured sequence of activities involved, reflecting the procedural nature of software engineering."
+            }
+        ]
+    },
+    {
+        "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "The phrase [conformity to business needs] highlights the importance of aligning software attributes with organizational objectives, a key consideration in systems design and evaluation."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The term [free of defects] underscores the critical role of quality assurance processes in software development, emphasizing defect prevention and correction as central to product reliability."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "The phrase [conformity to business needs] highlights the importance of aligning software attributes with organizational objectives, a key consideration in systems design and implementation."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The term [free of defects] underscores the necessity for rigorous quality assurance processes to ensure software reliability and user satisfaction, critical in software engineering."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "The phrase [conformity to business needs] highlights the importance of aligning software attributes with organizational objectives, a key consideration in systems design and evaluation."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The term [free of defects] underscores the necessity for rigorous quality assurance processes to ensure software reliability and user satisfaction, critical in software engineering."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Business Alignment",
+                "definition": "The phrase [conformity to business needs] highlights the importance of aligning software attributes with organizational objectives, a key consideration in systems design and evaluation."
+            },
+            {
+                "code": "Quality Assurance",
+                "definition": "The term [free of defects] underscores the necessity for rigorous quality assurance processes to ensure software reliability and user satisfaction, critical in software engineering."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+        "Code_GroundTruth": [
+            "Quality is a subjective concept"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "The phrase [quality is a subjective concept] highlights the inherent variability in defining quality, which is contingent upon individual perspectives and experiences, aligning with interpretivist paradigms in qualitative research."
+                    },
+                    {
+                        "code": "Conceptual Ambiguity",
+                        "justification": "The statement [It is a challenging question] underscores the complexity and ambiguity in conceptualizing quality, reflecting epistemological challenges in establishing a definitive understanding within social sciences."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "The phrase [quality is a subjective concept] highlights the inherent variability in defining quality, emphasizing its reliance on individual perspectives and contextual factors."
+                    },
+                    {
+                        "code": "Conceptual Ambiguity",
+                        "justification": "The statement [It is a challenging question] underscores the complexity and lack of clarity in addressing the notion of quality, which is often debated in academic and practical contexts."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "The phrase [quality is a subjective concept] highlights the inherent variability in defining quality, which is contingent upon individual perspectives and lacks a universal standard."
+                    },
+                    {
+                        "code": "Conceptual Ambiguity",
+                        "justification": "The statement [It is a challenging question] underscores the difficulty in addressing concepts that are not easily quantifiable, reflecting the ambiguity inherent in subjective assessments."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Subjective Quality",
+                "definition": "The phrase [quality is a subjective concept] highlights the inherent variability in defining quality, emphasizing its reliance on individual perspectives and contextual factors. This reflects a consensus on the subjective nature of quality, as noted by all submissions."
+            },
+            {
+                "code": "Conceptual Ambiguity",
+                "definition": "The statement [It is a challenging question] underscores the complexity and ambiguity in conceptualizing quality, reflecting the difficulty in addressing concepts that are not easily quantifiable. This is a shared interpretation across all submissions."
+            }
+        ]
+    },
+    {
+        "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Maintainability",
+            "Understandable Code",
+            "Reusability of code"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Focus",
+                        "justification": "The phrase [internal software quality] highlights the emphasis on the intrinsic attributes of the software, which are crucial for long-term sustainability and maintainability, beyond just meeting business needs."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "The need to [maintain, understand and reuse code] underscores the importance of writing code that is not only functional but also easy to modify and extend, which is a key aspect of software engineering best practices."
+                    },
+                    {
+                        "code": "Quality Evaluation Criteria",
+                        "justification": "The statement [evaluate quality] suggests a comprehensive approach to assessing software, incorporating both external performance and internal structural soundness, which is essential for holistic quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Focus",
+                        "justification": "The phrase [internal software quality] highlights the emphasis on the intrinsic attributes of the software, which are crucial for long-term sustainability and maintainability, beyond just meeting business needs."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "The need to [maintain, understand and reuse code] underscores the importance of writing code that is not only functional but also easy to modify and extend, which is a key aspect of software engineering best practices."
+                    },
+                    {
+                        "code": "Quality Evaluation Criteria",
+                        "justification": "The statement [evaluate quality] suggests a comprehensive approach to assessing software, incorporating both external performance and internal structural soundness, which is essential for holistic quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Focus",
+                        "justification": "The phrase [focus on the internal software quality] highlights the importance of evaluating software beyond external performance metrics, emphasizing the need for robust internal structures."
+                    },
+                    {
+                        "code": "Code Maintainability",
+                        "justification": "The need to [maintain, understand and reuse code] underscores the significance of designing software that is sustainable and adaptable, which is crucial for long-term project success."
+                    },
+                    {
+                        "code": "Quality Evaluation Criteria",
+                        "justification": "The statement [evaluate quality] suggests a comprehensive approach to quality assessment, integrating both functional and non-functional requirements to ensure holistic software development."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Internal Quality Focus",
+                "definition": "The phrase [internal software quality] highlights the emphasis on the intrinsic attributes of the software, which are crucial for long-term sustainability and maintainability, beyond just meeting business needs."
+            },
+            {
+                "code": "Code Maintainability",
+                "definition": "The need to [maintain, understand and reuse code] underscores the importance of writing code that is not only functional but also easy to modify and extend, which is a key aspect of software engineering best practices."
+            },
+            {
+                "code": "Quality Evaluation Criteria",
+                "definition": "The statement [evaluate quality] suggests a comprehensive approach to assessing software, incorporating both external performance and internal structural soundness, which is essential for holistic quality assurance."
+            }
+        ]
+    },
+    {
+        "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+        "Code_GroundTruth": [
+            "Continuous improvements",
+            "Reflecting on the Scrum process",
+            "Become better",
+            "Developing Software",
+            "Software quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [subject to continuous improvements] highlights the iterative nature of the agile process, emphasizing the importance of ongoing refinement and adaptation in software development."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "The use of [retrospectives to continuously reflect] underscores the role of self-assessment and reflection in enhancing team performance and process efficiency, aligning with reflective practice principles."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "The intention to become [better at delivering quality software] indicates a commitment to high standards and excellence, which is a central theme in agile methodologies and quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [subject to continuous improvements] highlights an iterative process, emphasizing the dynamic nature of agile methodologies. This aligns with the concept of kaizen in quality management, where ongoing enhancements are crucial for process optimization."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "The use of [retrospectives to continuously reflect] underscores the importance of self-assessment and learning in agile practices. Reflective practice is a key component in professional development, fostering a culture of critical thinking and adaptability."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "The intention to become [better at delivering quality software] indicates a commitment to high standards. This focus on quality assurance is essential in software engineering, where product reliability and user satisfaction are paramount."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [subject to continuous improvements] highlights an iterative process, emphasizing the agile methodology's focus on ongoing enhancement and adaptation, which is crucial for maintaining relevance and efficiency in software development."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "The use of [retrospectives to continuously reflect] underscores the importance of self-assessment and learning from past experiences, a key component in agile practices that fosters a culture of introspection and growth."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "The intention to become [better at delivering quality software] indicates a commitment to high standards and excellence, aligning with agile's goal of delivering value through superior product quality."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous Improvement",
+                "definition": "The phrase [subject to continuous improvements] highlights the iterative nature of the agile process, emphasizing ongoing refinement and adaptation in software development. This aligns with the concept of kaizen in quality management, where ongoing enhancements are crucial for process optimization."
+            },
+            {
+                "code": "Reflective Practice",
+                "definition": "The use of [retrospectives to continuously reflect] underscores the role of self-assessment and reflection in enhancing team performance and process efficiency. Reflective practice is a key component in professional development, fostering a culture of critical thinking and adaptability."
+            },
+            {
+                "code": "Quality Focus",
+                "definition": "The intention to become [better at delivering quality software] indicates a commitment to high standards and excellence, aligning with agile's goal of delivering value through superior product quality. This focus on quality assurance is essential in software engineering, where product reliability and user satisfaction are paramount."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+        "Code_GroundTruth": [
+            "Free of defects",
+            "Conformity to business needs",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Measurement Challenge",
+                        "justification": "The phrase [It is difficult to define and measure] highlights the inherent complexity and subjectivity in assessing quality, a concept that varies across contexts and requires nuanced understanding."
+                    },
+                    {
+                        "code": "Product-Level Focus",
+                        "justification": "The text mentions [a great focus on product level quality], indicating a traditional emphasis on tangible outcomes like defect-free products, which contrasts with more process-oriented approaches."
+                    },
+                    {
+                        "code": "Agile Code Quality",
+                        "justification": "The shift [toward code quality and a design that responds to change] reflects agile methodologies' emphasis on adaptability and continuous improvement, which are central to modern software development practices."
+                    },
+                    {
+                        "code": "Process Improvement",
+                        "justification": "The mention of [continuous improvement of the process effort] underscores a commitment to iterative enhancement, a key principle in agile frameworks that prioritizes ongoing refinement over static perfection."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Measurement Challenge",
+                        "justification": "The phrase [It is difficult to define and measure] highlights the inherent complexity in quantifying quality, a concept that often requires subjective interpretation and context-specific criteria."
+                    },
+                    {
+                        "code": "Shift in Quality Focus",
+                        "justification": "The statement [I saw in agile a shift toward code quality and a design that responds to change] indicates a transition in emphasis from product-level to code-level quality, reflecting evolving priorities in software development methodologies."
+                    },
+                    {
+                        "code": "Continuous Process Improvement",
+                        "justification": "The mention of [continuous improvement of the process effort] underscores an ongoing commitment to refining processes, a key principle in agile methodologies that relies on iterative feedback and adaptation."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Measurement Challenge",
+                        "justification": "The phrase [It is difficult to define and measure] highlights the inherent complexity in quantifying quality, a concept that is often subjective and context-dependent, requiring nuanced understanding and interpretation."
+                    },
+                    {
+                        "code": "Product vs. Code Quality",
+                        "justification": "The text contrasts [a great focus on product level quality] with [a shift toward code quality], indicating a paradigm shift in quality assessment from end-product attributes to the intrinsic properties of the code itself."
+                    },
+                    {
+                        "code": "Adaptive Design Focus",
+                        "justification": "The mention of [a design that responds to change] underscores the importance of adaptability in design, reflecting a dynamic approach to software development that prioritizes flexibility and responsiveness to evolving requirements."
+                    },
+                    {
+                        "code": "Process Improvement Emphasis",
+                        "justification": "The phrase [continuous improvement of the process effort] suggests an ongoing commitment to refining processes, a key principle in agile methodologies that emphasizes iterative enhancement and efficiency."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Quality Measurement Challenge",
+                "definition": "The phrase [It is difficult to define and measure] highlights the inherent complexity and subjectivity in assessing quality, a concept that varies across contexts and requires nuanced understanding."
+            },
+            {
+                "code": "Shift in Quality Focus",
+                "definition": "The statement [I saw in agile a shift toward code quality and a design that responds to change] indicates a transition in emphasis from product-level to code-level quality, reflecting evolving priorities in software development methodologies."
+            },
+            {
+                "code": "Continuous Process Improvement",
+                "definition": "The mention of [continuous improvement of the process effort] underscores an ongoing commitment to refining processes, a key principle in agile methodologies that relies on iterative feedback and adaptation."
+            }
+        ]
+    },
+    {
+        "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Free of defects",
+            "Meets the end user requirements",
+            "External qualiy"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Structural Perspective",
+                        "justification": "The phrase [a structural perspective which is the code and the design] highlights the importance of the internal architecture and organization of software, which is crucial for understanding its quality from a technical standpoint."
+                    },
+                    {
+                        "code": "Defect-Free Component",
+                        "justification": "The text mentions [an external component which is free of defects], emphasizing the necessity for software to be devoid of errors, which is a subjective measure of quality based on user experience and expectations."
+                    },
+                    {
+                        "code": "User Requirement Fulfillment",
+                        "justification": "The phrase [meets the end user requirements] underscores the importance of aligning software functionality with user needs, a subjective criterion that varies based on user context and expectations."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Structural Perspective",
+                        "justification": "The phrase [a structural perspective which is the code and the design] highlights the importance of the internal architecture and organization of software, which is crucial for understanding its quality from a technical standpoint."
+                    },
+                    {
+                        "code": "Defect-Free Component",
+                        "justification": "The term [free of defects] emphasizes the necessity for software to be devoid of errors, which is a subjective measure of quality that relies on human judgment to identify and rectify potential issues."
+                    },
+                    {
+                        "code": "User Requirements Fulfillment",
+                        "justification": "The phrase [meets the end user requirements] underscores the importance of aligning software functionality with user needs, a subjective process that involves interpreting and prioritizing user feedback and expectations."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Structural Perspective",
+                        "justification": "The phrase [a structural perspective which is the code and the design] highlights the importance of the underlying architecture and design principles in software quality, emphasizing the need for a robust framework that supports functionality and maintainability."
+                    },
+                    {
+                        "code": "Defect-Free Component",
+                        "justification": "The term [free of defects] underscores the critical aspect of software quality that involves rigorous testing and debugging processes to ensure reliability and performance, aligning with quality assurance standards."
+                    },
+                    {
+                        "code": "User Requirements Fulfillment",
+                        "justification": "The phrase [meets the end user requirements] reflects the necessity for software to align with user needs and expectations, which is a key determinant of its success and usability in real-world applications."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Structural Perspective",
+                "definition": "The phrase [a structural perspective which is the code and the design] highlights the importance of the internal architecture and organization of software, which is crucial for understanding its quality from a technical standpoint."
+            },
+            {
+                "code": "Defect-Free Component",
+                "definition": "The term [free of defects] emphasizes the necessity for software to be devoid of errors, which is a subjective measure of quality based on user experience and expectations."
+            },
+            {
+                "code": "User Requirements Fulfillment",
+                "definition": "The phrase [meets the end user requirements] underscores the importance of aligning software functionality with user needs, a subjective criterion that varies based on user context and expectations."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+        "Code_GroundTruth": [
+            "Internal quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Assurance",
+                        "justification": "The phrase [assure internal quality] highlights the importance of maintaining standards within a system, which is crucial for ensuring reliability and effectiveness in any designed process."
+                    },
+                    {
+                        "code": "System Design Integrity",
+                        "justification": "The mention of [the way that the system has been built and designed] underscores the significance of foundational design principles in achieving internal quality, reflecting a focus on structural integrity and robustness."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Assurance",
+                        "justification": "The phrase [It is important to also assure internal quality] highlights the necessity of maintaining standards within the system, emphasizing the subjective nature of quality assurance processes."
+                    },
+                    {
+                        "code": "System Design Integrity",
+                        "justification": "The phrase [the way that the system has been built and designed] underscores the importance of the system's architecture, which is crucial for ensuring its reliability and effectiveness."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Assurance",
+                        "justification": "The phrase [It is important to also assure internal quality] highlights the necessity of maintaining standards within the system, emphasizing the subjective nature of quality assurance processes."
+                    },
+                    {
+                        "code": "System Design Integrity",
+                        "justification": "The phrase [the way that the system has been built and designed] underscores the importance of the system's architecture, reflecting the subjective evaluation of design principles and their impact on quality."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Internal Quality Assurance",
+                "definition": "The phrase [It is important to also assure internal quality] highlights the necessity of maintaining standards within the system, emphasizing the subjective nature of quality assurance processes."
+            },
+            {
+                "code": "System Design Integrity",
+                "definition": "The phrase [the way that the system has been built and designed] underscores the importance of the system's architecture, which is crucial for ensuring its reliability and effectiveness."
+            }
+        ]
+    },
+    {
+        "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+        "Code_GroundTruth": [
+            "Scrum",
+            "Continuous improvements"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [continuous review and improvements] highlights an iterative process, emphasizing the importance of ongoing refinement and adaptation in software development, which is crucial for maintaining relevance and efficiency."
+                    },
+                    {
+                        "code": "Robust Process",
+                        "justification": "The term [robust software development process] suggests a need for a strong, reliable framework that can withstand challenges and adapt to changes, reflecting a focus on stability and resilience in development practices."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [continuous review and improvements] highlights an iterative process essential for adaptive systems, reflecting a commitment to ongoing enhancement and refinement."
+                    },
+                    {
+                        "code": "Robust Process",
+                        "justification": "The term [robust software development process] suggests a focus on creating a resilient and reliable framework, which is crucial for maintaining system integrity and performance."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The need for [continuous review] implies a systematic approach to quality assurance, ensuring that the software meets evolving standards and user needs."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [continuous review and improvements] highlights an iterative process essential in software development, reflecting a commitment to ongoing enhancement and adaptation."
+                    },
+                    {
+                        "code": "Robust Process",
+                        "justification": "The term [robust software development process] suggests a need for a strong, reliable framework, emphasizing stability and resilience in development practices."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The need for [continuous review] implies a focus on quality assurance, ensuring that the software meets high standards through regular evaluation and feedback."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous Improvement",
+                "definition": "The phrase [continuous review and improvements] highlights an iterative process essential in software development, reflecting a commitment to ongoing enhancement and adaptation."
+            },
+            {
+                "code": "Robust Process",
+                "definition": "The term [robust software development process] suggests a need for a strong, reliable framework that can withstand challenges and adapt to changes, reflecting a focus on stability and resilience in development practices."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+        "Code_GroundTruth": [
+            "Clean code",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Maintainable Code",
+                        "justification": "The phrase [maintainable code] highlights the importance of writing code that is easy to understand, modify, and extend. This aligns with software engineering principles that prioritize long-term usability and adaptability."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "The term [sustainability of the design] emphasizes the need for software architecture that can accommodate future changes. This reflects a forward-thinking approach in software development, ensuring the system remains relevant and functional over time."
+                    },
+                    {
+                        "code": "Established Guidelines",
+                        "justification": "The phrase [well established guidelines] suggests adherence to industry standards and best practices. This is crucial for ensuring consistency, reliability, and quality in software development processes."
+                    },
+                    {
+                        "code": "Adaptability to Requirements",
+                        "justification": "The phrase [cope with new requirements easily] underscores the necessity for software to be flexible and responsive to evolving user needs. This is a key aspect of agile methodologies and iterative design processes."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Maintainable Code",
+                        "justification": "The phrase [maintainable code] highlights the importance of creating software that is easy to update and manage, which is crucial for long-term software quality and efficiency. This aligns with best practices in software engineering that emphasize code readability and simplicity."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "The term [sustainability of the design] suggests a focus on creating software architectures that can adapt to future changes. This is a key principle in sustainable software development, ensuring that systems remain functional and relevant over time."
+                    },
+                    {
+                        "code": "Adherence to Guidelines",
+                        "justification": "The phrase [conforms to well established guidelines] underscores the necessity of following industry standards and best practices, which is essential for ensuring code quality and consistency across development teams."
+                    },
+                    {
+                        "code": "Adaptability to Requirements",
+                        "justification": "The statement [able to cope with new requirements easily] reflects the need for software to be flexible and responsive to evolving user needs, a critical aspect of agile development methodologies."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Maintainable Code",
+                        "justification": "The phrase [maintainable code] highlights the importance of writing code that is easy to understand, modify, and extend. This aligns with software engineering principles that prioritize code readability and modularity to facilitate long-term project success."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "The term [sustainability of the design] emphasizes the need for software architecture that can adapt to evolving requirements. This reflects a forward-thinking approach in software development, ensuring that systems remain relevant and functional over time."
+                    },
+                    {
+                        "code": "Established Guidelines",
+                        "justification": "The phrase [well established guidelines] underscores adherence to industry standards and best practices. This is crucial for ensuring consistency, reliability, and quality in software development, as it provides a framework for developers to follow."
+                    },
+                    {
+                        "code": "Adaptability",
+                        "justification": "The phrase [cope with new requirements easily] indicates the necessity for software to be flexible and responsive to change. This is a key aspect of agile methodologies, which focus on iterative development and continuous improvement."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Maintainable Code",
+                "definition": "The phrase [maintainable code] highlights the importance of writing code that is easy to understand, modify, and extend. This aligns with software engineering principles that prioritize long-term usability and adaptability."
+            },
+            {
+                "code": "Design Sustainability",
+                "definition": "The term [sustainability of the design] emphasizes the need for software architecture that can adapt to evolving requirements. This reflects a forward-thinking approach in software development, ensuring that systems remain relevant and functional over time."
+            },
+            {
+                "code": "Adherence to Guidelines",
+                "definition": "The phrase [conforms to well established guidelines] underscores the necessity of following industry standards and best practices, which is essential for ensuring code quality and consistency across development teams."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+        "Code_GroundTruth": [
+            "Software quality",
+            "Quality assurance",
+            "Practicing",
+            "Peer review",
+            "Guidelines",
+            "Check lists"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Process Implementation",
+                        "justification": "The phrase [a process that implement and foster quality practices] highlights the structured approach necessary for achieving software quality, emphasizing the importance of systematic methodologies in software engineering."
+                    },
+                    {
+                        "code": "Requirements Elicitation",
+                        "justification": "The mention of [requirements elicitation and documentation] underscores the foundational role of gathering and documenting requirements, a critical step in ensuring that software meets user needs and quality standards."
+                    },
+                    {
+                        "code": "Review and Guidelines",
+                        "justification": "The text [review processes for the requirements, the code and the design] and [check lists and documented guidelines] indicate the reliance on formal review mechanisms and guidelines to maintain and enhance software quality, reflecting best practices in quality assurance."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Process Implementation",
+                        "justification": "The text emphasizes the necessity of a structured process to achieve software quality, as seen in [a process that implement and foster quality practices]. This highlights the importance of systematic approaches in software engineering."
+                    },
+                    {
+                        "code": "Requirements Elicitation",
+                        "justification": "The phrase [requirements elicitation and documentation] underscores the foundational role of gathering and documenting requirements in ensuring software quality, a critical step in the software development lifecycle."
+                    },
+                    {
+                        "code": "Review Mechanisms",
+                        "justification": "The mention of [review processes for the requirements, the code and the design] indicates the use of iterative review mechanisms to maintain and enhance quality, reflecting best practices in quality assurance."
+                    },
+                    {
+                        "code": "Guideline Documentation",
+                        "justification": "The reference to [check lists and documented guidelines] suggests the reliance on formalized documentation to guide quality practices, which is essential for consistency and standardization in software development."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Quality Process Implementation",
+                        "justification": "The text emphasizes the necessity of a structured process to achieve software quality, as seen in [We don\u2019t achieve software quality without a process that implement and foster quality practices]. This highlights the importance of systematic approaches in software development."
+                    },
+                    {
+                        "code": "Requirements Elicitation",
+                        "justification": "The phrase [It starts from the requirements elicitation and documentation] underscores the foundational role of gathering and documenting requirements in ensuring software quality, reflecting a key phase in the software development lifecycle."
+                    },
+                    {
+                        "code": "Review and Guidelines",
+                        "justification": "The mention of [review processes for the requirements, the code and the design] and [check lists and documented guidelines] indicates the use of structured review mechanisms and guidelines to maintain quality standards, which are critical in quality assurance practices."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Quality Process Implementation",
+                "definition": "The phrase [a process that implement and foster quality practices] highlights the structured approach necessary for achieving software quality, emphasizing the importance of systematic methodologies in software engineering."
+            },
+            {
+                "code": "Requirements Elicitation",
+                "definition": "The mention of [requirements elicitation and documentation] underscores the foundational role of gathering and documenting requirements, a critical step in ensuring that software meets user needs and quality standards."
+            },
+            {
+                "code": "Review and Guidelines",
+                "definition": "The text [review processes for the requirements, the code and the design] and [check lists and documented guidelines] indicate the reliance on formal review mechanisms and guidelines to maintain and enhance software quality, reflecting best practices in quality assurance."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business requirements",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Requirements Conformance",
+                        "justification": "The phrase [product confirms to the requirements] highlights the importance of aligning software with specified criteria, a key aspect in software engineering and quality assurance."
+                    },
+                    {
+                        "code": "Defect-Free Assurance",
+                        "justification": "The phrase [free of defects] underscores the critical goal in software development to minimize errors, ensuring reliability and user satisfaction, which is central to quality control processes."
+                    },
+                    {
+                        "code": "Quality Emphasis",
+                        "justification": "The phrase [Software quality is first and most] indicates a prioritization of quality, reflecting a fundamental principle in software development that impacts user experience and system performance."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Requirements Conformance",
+                        "justification": "The phrase [the product confirms to the requirements] highlights the importance of aligning software with specified criteria, a key aspect in software engineering and quality assurance."
+                    },
+                    {
+                        "code": "Defect-Free Assurance",
+                        "justification": "The phrase [free of defects] underscores the critical goal in software development to minimize errors, ensuring reliability and user satisfaction, which is central to quality control processes."
+                    },
+                    {
+                        "code": "Quality Emphasis",
+                        "justification": "The phrase [Software quality is first and most] indicates a prioritization of quality in software development, reflecting a fundamental principle in both software engineering and project management."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Requirements Conformance",
+                        "justification": "The phrase [product confirms to the requirements] highlights the importance of aligning software with specified criteria, a key aspect in software engineering and quality assurance."
+                    },
+                    {
+                        "code": "Defect-Free Assurance",
+                        "justification": "The phrase [free of defects] underscores the critical goal in software development to minimize errors, ensuring reliability and user satisfaction, which is central to quality control processes."
+                    },
+                    {
+                        "code": "Quality Emphasis",
+                        "justification": "The phrase [Software quality is first and most] indicates a prioritization of quality, reflecting a fundamental principle in software development that impacts user experience and system performance."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Requirements Conformance",
+                "definition": "The phrase [product confirms to the requirements] highlights the importance of aligning software with specified criteria, a key aspect in software engineering and quality assurance."
+            },
+            {
+                "code": "Defect-Free Assurance",
+                "definition": "The phrase [free of defects] underscores the critical goal in software development to minimize errors, ensuring reliability and user satisfaction, which is central to quality control processes."
+            },
+            {
+                "code": "Quality Emphasis",
+                "definition": "The phrase [Software quality is first and most] indicates a prioritization of quality, reflecting a fundamental principle in software development that impacts user experience and system performance."
+            }
+        ]
+    },
+    {
+        "target_text": "\"000\"",
+        "Code_GroundTruth": [
+            "Software quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Numerical Representation",
+                        "justification": "The text [000] is a numerical sequence, which can be interpreted as a representation of quantity or value, often used in data analysis to signify a baseline or null state."
+                    },
+                    {
+                        "code": "Minimalism",
+                        "justification": "The text [000] exemplifies minimalism, as it consists of a simple, repetitive pattern, reflecting a stripped-down, essentialist approach often valued in design and communication."
+                    },
+                    {
+                        "code": "Ambiguity",
+                        "justification": "The sequence [000] is ambiguous, lacking context or explicit meaning, which invites multiple interpretations and highlights the subjective nature of textual analysis."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Numerical Representation",
+                        "justification": "The text [000] is a numerical sequence, which can be interpreted as a representation of a concept or value, depending on context. This highlights the importance of understanding the symbolic meaning behind numbers in text analysis."
+                    },
+                    {
+                        "code": "Ambiguity",
+                        "justification": "The sequence [000] lacks explicit context, making it ambiguous. This reflects the need for researchers to consider multiple interpretations and the potential for varied meanings in textual data."
+                    },
+                    {
+                        "code": "Minimalism",
+                        "justification": "The text [000] is minimalistic, consisting of only three characters. This minimalism can be significant in understanding how brevity and simplicity can convey complex ideas or themes in text analysis."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Numerical Representation",
+                        "justification": "The text [000] is a numerical sequence, which can be interpreted as a representation of a concept or value, depending on context. This highlights the importance of understanding the symbolic meaning behind numbers in text analysis."
+                    },
+                    {
+                        "code": "Ambiguity",
+                        "justification": "The sequence [000] lacks explicit context, making it ambiguous. This reflects the challenge in text analysis of interpreting data that can have multiple meanings or interpretations based on the researcher's perspective."
+                    },
+                    {
+                        "code": "Minimalism",
+                        "justification": "The text [000] is minimalistic, consisting of only three characters. This minimalism can be seen as a deliberate choice to convey simplicity or to focus attention on the essential elements of the message."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Numerical Representation",
+                "definition": "The text [000] is a numerical sequence, which can be interpreted as a representation of a concept or value, often used in data analysis to signify a baseline or null state. This highlights the importance of understanding the symbolic meaning behind numbers in text analysis."
+            },
+            {
+                "code": "Minimalism",
+                "definition": "The text [000] exemplifies minimalism, as it consists of a simple, repetitive pattern of only three characters. This minimalism can be significant in understanding how brevity and simplicity can convey complex ideas or themes in text analysis."
+            },
+            {
+                "code": "Ambiguity",
+                "definition": "The sequence [000] is ambiguous, lacking context or explicit meaning, which invites multiple interpretations and highlights the subjective nature of textual analysis. This reflects the challenge in text analysis of interpreting data that can have multiple meanings or interpretations based on the researcher's perspective."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+        "Code_GroundTruth": [
+            "Meet business needs",
+            "No defects",
+            "Scrum",
+            "Continuous improvements"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Outcome Measurement",
+                        "justification": "The text emphasizes the importance of measuring software quality by its ability to meet business needs and lack of defects, as stated in [We measure the outcome by product quality; its ability to meet business needs and has no defects.]. This highlights the evaluative aspect of software quality, which is crucial in assessing the effectiveness of software products."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The concept of continuous improvement is central to agile methodologies, as indicated by [In agile, this is a continuous improvement process.]. This reflects the iterative nature of agile practices, where processes are constantly refined to enhance efficiency and effectiveness."
+                    },
+                    {
+                        "code": "Process Experimentation",
+                        "justification": "The text underscores the role of experimentation in agile practices, as seen in [In agile, we always experiment to come up with better ways.]. This highlights the adaptive and innovative approach inherent in agile methodologies, where new methods are tested to optimize software development processes."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Outcome Measurement",
+                        "justification": "The text emphasizes the importance of measuring software quality by its ability to meet business needs and lack of defects, as seen in [We measure the outcome by product quality]. This highlights the evaluative aspect of software quality, which is crucial in assessing the effectiveness of software solutions."
+                    },
+                    {
+                        "code": "Process Improvement",
+                        "justification": "The text describes the agile methodology as a [continuous improvement process], focusing on iterative enhancements. This reflects the dynamic nature of software development, where ongoing refinement is essential for adapting to changing requirements and improving efficiency."
+                    },
+                    {
+                        "code": "Experimental Approach",
+                        "justification": "The phrase [we always experiment to come up with better ways] underscores the experimental nature of agile practices. This approach is vital for innovation, allowing teams to test new ideas and methodologies to optimize software development processes."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Outcome Measurement",
+                        "justification": "The text emphasizes the importance of measuring software quality by its ability to meet business needs and lack of defects, as seen in [We measure the outcome by product quality]. This highlights the evaluative aspect of software quality, which is crucial in assessing the effectiveness of software solutions."
+                    },
+                    {
+                        "code": "Continuous Improvement",
+                        "justification": "The phrase [continuous improvement process] underscores the iterative nature of agile methodologies. This reflects a commitment to ongoing enhancement and adaptation, which is a core principle in agile practices and essential for maintaining software relevance and efficiency."
+                    },
+                    {
+                        "code": "Process Experimentation",
+                        "justification": "The text mentions [we always experiment to come up with better ways], indicating a focus on experimentation within agile processes. This is vital for innovation and adapting to changing requirements, allowing teams to refine their methods and improve outcomes."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Outcome Measurement",
+                "definition": "The text emphasizes the importance of measuring software quality by its ability to meet business needs and lack of defects, as seen in [We measure the outcome by product quality; its ability to meet business needs and has no defects.]. This highlights the evaluative aspect of software quality, which is crucial in assessing the effectiveness of software solutions."
+            },
+            {
+                "code": "Continuous Improvement",
+                "definition": "The concept of continuous improvement is central to agile methodologies, as indicated by [In agile, this is a continuous improvement process.]. This reflects the iterative nature of agile practices, where processes are constantly refined to enhance efficiency and effectiveness."
+            },
+            {
+                "code": "Process Experimentation",
+                "definition": "The text underscores the role of experimentation in agile practices, as seen in [In agile, we always experiment to come up with better ways.]. This highlights the adaptive and innovative approach inherent in agile methodologies, where new methods are tested to optimize software development processes."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+        "Code_GroundTruth": [
+            "Meets business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "The phrase [meets business needs] highlights the importance of aligning software development with organizational objectives, a key consideration in project management and systems analysis."
+                    },
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "The term [free of defects] underscores the critical quality assurance goal in software engineering, emphasizing the need for rigorous testing and validation processes."
+                    },
+                    {
+                        "code": "Simplification Necessity",
+                        "justification": "The statement [let\u2019s make it simple] reflects the common practice in software development to distill complex problems into manageable solutions, a principle in agile methodologies."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "The phrase [meets business needs] highlights the necessity for software to align with organizational objectives, a critical aspect in software engineering that ensures the product's relevance and utility."
+                    },
+                    {
+                        "code": "Quality Assurance",
+                        "justification": "The term [free of defects] underscores the importance of quality assurance processes in software development, emphasizing the need for rigorous testing and validation to maintain software integrity and performance."
+                    },
+                    {
+                        "code": "Complexity Simplification",
+                        "justification": "The statement [let\u2019s make it simple] reflects the challenge of simplifying complex software development processes, a common theme in project management aimed at enhancing understanding and execution."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher",
+                "codebook": [
+                    {
+                        "code": "Business Alignment",
+                        "justification": "The phrase [meets business needs] highlights the importance of aligning software development with organizational objectives, a key concern in project management and systems engineering."
+                    },
+                    {
+                        "code": "Defect-Free Delivery",
+                        "justification": "The term [free of defects] underscores the critical quality assurance goal in software engineering, emphasizing the need for rigorous testing and validation processes."
+                    },
+                    {
+                        "code": "Simplification Necessity",
+                        "justification": "The statement [let\u2019s make it simple] suggests a need for clarity and simplification in complex processes, reflecting a common theme in user-centered design and agile methodologies."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Business Alignment",
+                "definition": "The phrase [meets business needs] highlights the importance of aligning software development with organizational objectives, a key consideration in project management and systems analysis. This is consistently emphasized across submissions, indicating a shared understanding of its significance in ensuring the product's relevance and utility."
+            },
+            {
+                "code": "Defect-Free Delivery",
+                "definition": "The term [free of defects] underscores the critical quality assurance goal in software engineering, emphasizing the need for rigorous testing and validation processes. This is a common theme in the submissions, reflecting a consensus on the importance of maintaining software integrity and performance."
+            }
+        ]
+    }
+]

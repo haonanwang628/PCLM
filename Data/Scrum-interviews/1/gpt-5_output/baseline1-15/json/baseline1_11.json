@@ -1,0 +1,25 @@
+{
+    "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "Codebook": [
+        {
+            "Code": "Necessity of Defined Quality Process",
+            "Definition": "Asserts that software quality depends on having a formal process that implements and reinforces quality practices."
+        },
+        {
+            "Code": "Lifecycle-Spanning Quality Activities",
+            "Definition": "States that quality practices extend across the entire development lifecycle, from requirements elicitation and documentation through testing."
+        },
+        {
+            "Code": "Structured Reviews of Artifacts",
+            "Definition": "Indicates the use of formal review processes for requirements, code, and design to ensure quality."
+        },
+        {
+            "Code": "Checklists as Quality Aids",
+            "Definition": "Highlights the use of checklists to guide work and verify compliance with quality criteria."
+        },
+        {
+            "Code": "Documented Guidelines and Standards",
+            "Definition": "Refers to written, documented guidelines that standardize practices and support consistent quality."
+        }
+    ]
+}

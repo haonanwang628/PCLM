@@ -1,0 +1,25 @@
+{
+    "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "Codebook": [
+        {
+            "Code": "Quality Definition and Measurement Challenge",
+            "Definition": "Recognition that the concept being discussed is hard to define and quantify. Emphasizes uncertainty in establishing clear measures."
+        },
+        {
+            "Code": "Pre-Agile Product-Level Quality",
+            "Definition": "Focus on quality at the product level, characterized by being free of defects and meeting customer needs. Presented as the earlier emphasis before agile."
+        },
+        {
+            "Code": "Agile Emphasis on Code Quality",
+            "Definition": "Shift toward prioritizing the quality of the code itself within agile contexts. Highlights attention to code-level attributes."
+        },
+        {
+            "Code": "Design Responsive to Change",
+            "Definition": "Priority on creating designs that can adapt to change. Frames adaptability as a key quality dimension."
+        },
+        {
+            "Code": "Continuous Process Improvement",
+            "Definition": "Ongoing efforts to improve the development process. Suggests continual refinement rather than a one-time change."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Positionality Researcher (PhD; Computer Science & Information Systems; Human-Centered Computing; quality-alignment bias)",
+            "codebook": [
+                {
+                    "code": "Complexity Acknowledgment",
+                    "justification": "By stating [We need the whole hour just for this question!], the speaker signals perceived problem complexity and breadth. Such assessments hinge on subjective scoping assumptions."
+                },
+                {
+                    "code": "Simplification Framing",
+                    "justification": "The move [let\u2019s make it simple] indicates deliberate scope reduction. Simplification is an interpretive strategy to manage cognitive load and analytic focus."
+                },
+                {
+                    "code": "Business Alignment",
+                    "justification": "Criterion [meets business needs] reflects negotiated requirements fit and stakeholder salience. Alignment is context-dependent and normatively judged."
+                },
+                {
+                    "code": "Zero-Defect Idealism",
+                    "justification": "The target [free of defects] encodes a normative quality threshold. Defect definitions and acceptable risk tolerance vary across projects and lifecycles."
+                }
+            ]
+        }
+    ]
+}

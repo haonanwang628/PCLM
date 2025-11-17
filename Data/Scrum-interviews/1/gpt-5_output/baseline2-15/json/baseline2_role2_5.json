@@ -1,0 +1,36 @@
+{
+    "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Software Engineering/HCI Researcher (PhD)",
+            "codebook": [
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "I interpret [subject to continuous improvements] as a normative kaizen stance. My SE/HCI lens privileges iterative refinement, foregrounding culture over static methods."
+                },
+                {
+                    "code": "Reflective Practice",
+                    "justification": "Emphasizing [continuously reflect] via retrospectives signals institutionalized reflexivity. My researcher bias valorizes such meta-work as a capability-building mechanism."
+                },
+                {
+                    "code": "Quality Orientation",
+                    "justification": "The telos is [delivering quality software], framing process as instrumental to value. From a software engineering perspective, \u2018quality\u2019 is contested and socially constructed."
+                },
+                {
+                    "code": "Process Centrality",
+                    "justification": "The closure [That\u2019s the process.] asserts process primacy as identity. My positionality may overread process as culture, potentially downplaying product-context contingencies."
+                }
+            ]
+        }
+    ]
+}

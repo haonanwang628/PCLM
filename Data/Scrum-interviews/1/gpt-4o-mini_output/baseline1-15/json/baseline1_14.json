@@ -1,0 +1,33 @@
+{
+    "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+    "Codebook": [
+        {
+            "Code": "Software Quality",
+            "Definition": "Refers to the overall effectiveness of software in meeting business needs and being free of defects."
+        },
+        {
+            "Code": "Outcome Measurement",
+            "Definition": "The assessment of software quality based on the final product's ability to fulfill requirements and maintain defect-free status."
+        },
+        {
+            "Code": "Process Improvement",
+            "Definition": "The ongoing efforts to enhance the methods and practices used in software development, particularly in agile methodologies."
+        },
+        {
+            "Code": "Agile Methodology",
+            "Definition": "A framework for software development that emphasizes iterative progress, flexibility, and continuous improvement."
+        },
+        {
+            "Code": "Continuous Examination",
+            "Definition": "The practice of regularly reviewing and analyzing work processes to identify areas for enhancement."
+        },
+        {
+            "Code": "Learning and Adaptation",
+            "Definition": "The process of gaining insights from experiences and making adjustments to improve future performance."
+        },
+        {
+            "Code": "Experimentation",
+            "Definition": "The act of trying out new approaches or methods in order to discover more effective ways of working."
+        }
+    ]
+}

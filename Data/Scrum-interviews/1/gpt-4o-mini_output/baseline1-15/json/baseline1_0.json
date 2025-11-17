@@ -1,0 +1,17 @@
+{
+    "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+    "Codebook": [
+        {
+            "Code": "Quality Definition",
+            "Definition": "This code refers to the speaker's attempt to define 'quality' in relation to specific levels, indicating a conceptual understanding of quality in processes and software."
+        },
+        {
+            "Code": "Process Level",
+            "Definition": "This code captures the mention of 'process level,' suggesting that quality is associated with the methods and procedures involved in a task or project."
+        },
+        {
+            "Code": "Software Level",
+            "Definition": "This code highlights the reference to 'software level,' indicating that quality is also considered in the context of software development and its attributes."
+        }
+    ]
+}

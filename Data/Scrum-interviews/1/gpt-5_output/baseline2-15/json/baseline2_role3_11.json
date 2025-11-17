@@ -1,0 +1,36 @@
+{
+    "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Qualitative Software Engineering Researcher (PhD Candidate, CS/IS; HCC\u2013Software Quality; process-centric reflexivity)",
+            "codebook": [
+                {
+                    "code": "Process-Driven Quality",
+                    "justification": "As a process-centric SE PhD, I read [a process that implement and foster quality practices] as privileging process; coding perceived causality between disciplined process and quality."
+                },
+                {
+                    "code": "Lifecycle Holism",
+                    "justification": "From a lifecycle lens, [It starts from the requirements elicitation and documentation to the testing] signals holistic scope; quality construed as end-to-end emergence."
+                },
+                {
+                    "code": "Review Rigor",
+                    "justification": "I infer a scrutiny norm from [we have review processes] across [the requirements, the code and the design]; coding a gatekeeping orientation consistent with formal QA cultures."
+                },
+                {
+                    "code": "Documentation Reliance",
+                    "justification": "My formalism bias highlights [check lists] and [documented guidelines] as proxies of control; coding trust in artifacts to mediate quality assurance."
+                }
+            ]
+        }
+    ]
+}

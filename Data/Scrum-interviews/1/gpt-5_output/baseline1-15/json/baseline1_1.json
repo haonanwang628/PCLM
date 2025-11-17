@@ -1,0 +1,25 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Codebook": [
+        {
+            "Code": "Software Development Context",
+            "Definition": "Indicates that the described activities occur within the software development process."
+        },
+        {
+            "Code": "Collective Agency ('we')",
+            "Definition": "Uses a collective subject to signal that a group or team is responsible for the actions."
+        },
+        {
+            "Code": "Implementation of Practices",
+            "Definition": "Refers to putting specific practices into place as part of the workflow."
+        },
+        {
+            "Code": "Execution of Practices",
+            "Definition": "Denotes actively carrying out or exercising the established practices."
+        },
+        {
+            "Code": "Quality Assurance Purpose",
+            "Definition": "States that the goal of these actions is to assure quality."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+    "Codebook": [
+        {
+            "Code": "Scope: Software and End Product",
+            "Definition": "The criteria are stated to apply broadly to both software and the overall end product."
+        },
+        {
+            "Code": "Key Attributes Framing",
+            "Definition": "The statement focuses on defining the essential attributes by which the deliverable should be evaluated."
+        },
+        {
+            "Code": "Business Needs Conformity",
+            "Definition": "Quality is linked to how well the deliverable conforms to business needs or requirements."
+        },
+        {
+            "Code": "Defect-Free Expectation",
+            "Definition": "Quality is associated with the absence of defects in the deliverable."
+        },
+        {
+            "Code": "Subjective Opinion",
+            "Definition": "The use of 'I believe' indicates the criteria are presented as the speaker\u2019s personal view."
+        }
+    ]
+}

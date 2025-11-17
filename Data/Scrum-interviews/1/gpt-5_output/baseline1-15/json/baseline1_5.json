@@ -1,0 +1,25 @@
+{
+    "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+    "Codebook": [
+        {
+            "Code": "Continuous Process Improvement",
+            "Definition": "The agile process is regularly refined and evolved rather than remaining static."
+        },
+        {
+            "Code": "Retrospectives for Reflection",
+            "Definition": "Scheduled retrospectives are used to continuously reflect on how work is done and identify adjustments."
+        },
+        {
+            "Code": "Work Practice Enhancement",
+            "Definition": "Intentional effort to become better at the tasks and methods used in day-to-day work."
+        },
+        {
+            "Code": "Quality Software Delivery Focus",
+            "Definition": "Improvement efforts are directed toward delivering higher-quality software outcomes."
+        },
+        {
+            "Code": "Defined Process Orientation",
+            "Definition": "Explicit acknowledgment that these activities constitute the established way of working."
+        }
+    ]
+}

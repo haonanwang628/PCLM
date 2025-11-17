@@ -1,0 +1,32 @@
+{
+    "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflexive Qualitative Researcher (PhD Candidate; Social Sciences; Human-Centered Computing; interpretivist, bias-aware)",
+            "codebook": [
+                {
+                    "code": "Subjective Evaluation",
+                    "justification": "By stating [quality is a subjective concept], the text situates evaluation in interpretivist judgment rather than positivist metrics, shaping construct validity and coder discretion."
+                },
+                {
+                    "code": "Ambiguous Quality Criteria",
+                    "justification": "The assertion [quality is a subjective concept] signals indeterminate criteria, requiring contextual operationalization and reflexive calibration of coding rubrics."
+                },
+                {
+                    "code": "Interpretive Difficulty",
+                    "justification": "Labeling it [a challenging question] foregrounds epistemic uncertainty, necessitating negotiated meaning-making and transparent analytic memos."
+                }
+            ]
+        }
+    ]
+}

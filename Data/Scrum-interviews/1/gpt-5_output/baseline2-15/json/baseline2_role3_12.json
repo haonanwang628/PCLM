@@ -1,0 +1,32 @@
+{
+    "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "PhD Candidate in Software Engineering (Quality & Requirements)",
+            "codebook": [
+                {
+                    "code": "Requirement-Centric Quality",
+                    "justification": "Prioritizes conformance [confirms to the requirements] as the primary quality criterion. From a QA-metrics vantage, this reflects a process-compliance bias over experiential value."
+                },
+                {
+                    "code": "Defect-Free Ideal",
+                    "justification": "Posits a zero-defect standard [free of defects], a normative ideal. In practice, defect tolerance and severity thresholds are judgment-laden and context-specific."
+                },
+                {
+                    "code": "Importance Framing",
+                    "justification": "Rhetorically elevates the issue via [very important question], shaping evaluative salience. Such framing steers which quality dimensions are foregrounded."
+                }
+            ]
+        }
+    ]
+}

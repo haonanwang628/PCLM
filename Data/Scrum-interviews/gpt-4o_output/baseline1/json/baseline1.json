@@ -1,0 +1,164 @@
+{
+    "Codebook": [
+        {
+            "code": "Software quality",
+            "definition": "Perceptions and standards related to the overall quality of software development and output.",
+            "inclusion_criteria": [
+                "Mentions of software quality as a general concept.",
+                "References to standards, assurance, or practices aimed at improving software."
+            ],
+            "exclusion_criteria": [
+                "Does not explicitly mention 'software quality'.",
+                "Focuses solely on specific practices without general context."
+            ],
+            "typical_examples": [
+                "Software quality is a complex concept",
+                "Software quality standards"
+            ],
+            "atypical_examples": [
+                "Scrum",
+                "Psychological safety"
+            ],
+            "participants": [
+                "P1",
+                "P3",
+                "P5"
+            ],
+            "frequency": 7,
+            "notes": "This code encapsulates broad interpretations of quality without delving into distinct technical specifics."
+        },
+        {
+            "code": "Conformity to business needs",
+            "definition": "Ensuring the software meets the outlined business objectives and requirements.",
+            "inclusion_criteria": [
+                "Mentions of business objectives in relation to software development.",
+                "References to how well software satisfies client or stakeholder needs."
+            ],
+            "exclusion_criteria": [
+                "Discussions of general quality without business focus."
+            ],
+            "typical_examples": [
+                "Meets the business needs",
+                "Conformity to business requirements"
+            ],
+            "atypical_examples": [
+                "Psychological safety",
+                "Clean code"
+            ],
+            "participants": [
+                "P2",
+                "P4",
+                "P6"
+            ],
+            "frequency": 6,
+            "notes": "This code is specifically concerned with alignment between software function and business goals."
+        },
+        {
+            "code": "Free of defects",
+            "definition": "Software being void of bugs, errors, or faults.",
+            "inclusion_criteria": [
+                "Mentions of software being bug-free or error-free.",
+                "Reference to testing or assurance with the aim of eliminating defects."
+            ],
+            "exclusion_criteria": [
+                "General quality discussions not mentioning defects.",
+                "Aesthetic or design-focused quality attributes not related to errors."
+            ],
+            "typical_examples": [
+                "No bugs",
+                "Free of defects"
+            ],
+            "atypical_examples": [
+                "Meets user requirements",
+                "Sustainable design"
+            ],
+            "participants": [
+                "P1",
+                "P3",
+                "P5"
+            ],
+            "frequency": 8,
+            "notes": "This code is often connected with iterative testing and QA processes to achieve bug-free results."
+        },
+        {
+            "code": "Continuous improvements",
+            "definition": "Ongoing efforts to enhance the software development process or product quality.",
+            "inclusion_criteria": [
+                "Mentions of ongoing or iterative improvements.",
+                "References to processes like Scrum aimed at constant betterment."
+            ],
+            "exclusion_criteria": [
+                "Static or final product discussions without iterative context."
+            ],
+            "typical_examples": [
+                "Continuous improvements",
+                "Reflecting on the Scrum process"
+            ],
+            "atypical_examples": [
+                "Clean code",
+                "Software performance"
+            ],
+            "participants": [
+                "P2",
+                "P4",
+                "P6"
+            ],
+            "frequency": 5,
+            "notes": "This code is linked to Agile methodologies and a focus on refinement over time."
+        },
+        {
+            "code": "Scrum",
+            "definition": "Use of Scrum agile process in enhancing quality and productivity in software development.",
+            "inclusion_criteria": [
+                "Explicit mentions of Scrum.",
+                "Describing the impact or processes related to Scrum."
+            ],
+            "exclusion_criteria": [
+                "Non-Agile methodologies.",
+                "Mentions of Scrum with no quality context."
+            ],
+            "typical_examples": [
+                "Scrum",
+                "Transparency in Scrum"
+            ],
+            "atypical_examples": [
+                "Software testing",
+                "User acceptance testing"
+            ],
+            "participants": [
+                "P1",
+                "P3",
+                "P5"
+            ],
+            "frequency": 5,
+            "notes": "Often cited alongside continuous improvement as part of Agile approaches."
+        },
+        {
+            "code": "Collaboration",
+            "definition": "Working together in teams or with stakeholders to achieve better software outcomes.",
+            "inclusion_criteria": [
+                "Mentions of teamwork or collaborative effort.",
+                "References to shared goals or joint development processes."
+            ],
+            "exclusion_criteria": [
+                "Individual-focused achievements.",
+                "Non-collective quality discussions."
+            ],
+            "typical_examples": [
+                "Collaboration",
+                "Peer to peer learning"
+            ],
+            "atypical_examples": [
+                "Code review",
+                "Structural quality"
+            ],
+            "participants": [
+                "P2",
+                "P4",
+                "P6"
+            ],
+            "frequency": 6,
+            "notes": "Highlighted as an essential component in Agile and modern software development practices."
+        }
+    ]
+}

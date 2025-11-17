@@ -1,0 +1,13 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Codebook": [
+        {
+            "Code": "Necessity of Internal Quality Assurance",
+            "Definition": "Emphasizes that assuring internal quality is important and should be carried out. Highlights the need to verify quality within the system."
+        },
+        {
+            "Code": "Internal Quality Defined by Build and Design",
+            "Definition": "Defines internal quality as related to how the system has been built and designed. Focuses on construction and design aspects as the basis of quality."
+        }
+    ]
+}

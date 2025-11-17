@@ -1,0 +1,32 @@
+{
+    "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective HCI Doctoral Researcher",
+            "codebook": [
+                {
+                    "code": "Subjective Quality",
+                    "justification": "From an interpretivist HCI doctoral perspective, [quality is a subjective concept], signaling norm-relativity. My NSF HCC interest privileges plural user criteria."
+                },
+                {
+                    "code": "Evaluation Ambiguity",
+                    "justification": "As a reflective social-science analyst, [It is a challenging question] indexes assessment ambiguity. Doctoral training biases me toward careful operationalization."
+                },
+                {
+                    "code": "Contestable Standards",
+                    "justification": "Within human-centered computing, [subjective concept] implies contestable standards lacking ground truth. My reflexive stance foregrounds context-specific validity over universals."
+                }
+            ]
+        }
+    ]
+}

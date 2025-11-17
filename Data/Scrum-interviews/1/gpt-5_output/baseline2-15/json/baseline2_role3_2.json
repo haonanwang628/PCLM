@@ -1,0 +1,32 @@
+{
+    "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Doctoral Researcher, Software Engineering (HCC/Software Quality), stakeholder-centric bias",
+            "codebook": [
+                {
+                    "code": "Business Alignment",
+                    "justification": "From a software engineering and HCI lens, [conformity to business needs] signals a negotiated construct of stakeholder 'fit'. Assessing it relies on interpretive requirements validation, not a single ground truth."
+                },
+                {
+                    "code": "Zero-Defect Ideal",
+                    "justification": "The ideal of [free of defects] is normative; 'defect' definitions and severity thresholds are socially constructed. QA practice balances residual risk and acceptability, making 'defect-free' a judgment call."
+                },
+                {
+                    "code": "Attribute Prioritization",
+                    "justification": "[key attributes] foregrounds value hierarchy setting and trade-off selection. My reflexive stance notes role expectations bias which attributes are elevated as 'key'."
+                }
+            ]
+        }
+    ]
+}

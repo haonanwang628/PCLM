@@ -1,0 +1,25 @@
+{
+    "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+    "Codebook": [
+        {
+            "Code": "Affirmation/Agreement",
+            "Definition": "An opening expression that signals acceptance or positive acknowledgement before presenting substantive points."
+        },
+        {
+            "Code": "Quality as Outcome",
+            "Definition": "Frames software quality as the final result or end state achieved, rather than the process used to get there."
+        },
+        {
+            "Code": "Internal Structure: Code and Design",
+            "Definition": "Defines quality in terms of internal structural aspects, specifically the source code and the system\u2019s design/architecture."
+        },
+        {
+            "Code": "Defect-Free Expectation",
+            "Definition": "Specifies an external quality criterion where the software should be free of defects."
+        },
+        {
+            "Code": "User Requirements Alignment",
+            "Definition": "Specifies an external quality criterion where the software must meet end user requirements."
+        }
+    ]
+}

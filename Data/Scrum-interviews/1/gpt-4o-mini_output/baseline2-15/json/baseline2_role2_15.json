@@ -1,0 +1,32 @@
+{
+    "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer at the bachelor's level with a focus on statistics and a keen interest in economics, my background shapes my research goals to explore quantitative methods in economic analysis. However, I recognize that my cultural and personal biases may influence my interpretation of data and findings. These biases stem from my experiences and perspectives, which can color my understanding of economic phenomena. Consequently, my positionality compels me to critically examine how my role and assumptions affect my research process, ensuring that I remain aware of potential blind spots while striving for objectivity in my analysis."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Time Allocation Importance",
+                    "justification": "The phrase [We need the whole hour just for this question!] emphasizes the critical nature of time management in software development discussions."
+                },
+                {
+                    "code": "Business Needs Alignment",
+                    "justification": "The statement [it is important to deliver a software that meets business needs] highlights the necessity of aligning software outcomes with organizational objectives."
+                },
+                {
+                    "code": "Defect-Free Delivery",
+                    "justification": "The emphasis on [free of defects] underscores the quality assurance aspect, which is vital in software development to ensure reliability."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Doctoral reflective researcher \u2014 CSIS; NSF: Software Engineering/HCI; Bias: process maturity & continuous improvement",
+            "codebook": [
+                {
+                    "code": "Process Robustness",
+                    "justification": "As a doctoral CSIS researcher in software engineering, I read [robust software development process] as a normative robustness goal rooted in process maturity."
+                },
+                {
+                    "code": "Continuous Review Culture",
+                    "justification": "My qualitative annotation role foregrounds governance: [continuous review] implies iterative oversight, audits, and reflexive learning within the dev lifecycle."
+                },
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "With an NSF SE/HCI lens and bias toward CI, [improvements] signals Kaizen-style incrementalism and value-driven process refinement."
+                },
+                {
+                    "code": "Outcome-Driven Intent",
+                    "justification": "Teleological framing in [To achieve that] indicates goal orientation; my assumptions privilege purposive design and metricized progress."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+    "Codebook": [
+        {
+            "Code": "Conformity to Business Needs",
+            "Definition": "The alignment of the software or end product with the specific requirements and expectations of the business."
+        },
+        {
+            "Code": "Defect-Free Quality",
+            "Definition": "The expectation that the software or end product should be free from errors or defects, ensuring reliability and performance."
+        }
+    ]
+}

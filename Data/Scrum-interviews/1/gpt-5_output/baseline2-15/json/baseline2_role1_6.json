@@ -1,0 +1,36 @@
+{
+    "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Qualitative SE Researcher \u2014 PhD Candidate (QS: Computer Science & Information Systems; NSF: Human-Centered Computing/Software & Systems; reflexivity: quality as socio-technical, mildly pro-agile)",
+            "codebook": [
+                {
+                    "code": "Quality Ambiguity",
+                    "justification": "Signals construct indeterminacy: [It is difficult to define and measure.]. From a SE/HCI lens, 'quality' is context-contingent and value-laden."
+                },
+                {
+                    "code": "Code Quality Shift",
+                    "justification": "Reframes quality locus: [a shift toward code quality]. This interpretive move prioritizes internal attributes over product-level outcomes."
+                },
+                {
+                    "code": "Adaptive Design",
+                    "justification": "Values evolvability: [a design that responds to change]. Reflects agile\u2019s emphasis on resilience and maintainability, a contested, subjective ideal."
+                },
+                {
+                    "code": "Continuous Improvement",
+                    "justification": "Endorses kaizen ethos: [a continuous improvement of the process]. Normative belief that process refinement equates to quality, requiring judgment."
+                }
+            ]
+        }
+    ]
+}

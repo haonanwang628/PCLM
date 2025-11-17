@@ -1,0 +1,21 @@
+{
+    "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+    "Codebook": [
+        {
+            "Code": "Clean Code Commitment",
+            "Definition": "Statements expressing the intention to produce clean code as a primary objective."
+        },
+        {
+            "Code": "Clean Code Definition",
+            "Definition": "Clean code is characterized as maintainable and aligned with well-established guidelines."
+        },
+        {
+            "Code": "Design Sustainability Commitment",
+            "Definition": "Statements expressing the intention to achieve sustainability in the software design."
+        },
+        {
+            "Code": "Sustainability Definition",
+            "Definition": "Sustainable design is defined as being able to accommodate new requirements easily over time."
+        }
+    ]
+}

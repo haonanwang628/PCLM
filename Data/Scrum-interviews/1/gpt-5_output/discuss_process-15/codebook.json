@@ -1,0 +1,1357 @@
+[
+    {
+        "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+        "Code_GroundTruth": [
+            "Software quality",
+            "Process quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Product Owner and Master's Student in Geography",
+                "codebook": [
+                    {
+                        "code": "Pragmatic Definition Scope",
+                        "justification": "The phrase [for the purpose of a definition] signals a pragmatic operationalization, delimiting evaluative criteria contextually rather than asserting universal metrics."
+                    },
+                    {
+                        "code": "Process-Level Quality",
+                        "justification": "Referencing [process level] frames quality as processual governance and workflow efficacy, which requires subjective weighting of criteria and tolerance for ambiguity."
+                    },
+                    {
+                        "code": "Software-Level Quality",
+                        "justification": "Invoking [software level] centers artifact-centric attributes (e.g., readability, maintainability), yet these metrics are interpretive and contestable across stakeholders."
+                    },
+                    {
+                        "code": "Dual-Level Framing",
+                        "justification": "The clause [quality takes place in the process level and the software level] advances a multi-scalar construct, introducing trade-offs and negotiated priorities between levels."
+                    }
+                ]
+            },
+            {
+                "role": "Software Developer\u2013Undergraduate Statistician",
+                "codebook": [
+                    {
+                        "code": "Operational Definition",
+                        "justification": "Signals deliberate scope-setting via [for the purpose of a definition], reflecting operationalization choices that shape construct validity and analytic boundaries."
+                    },
+                    {
+                        "code": "Process-Level Quality",
+                        "justification": "Emphasizes quality in development practices via [process level], privileging process metrics\u2014an interpretive stance influenced by levels-of-analysis framing."
+                    },
+                    {
+                        "code": "Software-Level Quality",
+                        "justification": "Locates quality in the artifact via [software level], centering product metrics (e.g., maintainability), a judgment-laden construct contingent on evaluative criteria."
+                    }
+                ]
+            },
+            {
+                "role": "Software developer\u2013anthropology master's researcher",
+                "codebook": [
+                    {
+                        "code": "Multi-level quality",
+                        "justification": "By indexing [the process level and the software level], the speaker constructs quality as layered across sociotechnical strata. This boundary-work depends on analytic lens, not a fixed ontology."
+                    },
+                    {
+                        "code": "Context-bound definition",
+                        "justification": "The hedge [for the purpose of a definition] signals an explicitly operationalized construct. Such operationalization is contingent and theory-laden, reflecting situated judgment."
+                    },
+                    {
+                        "code": "Quality localization",
+                        "justification": "The clause [quality takes place] asserts a locus of quality rather than a metric. This locative claim rests on interpretive choices about system boundaries and accountability."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Context-bound operational definition",
+                "definition": "The speaker explicitly limits scope via [for the purpose of a definition], indicating a working, situational definition rather than a universal one."
+            },
+            {
+                "code": "Process-level quality",
+                "definition": "Quality is located in development practices/processes, grounded by [process level] within the claim that [quality takes place] there."
+            },
+            {
+                "code": "Software-level quality",
+                "definition": "Quality is also located in the product artifact, grounded by [software level] within the claim that [quality takes place] there."
+            }
+        ]
+    },
+    {
+        "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+        "Code_GroundTruth": [
+            "Quality assurance",
+            "Practicing quality assurance"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflexive Software Engineering Researcher \u2014 PhD Candidate; QS: Computer Science (Software Engineering); NSF: CISE/IIS; Biases: process-centric, quality-as-culture assumptions",
+                "codebook": [
+                    {
+                        "code": "Quality-First Mindset",
+                        "justification": "The phrase [assure quality] signals a value-laden intent, privileging quality as a primary norm rather than a neutral outcome."
+                    },
+                    {
+                        "code": "Procedural Rigor",
+                        "justification": "Emphasis on [implement and exercise practices] implies disciplined adherence to process maturity within the SDLC."
+                    },
+                    {
+                        "code": "Collective Agency",
+                        "justification": "Use of [we] constructs shared ownership of QA outcomes, foregrounding collaborative responsibility and team accountability."
+                    },
+                    {
+                        "code": "Process Orientation",
+                        "justification": "Referencing the [software development process] centers governance and systemic method over ad hoc practices."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Software Engineering Researcher \u2014 Doctoral Candidate; QS: Computer Science & Information Systems; NSF: Software Engineering, Human-Centered Computing; Biases: quality-centric, process-oriented",
+                "codebook": [
+                    {
+                        "code": "Process Orientation",
+                        "justification": "The phrase [software development process] foregrounds lifecycle governance, signaling emphasis on procedural control and maturity models."
+                    },
+                    {
+                        "code": "Deliberate Practices",
+                        "justification": "Use of [implement and exercise] implies intentional enactment and repetition, indicating disciplined routines and capability building."
+                    },
+                    {
+                        "code": "Quality Assurance Intent",
+                        "justification": "Reference to [practices that assure quality] signals a purpose-driven QA posture oriented to validation/verification and risk mitigation."
+                    },
+                    {
+                        "code": "Collective Responsibility",
+                        "justification": "The agentive [we implement] frames quality as a shared, team-owned duty, aligning with socio-technical accountability norms."
+                    }
+                ]
+            },
+            {
+                "role": "Doctoral Qualitative Software Engineering Researcher (CISE; socio-technical lens)",
+                "codebook": [
+                    {
+                        "code": "Quality-Centric Mindset",
+                        "justification": "The clause [assure quality] foregrounds quality as the primary value. From a socio-technical SE lens, this normative emphasis shapes prioritization."
+                    },
+                    {
+                        "code": "Procedural Rigor",
+                        "justification": "References to [software development process] and [practices] imply structured, repeatable methods. My reflexive bias favors reading this as disciplined governance."
+                    },
+                    {
+                        "code": "Proactive Agency",
+                        "justification": "The actorial phrasing [we implement and exercise] indicates intentional, proactive action. This frames practitioners as accountable agents in outcomes."
+                    },
+                    {
+                        "code": "Continuous Enactment",
+                        "justification": "The verb [exercise] connotes repeated practice, not one-off compliance. From a continuous improvement stance, this signals ongoing verification."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Quality-Centric Intent",
+                "definition": "Positions quality as the explicit purpose of the work, indicated by [assure quality] in the clause [practices that assure quality]."
+            },
+            {
+                "code": "Process-Oriented Discipline",
+                "definition": "Emphasizes structured lifecycle and methodical execution, signaled by [software development process] and the enactment of defined practices."
+            },
+            {
+                "code": "Team-Based Agency",
+                "definition": "Frames quality work as actively owned by the team, shown by the agentive phrasing [we implement] (from [we implement and exercise practices])."
+            }
+        ]
+    },
+    {
+        "target_text": "\"For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Doctoral Researcher\u2014Software Engineering (QS: Computer Science); NSF interest: Human-Centered Computing & Software Quality; Reflexivity: bias toward socio-technical value alignment and pragmatic QA",
+                "codebook": [
+                    {
+                        "code": "Business Needs Alignment",
+                        "justification": "Centers [conformity to business needs], privileging requirements traceability and value alignment. 'Business needs' are negotiated and interpretive, so adequacy judgments remain subjective."
+                    },
+                    {
+                        "code": "Zero Defect Ideal",
+                        "justification": "Elevates [free of defects] as a quality norm. Defect definitions, severity thresholds, and acceptable risk vary by context, making this criterion aspirational and judgment-dependent."
+                    },
+                    {
+                        "code": "End Product Focus",
+                        "justification": "Frames evaluation at [the software or the end product], emphasizing artifact outcomes over process maturity. Outcome-centered quality is normative and context-contingent."
+                    }
+                ]
+            },
+            {
+                "role": "Requirements Engineering Researcher (PhD, Computer Science; Human-Centered Computing)",
+                "codebook": [
+                    {
+                        "code": "Business Alignment Priority",
+                        "justification": "The phrase [conformity to business needs] elevates stakeholder-defined fitness-for-purpose and requirements traceability. My CS/RE lens assumes value is negotiated, not inherent."
+                    },
+                    {
+                        "code": "Zero-Defect Ideal",
+                        "justification": "The claim [free of defects] encodes an aspirational zero-defect quality target; \u2018defect\u2019 and acceptable leakage are judgment-laden. I privilege risk-based quality over absolutes."
+                    },
+                    {
+                        "code": "Narrow Quality Scope",
+                        "justification": "The statement [For the software or the end product, I believe the key attributes is conformity to business needs and free of defects.] narrows quality to two criteria. That scoping reflects subjective prioritization of NFRs."
+                    },
+                    {
+                        "code": "Deliverable-Centric View",
+                        "justification": "The opener [For the software or the end product] frames quality at the artifact level, de-emphasizing process metrics. My bias favors lifecycle trade-offs that this framing may ignore."
+                    }
+                ]
+            },
+            {
+                "role": "Software Quality Researcher \u2014 Doctoral; Discipline: Info Systems/Software Engineering; NSF: Human-Centered Computing; Reflexivity: bias toward measurable conformance/defect metrics",
+                "codebook": [
+                    {
+                        "code": "Business Alignment Priority",
+                        "justification": "From an IS/SE doctoral quality lens, [conformity to business needs] indexes requirements-fit, a stakeholder-contingent criterion requiring interpretive judgment."
+                    },
+                    {
+                        "code": "Defect-Free Ideal",
+                        "justification": "My metric-oriented bias foregrounds [free of defects], a zero-defect ideal whose definition and threshold vary across contexts and teams."
+                    },
+                    {
+                        "code": "Subjective Quality Framing",
+                        "justification": "The phrase [I believe] marks a normative stance; I read quality as negotiated, not absolute, given human-centered computing paradigms."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Business Needs Alignment",
+                "definition": "Quality is defined by how well the product fits stakeholder/business requirements, as stated by [conformity to business needs]."
+            },
+            {
+                "code": "Defect-Free Ideal",
+                "definition": "Quality includes absence of faults, with the text positing a zero-defect target via [free of defects]."
+            },
+            {
+                "code": "End-Product Focus",
+                "definition": "The assessment is framed at the deliverable level, signaled by [For the software or the end product], emphasizing the artifact over process."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is a challenging question, because quality is a subjective concept.\"",
+        "Code_GroundTruth": [
+            "Quality is a subjective concept"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflexive Qualitative Researcher \u2014 Doctoral; QS: Social Sciences & Management; NSF: Human-Centered Computing; Bias: interpretivist\u2013pragmatist",
+                "codebook": [
+                    {
+                        "code": "Subjective Quality",
+                        "justification": "[quality is a subjective concept]. As a doctoral interpretivist in Social Sciences, I treat quality as a negotiated construct shaped by stakeholder norms."
+                    },
+                    {
+                        "code": "Evaluation Ambiguity",
+                        "justification": "[challenging question]. My NSF HCC lens foregrounds indeterminate criteria and plural evaluation logics, resisting positivist single-metric assessments."
+                    },
+                    {
+                        "code": "No Single Standard",
+                        "justification": "[subjective concept]. Reflexively, I expect contested operationalizations, prioritize triangulation, and report situated validity over universal benchmarks."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher (PhD-level; Social Sciences/Information Science; HCI/Science-of-Science; constructivist-interpretivist bias)",
+                "codebook": [
+                    {
+                        "code": "Subjective evaluation",
+                        "justification": "From a constructivist lens, [quality is a subjective concept] signals interpretive evaluation over universal, operationalizable metrics."
+                    },
+                    {
+                        "code": "Criterion indeterminacy",
+                        "justification": "The phrase [a challenging question] indexes unstable evaluative criteria\u2014rubrics are underdetermined and negotiated, not fixed."
+                    },
+                    {
+                        "code": "Context dependent standards",
+                        "justification": "Because [quality is a subjective concept], standards vary across communities-of-practice, lacking a single ground truth."
+                    },
+                    {
+                        "code": "Value based judgments",
+                        "justification": "Appraisals are normatively laden; the framing [quality is a subjective concept] implies assessor values shape judgments."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive Qualitative Researcher",
+                "codebook": [
+                    {
+                        "code": "Subjective Evaluation",
+                        "justification": "As a reflexive qualitative researcher (PhD candidate, Social Sciences/HCI), [quality is a subjective concept] foregrounds evaluator judgment over fixed metrics."
+                    },
+                    {
+                        "code": "Criteria Ambiguity",
+                        "justification": "Through a methods lens (QS Social Sciences; NSF HCC), [challenging question] signals indeterminate criteria negotiated among stakeholders."
+                    },
+                    {
+                        "code": "Context-Dependent Quality",
+                        "justification": "In human-centered computing practice, the meaning of [quality] is context-contingent across tasks, domains, and communities."
+                    },
+                    {
+                        "code": "Epistemic Relativism",
+                        "justification": "Given my interpretivist/constructivist stance, [subjective concept] implies epistemic relativism rather than universal benchmarking."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Subjective evaluation of quality",
+                "definition": "The clause [quality is a subjective concept] indicates that judgments of quality depend on the evaluator rather than a universal metric."
+            },
+            {
+                "code": "Ambiguous or indeterminate criteria",
+                "definition": "The phrase [a challenging question] signals difficulty due to unclear or contested criteria, which is motivated by [quality is a subjective concept]."
+            },
+            {
+                "code": "Context-dependent standards (no single benchmark)",
+                "definition": "Because [quality is a subjective concept], applicable standards vary by context and there is no single benchmark."
+            }
+        ]
+    },
+    {
+        "target_text": "\"I\u2019d like to say, in our team we also focus on the internal software quality. The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable. We have to add the desires to maintain, understand and reuse code to evaluate quality.\"",
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Maintainability",
+            "Understandable Code",
+            "Reusability of code"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher (PhD Candidate); Discipline: Computer Science\u2014Software Engineering; NSF Interest: Software Engineering & Programming Languages; Bias: prioritizes internal quality attributes over defect/business-fit metrics",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Emphasis",
+                        "justification": "From a software engineering lens, centers [internal software quality] as a value-laden dimension (ISO/IEC 25010) requiring subjective weighting."
+                    },
+                    {
+                        "code": "Maintainability Priority",
+                        "justification": "As an SE-focused analyst, frames [maintain, understand and reuse code] as core criteria, privileging maintainability judgments over defect counts."
+                    },
+                    {
+                        "code": "External Quality Sufficiency",
+                        "justification": "Positions [confirm to business needs] and [fewer defects] as necessary but insufficient, contesting outcome-only quality definitions."
+                    },
+                    {
+                        "code": "Evaluation Criteria Expansion",
+                        "justification": "Advocates to [add the desires] [to evaluate quality], expanding the rubric via context-specific, human-judged nonfunctional attributes."
+                    }
+                ]
+            },
+            {
+                "role": "Qualitative Software Quality Researcher",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Emphasis",
+                        "justification": "As a qualitative SE researcher, the stress on [internal software quality] signals prioritization of structural attributes over external conformance. This emphasis is interpretive and relies on value-laden quality models."
+                    },
+                    {
+                        "code": "Holistic Quality Evaluation",
+                        "justification": "Contrasting [confirm to business needs] and [have fewer defects] with [to evaluate quality] indicates a broader, multi-criteria lens. Weighting such criteria is subjective and theory-dependent."
+                    },
+                    {
+                        "code": "Maintainability Priority",
+                        "justification": "Citing [maintain, understand and reuse code] centers maintainability, comprehension, and reuse as quality determinants. Assessing these soft attributes requires human judgment and contextualized heuristics."
+                    },
+                    {
+                        "code": "Acceptability Thresholds",
+                        "justification": "The clause [the internal quality is acceptable] foregrounds negotiated thresholds of sufficiency. Acceptability is normatively set by teams and not objectively measurable."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective software engineering researcher (PhD level); QS: Computer Science; NSF: Human-Centered Computing/Software Engineering; Bias: prioritizes developer-centered NFRs over defect counts",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Acceptability",
+                        "justification": "By emphasizing [the internal quality is acceptable], the speaker foregrounds subjective internal code health. Acceptability thresholds are socially constructed NFRs, negotiated beyond defect counts."
+                    },
+                    {
+                        "code": "Maintainability Priority",
+                        "justification": "Referencing [maintain] signals maintainability as a core quality attribute. Maintainability assessments rely on expert heuristics (e.g., modularity, code smells), not a single ground truth."
+                    },
+                    {
+                        "code": "Code Comprehensibility",
+                        "justification": "Invoking [understand] centers developer cognition in quality evaluation. Comprehensibility is interpretive, varying with team expertise and conventions."
+                    },
+                    {
+                        "code": "Reusability Intent",
+                        "justification": "Stating [reuse code] frames quality in terms of future adaptability. Reusability involves contextual trade-offs and design intent, resisting purely objective measurement."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Maintainability Priority",
+                "definition": "Maintainability-related attributes are central to assessing quality, evidenced by the addition of [maintain, understand and reuse code] as criteria 'to evaluate quality.'"
+            },
+            {
+                "code": "Internal Quality Priority",
+                "definition": "The team explicitly prioritizes internal code health, focusing on [internal software quality] and whether [the internal quality is acceptable], not just outward outcomes."
+            },
+            {
+                "code": "Expanded Quality Evaluation",
+                "definition": "Quality must be judged beyond business fit and defect counts: [The final product may confirm to business needs and have fewer defects but it doesn\u2019t always mean the internal quality is acceptable.] and [We have to add the desires to maintain, understand and reuse code to evaluate quality.]"
+            }
+        ]
+    },
+    {
+        "target_text": "\"The agile process itself is subject to continuous improvements. We use retrospectives to continuously reflect on the way we work to become better at what we do and ultimately better at delivering quality software. That\u2019s the process.\"",
+        "Code_GroundTruth": [
+            "Continuous improvements",
+            "Reflecting on the Scrum process",
+            "Become better",
+            "Developing Software",
+            "Software quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Qualitative Researcher (Doctoral; QS: Computer Science & Information Systems; NSF: Software Engineering & Human-Centered Computing; Biases: pro-iterative improvement, process-centric lens)",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement Ethos",
+                        "justification": "The phrase [subject to continuous improvements] signals a kaizen ethos; its salience is interpretive and value-laden. From SE/HCC, this denotes a learning culture rather than an objective process metric."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "Citing [continuously reflect on the way we work] foregrounds reflexivity as routine practice; rigor and depth are judgment-based. Retrospectives function as sensemaking rituals, not purely objective procedures."
+                    },
+                    {
+                        "code": "Quality-Driven Delivery",
+                        "justification": "The commitment to [delivering quality software] encodes a normative valuation; \u2018quality\u2019 is socially negotiated, not singularly defined. My SE lens reads this as QA prioritization over throughput."
+                    },
+                    {
+                        "code": "Process-Centric Framing",
+                        "justification": "Asserting [That\u2019s the process.] elevates process as a legitimizing narrative; adequacy is a subjective appraisal. This teleological framing can bias attention away from emergent outcomes."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Qualitative IS Researcher (Doctoral; NSF: HCC; Agile-lean bias)",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement Ethos",
+                        "justification": "From an interpretivist IS/HCC lens, [subject to continuous improvements] signals a normative kaizen ethos; what counts as \u201cimprovement\u201d is negotiated and value-laden."
+                    },
+                    {
+                        "code": "Reflective Practice",
+                        "justification": "As a reflexive qualitative researcher, [continuously reflect] and [retrospectives] encode double-loop learning; the depth and authenticity of reflection are subjective and contested."
+                    },
+                    {
+                        "code": "Quality Focus",
+                        "justification": "With a socio-technical bias toward user value, [delivering quality software] frames quality as an evaluative construct; criteria vary across stakeholders and contexts."
+                    },
+                    {
+                        "code": "Process Legitimacy",
+                        "justification": "My process-centric assumption reads [That\u2019s the process.] as boundary-setting; privileging procedure over outcomes is an interpretive stance, not an objective necessity."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive Methods Analyst \u2014 PhD Candidate; QS: Computer Science/Software Engineering; NSF: Human-Centered Computing & Organizational Systems; Bias: favors iterative, process-centric improvement",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement Mindset",
+                        "justification": "The process is framed as [subject to continuous improvements] and reinforced via [retrospectives], privileging iterative learning over static compliance."
+                    },
+                    {
+                        "code": "Reflective Practice Norm",
+                        "justification": "Emphasizes [We use retrospectives] to [continuously reflect], institutionalizing structured sensemaking rather than ad-hoc feedback."
+                    },
+                    {
+                        "code": "Quality-Centric Delivery",
+                        "justification": "Improvements are teleologically oriented toward [delivering quality software], signaling value-laden prioritization of product excellence over throughput."
+                    },
+                    {
+                        "code": "Process Orientation",
+                        "justification": "The explicit anchoring in [The agile process itself] and the closure [That\u2019s the process.] foreground method as a constitutive organizing principle."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous Improvement",
+                "definition": "The team keeps the method open to ongoing refinement, explicitly stating [The agile process itself is subject to continuous improvements.]"
+            },
+            {
+                "code": "Reflective Practice via Retrospectives",
+                "definition": "Reflection is institutionalized through ceremonies, as indicated by [We use retrospectives] to [continuously reflect on the way we work]."
+            },
+            {
+                "code": "Quality-Oriented Delivery Goal",
+                "definition": "The purpose of improvement and reflection is to be better at [delivering quality software], linking process work to product quality outcomes."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is difficult to define and measure. That\u2019s for sure. I think before agile, there was a great focus on product level quality. Mainly free of defects and meets customer\u2019s needs. I saw in agile a shift toward code quality and a design that responds to change. There is also a continuous improvement of the process effort.\"",
+        "Code_GroundTruth": [
+            "Free of defects",
+            "Conformity to business needs",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Qualitative SE Researcher (Doctoral; CS\u2013Software Engineering; NSF interests: Human-Centered/Sociotechnical SE, metrics); Biases: constructivist, metric-skeptical, pro-adaptability",
+                "codebook": [
+                    {
+                        "code": "Quality Ambiguity",
+                        "justification": "From a constructivist SE lens, [It is difficult to define and measure.] underscores contested construct validity and metric indeterminacy."
+                    },
+                    {
+                        "code": "Shifting Quality Focus",
+                        "justification": "As a qualitative SE doctoral researcher, [a shift toward code quality] denotes value-laden reweighting of evaluation criteria over time."
+                    },
+                    {
+                        "code": "Adaptive Design Emphasis",
+                        "justification": "Through a sociotechnical lens, [a design that responds to change] foregrounds subjective judgments of adaptability and architectural resilience."
+                    },
+                    {
+                        "code": "Process Improvement Mindset",
+                        "justification": "Grounded in HCC/SE values, [continuous improvement of the process] reflects iterative learning cultures resistant to single, objective benchmarks."
+                    }
+                ]
+            },
+            {
+                "role": "Interpretivist Software Engineering Researcher (PhD; CS/IS; Agile & socio-technical; reflexive pro-agile bias)",
+                "codebook": [
+                    {
+                        "code": "Ambiguous Quality Definition",
+                        "justification": "The text flags measurement indeterminacy: [It is difficult to define and measure.]. As an interpretivist SE PhD, I treat 'quality' as socially constructed rather than fixed."
+                    },
+                    {
+                        "code": "Product Level Quality",
+                        "justification": "This frames quality as conformance and fitness-for-use: [free of defects and meets customer\u2019s needs]. From a software engineering lens, I code this as product-centric value criteria."
+                    },
+                    {
+                        "code": "Code Quality Shift",
+                        "justification": "The author signals a paradigmatic reorientation: [a shift toward code quality]. Through an agile-methods focus, I foreground maintainability and readability as evaluative heuristics."
+                    },
+                    {
+                        "code": "Continuous Process Improvement",
+                        "justification": "Quality is extended to processual refinement: [continuous improvement of the process effort]. From a socio-technical stance, I treat this as kaizen-oriented capability, not an objective metric."
+                    }
+                ]
+            },
+            {
+                "role": "Qualitative Software Engineering Researcher (PhD Candidate; QS: Computer Science & Information Systems; NSF: Human-Centered Computing/Software Engineering; Reflexivity: pro\u2011agile, interpretivist, process- and user-value bias)",
+                "codebook": [
+                    {
+                        "code": "Quality Ambiguity",
+                        "justification": "Anchored by [It is difficult to define and measure.], quality is positioned as an indeterminate construct requiring interpretive judgment. My interpretivist, pro\u2011agile SE lens foregrounds ambiguity as analytically salient."
+                    },
+                    {
+                        "code": "Customer-Centric Quality",
+                        "justification": "Framed by [meets customer\u2019s needs], I privilege experiential value over defect counts, aligning with HCI/SE concerns. This reflects my NSF-aligned focus on user value in socio-technical systems."
+                    },
+                    {
+                        "code": "Change-Responsive Design",
+                        "justification": "From [a design that responds to change], adaptability is treated as a normative quality attribute under agile epistemology. This coding embeds my bias that evolvability is central to software quality."
+                    },
+                    {
+                        "code": "Continuous Process Improvement",
+                        "justification": "Grounded in [continuous improvement of the process effort], I read a Kaizen-like orientation toward process capability. My process-centric stance (QS: CS/IS) interprets improvement as a core, yet subjective, quality dimension."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Quality Ambiguity",
+                "definition": "Quality is acknowledged as hard to pin down and quantify, as indicated by [It is difficult to define and measure.], signaling contested definition and measurement."
+            },
+            {
+                "code": "Continuous Process Improvement",
+                "definition": "Quality involves ongoing refinement of how work is done, grounded in [continuous improvement of the process effort]."
+            },
+            {
+                "code": "Shift toward Code Quality",
+                "definition": "Under agile, evaluation moved toward internal code attributes, supported by [a shift toward code quality]."
+            }
+        ]
+    },
+    {
+        "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+        "Code_GroundTruth": [
+            "Internal quality",
+            "Free of defects",
+            "Meets the end user requirements",
+            "External qualiy"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective SE Researcher (PhD, Empirical/Human-Centered)",
+                "codebook": [
+                    {
+                        "code": "Outcome-Centric Quality",
+                        "justification": "By asserting [Software quality is the end result.], the text adopts a teleological framing. What counts as the \u201cend result\u201d and its primacy vary across quality models and stakeholder values."
+                    },
+                    {
+                        "code": "Structural Quality Emphasis",
+                        "justification": "Invoking [a structural perspective] foregrounds internal quality (code/design). Which structural metrics matter\u2014and how they are weighted\u2014is judgment-laden and project-specific."
+                    },
+                    {
+                        "code": "Zero-Defect Ideal",
+                        "justification": "Calling for [free of defects] posits an idealized target. Definitions of \u201cdefect\u201d and acceptable defect densities are negotiated across teams and domains."
+                    },
+                    {
+                        "code": "User-Centric Fit",
+                        "justification": "Prioritizing [meets the end user requirements] centers external quality. Requirements are interpreted and validated socio-technically; \u201cmeeting\u201d them depends on context and stakeholder consensus."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive Doctoral Researcher \u2014 Computer Science (QS); Software Engineering/Human-Centered Computing (NSF); socio-technical, outcome-oriented bias",
+                "codebook": [
+                    {
+                        "code": "Outcome-oriented quality",
+                        "justification": "Teleological framing [Software quality is the end result.] centers evaluative endpoints; what counts as the \u2018end result\u2019 varies by stakeholder values and context."
+                    },
+                    {
+                        "code": "Structural-centric assessment",
+                        "justification": "Prioritizes internal quality attributes [It has a structural perspective which is the code and the design.]; judgments of design/code \u2018goodness\u2019 are value-laden."
+                    },
+                    {
+                        "code": "Requirements alignment",
+                        "justification": "Defines external quality as conformance/fitness [meets the end user requirements.]; adequacy and acceptance of requirements are negotiated, interpretive judgments."
+                    },
+                    {
+                        "code": "Holistic quality framing",
+                        "justification": "Combines internal and external lenses [structural perspective] and [external component]; the weighting of these facets is subjective across teams and domains."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive Software Engineering Researcher (Academic Level: PhD; Discipline: QS\u2014Engineering & Technology/Computer Science; Research Interest: NSF\u2014Software Engineering & Human-Centered Computing; Biases/Assumptions: pragmatic, user-centered, quality-attributes emphasis)",
+                "codebook": [
+                    {
+                        "code": "Holistic Quality Framing",
+                        "justification": "As a PhD SE scholar, I read [Software quality is the end result.] as outcome-oriented, privileging end-to-end measures over process metrics."
+                    },
+                    {
+                        "code": "Structural Emphasis",
+                        "justification": "Through a CS/Engineering lens, [a structural perspective] foregrounds internal artifacts (architecture, code, design) as primary quality determinants."
+                    },
+                    {
+                        "code": "Defect-Free Ideal",
+                        "justification": "With a pragmatist bias, [free of defects] encodes a normative reliability ideal whose attainability and measurement are contested."
+                    },
+                    {
+                        "code": "User-Centric Fit",
+                        "justification": "Aligned with human-centered computing, [meets the end user requirements] denotes negotiated, context-specific fit rather than a fixed criterion."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Outcome-oriented quality",
+                "definition": "Frames quality as the target end state, per [Software quality is the end result.], emphasizing evaluation by outcomes rather than process."
+            },
+            {
+                "code": "Structural perspective (code and design)",
+                "definition": "Emphasizes internal/structural attributes of quality, as stated in [It has a structural perspective which is the code and the design.]."
+            },
+            {
+                "code": "User requirements alignment (external quality)",
+                "definition": "Positions external quality as satisfying user needs, grounded in the full sentence [It has also an external component which is free of defects and meets the end user requirements.]."
+            }
+        ]
+    },
+    {
+        "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+        "Code_GroundTruth": [
+            "Internal quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Doctoral Researcher; Discipline: Information Systems (QS); Research: Human-Centered Computing & Software Engineering (NSF); Biases: process-centric, socio-technical, internal validity emphasis",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Emphasis",
+                        "justification": "[It is important to also assure internal quality.] From an IS/HCC doctoral stance, this signals a normative emphasis on internal validity and process-centric assurance."
+                    },
+                    {
+                        "code": "Design Focused Evaluation",
+                        "justification": "[the way that the system has been built and designed.] As a CS/IS qualitative analyst, I read this as design-oriented criteria privileging architecture and rationale over outcomes."
+                    },
+                    {
+                        "code": "Build Process Integrity",
+                        "justification": "[Internal quality] depends on [the way that the system has been built and designed.]. I assume socio-technical process integrity\u2014coding for craft rigor and traceable engineering practices."
+                    }
+                ]
+            },
+            {
+                "role": "Software Quality Researcher (PhD candidate)",
+                "codebook": [
+                    {
+                        "code": "Internal quality emphasis",
+                        "justification": "As a PhD candidate in software engineering, I read [assure internal quality] as foregrounding process and code-level attributes, judgment-laden socio-technical quality criteria."
+                    },
+                    {
+                        "code": "Design integrity",
+                        "justification": "Referencing [the system has been built and designed] invokes architectural integrity and maintainability, norms I privilege methodologically; their assessment is inherently interpretive."
+                    },
+                    {
+                        "code": "Process-centered evaluation",
+                        "justification": "Framing quality as [Internal quality] centers development practices and design rationale; my bias favors internal metrics as proxies for reliability and trustworthiness."
+                    },
+                    {
+                        "code": "Assurance priority",
+                        "justification": "Stating it is [important to also assure internal quality] signals a risk posture elevating assurance activities, an evaluative prioritization shaped by discipline-specific values."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher\u2014Doctoral; CS & Information Systems; NSF: Human-Centered Computing; Bias: process-quality emphasis",
+                "codebook": [
+                    {
+                        "code": "Internal Quality Priority",
+                        "justification": "Reading [assure internal quality] as a normative emphasis signals value-laden prioritization, adjudicated via contested SE metrics (maintainability, testability), not a single ground truth."
+                    },
+                    {
+                        "code": "Process Oriented Design",
+                        "justification": "The claim [Internal quality has to do with the way that the system has been built and designed.] frames quality as lifecycle/process-dependent, weighted differently across methodologies."
+                    },
+                    {
+                        "code": "Architectural Soundness",
+                        "justification": "The phrase [built and designed] invokes judgments about cohesion, coupling, and design integrity\u2014interpretive, context-specific criteria rather than objective facts."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Internal Quality Priority",
+                "definition": "The text prioritizes ensuring internal quality: [It is important to also assure internal quality.]."
+            },
+            {
+                "code": "Design-Centric Internal Quality",
+                "definition": "Internal quality is defined by system design/build choices: [Internal quality has to do with the way that the system has been built and designed.]."
+            },
+            {
+                "code": "Process-Centered Quality Evaluation",
+                "definition": "Internal quality depends on the development process (the way the system was made), not just outcomes: [Internal quality has to do with the way that the system has been built and designed.]."
+            }
+        ]
+    },
+    {
+        "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+        "Code_GroundTruth": [
+            "Scrum",
+            "Continuous improvements"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Software Engineering Qualitative Researcher (PhD candidate; QS: Computer Science\u2014Software Engineering; NSF: Human-Centered Computing; Reflexivity: pro\u2013process-improvement bias)",
+                "codebook": [
+                    {
+                        "code": "Goal-Driven Framing",
+                        "justification": "From an SE/HCC lens, [To achieve that we need] signals teleological, outcome-first reasoning guiding method selection. My pro\u2013process-improvement bias foregrounds purpose as rationale."
+                    },
+                    {
+                        "code": "Process Rigor Orientation",
+                        "justification": "Reading [robust software development process] through QS Computer Science norms evokes rigor, capability maturity, and formal QA. As a PhD trainee, I privilege structured workflows over ad hoc practices."
+                    },
+                    {
+                        "code": "Continuous Improvement Ethos",
+                        "justification": "I parse [continuous review and improvements] as Kaizen/PDCA, aligning with DevOps and socio-technical learning. My NSF HCC focus centers feedback loops, reflexivity, and iterative governance."
+                    },
+                    {
+                        "code": "Normative Imperative",
+                        "justification": "The modal [we need] encodes prescriptive intent and collective responsibility. Reflexively, I note my assumption that mandates enhance compliance and quality."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Software Engineering Researcher (Doctoral); QS: Computer Science & Information Systems; NSF: CISE - Software Engineering; Reflexivity: favors process maturity/QA",
+                "codebook": [
+                    {
+                        "code": "Continuous Improvement Mindset",
+                        "justification": "As a doctoral-level SE researcher (QS: CS/IS; NSF: CISE-SE), [continuous review and improvements] signals a kaizen mindset; my process-maturity bias foregrounds iteration."
+                    },
+                    {
+                        "code": "Process Robustness Emphasis",
+                        "justification": "I read [robust software development process] as subjective resilience/quality; my CS/SE lens privileges reliability metrics, possibly underweighting agility."
+                    },
+                    {
+                        "code": "Governance and Oversight",
+                        "justification": "The phrase [subjected to continuous review] implies governance and oversight; my CI/CD bias maps this to audits and code-review pipelines."
+                    },
+                    {
+                        "code": "Goal-Oriented Quality",
+                        "justification": "The opener [To achieve that] frames quality as instrumental; my systems perspective emphasizes goal-driven controls and outcomes alignment."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher (Doctoral; QS: Computer Science; NSF: Software Systems; process-centric, governance-oriented)",
+                "codebook": [
+                    {
+                        "code": "Robustness Priority",
+                        "justification": "As a doctoral-level CS researcher (QS) in Software Systems (NSF), I read [\"robust software development process\"] as prioritizing resilience over speed. My process-centric bias foregrounds reliability metrics and fault tolerance in this phrasing."
+                    },
+                    {
+                        "code": "Continuous Improvement Mindset",
+                        "justification": "From a reflective SE perspective, [\"continuous review and improvements\"] signals a Kaizen/DevOps ethos beyond static compliance. My assumptions favor iterative governance, so I emphasize retrospectives and feedback loops."
+                    },
+                    {
+                        "code": "Goal Orientation",
+                        "justification": "[\"To achieve that\"] frames teleology; my role identity centers outcomes alignment with process choices. Doctoral training biases me to map objectives to SDLC control points."
+                    },
+                    {
+                        "code": "Process Accountability",
+                        "justification": "The phrasing [\"subjected to\"] suggests externalized oversight; I infer formal audits and gatekeeping. CS/SE norms and my governance orientation privilege compliance artifacts and review cadence."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous Improvement Ethos",
+                "definition": "The phrase [continuous review and improvements] explicitly calls for ongoing evaluation and iteration, indicating a built-in feedback loop for the process."
+            },
+            {
+                "code": "Process Robustness Emphasis",
+                "definition": "The requirement for a [robust software development process] centers the need for a strong, reliable, and resilient SDLC."
+            },
+            {
+                "code": "Goal-Oriented Framing",
+                "definition": "The clause [To achieve that we need] frames the statement as action taken to reach a prior goal, signaling outcome-first reasoning."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We aim for clean code. This mean maintainable code that confirms to well established guidelines. We also aim for sustainability of the design. This means the software design is able to cope with new requirements easily moving forward.\"",
+        "Code_GroundTruth": [
+            "Clean code",
+            "Sustainable design"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "PhD Qualitative Software Engineering Researcher (QS: CS/IS; NSF: Software Engineering/HCC; Bias: standards- and maintainability-centric)",
+                "codebook": [
+                    {
+                        "code": "Clean Code Ethos",
+                        "justification": "As a PhD qualitative SE researcher (QS: CS/IS; NSF: SE), I read [clean code] as a value-laden quality norm. My standards-centric bias equates 'clean' with readability, cohesion, and low coupling."
+                    },
+                    {
+                        "code": "Maintainability Priority",
+                        "justification": "From a lifecycle-centric SE lens, [maintainable code] prioritizes evolvability over near-term throughput. My maintainability-first bias invokes subjective proxies (code smells, indices) rather than definitive ground truth."
+                    },
+                    {
+                        "code": "Guideline Conformance",
+                        "justification": "I interpret [confirms to well established guidelines] as normative alignment with community standards. Bias: I privilege linters and style guides as quality signals despite context-dependence."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "As design-methods oriented, [sustainability of the design] encodes future-proofing. My HCC/SE stance reads [cope with new requirements easily] as adaptability, trading simplicity (YAGNI) for resilience."
+                    }
+                ]
+            },
+            {
+                "role": "PhD-level Reflective Qualitative Software Engineering Researcher (QS: Computer Science; NSF: Software & Hardware Systems)",
+                "codebook": [
+                    {
+                        "code": "Clean Code Ideal",
+                        "justification": "As a PhD-level reflective SE scholar (QS: CS; NSF: SE), I treat 'clean' as a negotiated norm. The aspiration is explicit in [We aim for clean code.], signaling value-laden quality intent."
+                    },
+                    {
+                        "code": "Standards Guided Maintainability",
+                        "justification": "My bias favors guideline-driven quality heuristics (style guides, SOLID), linking standards to maintainability. This coupling is asserted via [maintainable code] aligned to [well established guidelines]."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "With an NSF interest in sustainable software systems, I elevate long-term viability as a core criterion. That intent is declared in [We also aim for sustainability of the design.]."
+                    },
+                    {
+                        "code": "Evolvability Focus",
+                        "justification": "Doctoral training inclines me to see evolvability as context-contingent, not binary. Adaptivity is foregrounded in [able to cope with new requirements], highlighting future-oriented design judgment."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Software Engineering Researcher (PhD; QS: Computer Science; NSF: Software Engineering; Biases: maintainability-first, standards-oriented, long-termism)",
+                "codebook": [
+                    {
+                        "code": "Maintainability Priority",
+                        "justification": "From a software engineering research lens, I read [maintainable code] and [clean code] as prioritizing long-term quality over delivery speed. My maintainability-first bias amplifies this theme."
+                    },
+                    {
+                        "code": "Guideline Conformance",
+                        "justification": "The phrase [confirms to well established guidelines] frames normative standard adherence in coding practice. As a standards-oriented PhD researcher, I code this as intentional conformance."
+                    },
+                    {
+                        "code": "Design Sustainability",
+                        "justification": "The stated goal [sustainability of the design] centers lifecycle stewardship and architectural longevity. My long-termism bias foregrounds durability over short-term optimization."
+                    },
+                    {
+                        "code": "Change Resilience",
+                        "justification": "Declaring the design [able to cope with new requirements easily] indicates adaptability and extensibility intent. This aligns with my SE focus on evolvability and forward-compatibility."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Standards-aligned maintainability",
+                "definition": "The statement defines clean code as both maintainable and compliant with standards: [This mean maintainable code that confirms to well established guidelines.]."
+            },
+            {
+                "code": "Design sustainability",
+                "definition": "There is an explicit long-term design goal: [We also aim for sustainability of the design.], indicating lifecycle durability and architectural longevity."
+            },
+            {
+                "code": "Adaptability to new requirements",
+                "definition": "Sustainability is operationalized as evolvability: [This means the software design is able to cope with new requirements easily moving forward.]."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We don\u2019t achieve software quality without a process that implement and foster quality practices. It starts from the requirements elicitation and documentation to the testing. For example, we have review processes for the requirements, the code and the design. We have check lists and documented guidelines.\"",
+        "Code_GroundTruth": [
+            "Software quality",
+            "Quality assurance",
+            "Practicing",
+            "Peer review",
+            "Guidelines",
+            "Check lists"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher \u2014 PhD Candidate; QS: Computer Science (Software Engineering); NSF: Software Engineering/Empirical Methods; Bias: process-oriented, standards-centric",
+                "codebook": [
+                    {
+                        "code": "Process-Centric Quality",
+                        "justification": "Frames quality as process-dependent [We don\u2019t achieve software quality without a process]. My SE lens (QS: CS/IS) foregrounds governance and quality management."
+                    },
+                    {
+                        "code": "Lifecycle Orientation",
+                        "justification": "Claims end-to-end coverage [requirements elicitation and documentation to the testing]. My NSF SE interest privileges lifecycle traceability and V-model alignment."
+                    },
+                    {
+                        "code": "Formalized Reviews",
+                        "justification": "Emphasizes peer control via [review processes]. As a PhD candidate, I read this as institutionalized V&V to reduce defect leakage."
+                    },
+                    {
+                        "code": "Checklist Governance",
+                        "justification": "Relies on compliance artifacts [check lists] and [documented guidelines]. My standards-centric bias may overvalue consistency over creative flexibility."
+                    }
+                ]
+            },
+            {
+                "role": "Process-oriented Software Engineering Researcher, PhD Candidate (QS: Computer Science & Information Systems; NSF: Software & Hardware Foundations\u2014Software Engineering; Bias: governance-first, pro-process, socio-technical lens)",
+                "codebook": [
+                    {
+                        "code": "Process-centric quality",
+                        "justification": "The phrasing [without a process] and [implement and foster quality practices] signal a governance-first quality stance. From a software QA perspective, process is framed as the primary assurance mechanism."
+                    },
+                    {
+                        "code": "Lifecycle coverage",
+                        "justification": "The span from [requirements elicitation and documentation] [to the testing] indicates full SDLC coverage. This encodes an end-to-end V&V orientation."
+                    },
+                    {
+                        "code": "Institutionalized reviews",
+                        "justification": "Emphasis on [review processes] [for the requirements, the code and the design] reflects a peer-review culture. It prioritizes collective oversight as a quality gate."
+                    },
+                    {
+                        "code": "Documentation rigor",
+                        "justification": "References to [check lists] and [documented guidelines] denote documentation-centric governance. This privileges traceability and compliance as quality proxies."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher (PhD; QS: Computer Science\u2014Software Engineering; NSF: CISE\u2013Software Systems; process-oriented bias)",
+                "codebook": [
+                    {
+                        "code": "Process-Centric Quality",
+                        "justification": "From a PhD-level SE lens, [software quality] is framed as unattainable [without a process] that [implement and foster quality practices]. This encodes a maturity-model assumption privileging formalized workflows."
+                    },
+                    {
+                        "code": "End-to-End Assurance",
+                        "justification": "I interpret scope as lifecycle-wide via [requirements elicitation and documentation to the testing]. This emphasizes continuity of assurance activities across phases."
+                    },
+                    {
+                        "code": "Peer Review Norms",
+                        "justification": "Quality is socialized through [review processes] covering [the requirements, the code and the design]. My socio-technical bias reads this as institutionalized peer oversight."
+                    },
+                    {
+                        "code": "Documentation Discipline",
+                        "justification": "Governance leans on artifacts like [check lists] and [documented guidelines]. I value traceability and standardization, so I foreground documentation rigor."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Process-centric quality",
+                "definition": "Quality is presented as contingent on an explicit process that implements and fosters practices, as stated in [We don\u2019t achieve software quality without a process that implement and foster quality practices.]."
+            },
+            {
+                "code": "Lifecycle-wide coverage",
+                "definition": "Quality practices are described as spanning the full development lifecycle, per [It starts from the requirements elicitation and documentation to the testing.]."
+            },
+            {
+                "code": "Institutionalized reviews across artifacts",
+                "definition": "Formal review activities are positioned as quality gates over multiple artifacts, supported by [For example, we have review processes for the requirements, the code and the design.]."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+        "Code_GroundTruth": [
+            "Conformity to business requirements",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher \u2014 Doctoral; QS: Computer Science (Software Engineering); NSF: CISE\u2013Software Quality & Requirements; Bias: conformance/defect-centric",
+                "codebook": [
+                    {
+                        "code": "Requirements Conformance",
+                        "justification": "[confirms to the requirements] indicates a conformance-first quality stance. As a graduate SE/QA researcher, my bias privileges spec compliance in assessment."
+                    },
+                    {
+                        "code": "Zero-Defect Ideal",
+                        "justification": "[free of defects] foregrounds a reliability-centric, defect-escape minimization ideal. My SE perspective prioritizes countable defects over experiential quality signals."
+                    },
+                    {
+                        "code": "Question Salience",
+                        "justification": "[very important question!] frames the topic as high-stakes. This salience may bias my study design toward evaluative metrics over exploratory facets."
+                    },
+                    {
+                        "code": "Quality Hierarchy",
+                        "justification": "[first and most] signals a normative ordering of quality criteria. My assumption privileges primary criteria (conformance, defects) above softer attributes."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Qualitative Researcher (PhD Candidate; QS: Computer Science & Information Systems; NSF: Software Engineering/Human-Centered Computing; Bias: socio-technical, value-sensitive)",
+                "codebook": [
+                    {
+                        "code": "Requirements-Centric Quality",
+                        "justification": "By foregrounding [confirms to the requirements], the author operationalizes quality as specification conformance, a normative weighting that privileges V&V over experiential value."
+                    },
+                    {
+                        "code": "Defect-Free Ideal",
+                        "justification": "The phrase [free of defects] asserts a zero-defect ideal, an aspirational threshold whose definition and sufficiency are interpretively negotiated across contexts."
+                    },
+                    {
+                        "code": "Importance Framing",
+                        "justification": "The emphatic [very important question] signals salience construction, guiding attention and legitimizing this quality model through rhetoric rather than empirical warrants."
+                    },
+                    {
+                        "code": "Primacy Assertion",
+                        "justification": "The ordering cue [first and most] frames priority, elevating conformance/defect metrics above competing quality dimensions, a subjective hierarchy."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive Researcher\u2014PhD Candidate, Software Engineering (QS: Computer Science); NSF: Human-Centered Computing; Biases: verification-centric, standards-oriented",
+                "codebook": [
+                    {
+                        "code": "Requirements Focused Quality",
+                        "justification": "Phrase [confirms to the requirements] foregrounds conformance and traceability as primary quality criteria. My SE/HCC lens privileges V&V constructs when coding this emphasis."
+                    },
+                    {
+                        "code": "Defect-Free Ideal",
+                        "justification": "Claim [free of defects] encodes a zero-defect aspiration typical of verification logic. My verification-centric bias reads this as privileging fault absence over UX qualities."
+                    },
+                    {
+                        "code": "Prioritization Framing",
+                        "justification": "Modifier [first and most] signals a normative hierarchy of quality dimensions. As a PhD-level SE researcher, I interpret prioritization as a value-laden modeling choice."
+                    },
+                    {
+                        "code": "Narrow Quality Scope",
+                        "justification": "Juxtaposing [confirms to the requirements] with [free of defects] narrows quality to V&V metrics. Standards-oriented assumptions highlight under-specification of nonfunctional and sociotechnical factors."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Requirements Conformance",
+                "definition": "Quality is defined as the product matching its specifications, indicated by [confirms to the requirements]."
+            },
+            {
+                "code": "Defect-Free Ideal",
+                "definition": "Quality entails an absence of faults, explicitly stated as [free of defects]."
+            },
+            {
+                "code": "Quality Criteria Hierarchy",
+                "definition": "The phrase [first and most] establishes a priority ordering that elevates conformance and defect absence as primary quality criteria."
+            }
+        ]
+    },
+    {
+        "target_text": "\"000\"",
+        "Code_GroundTruth": [
+            "Software quality"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Researcher \u2014 PhD Candidate, Linguistics (QS); HCC/Information & Intelligent Systems (NSF); bias: minimalism-as-signal, zero-as-null",
+                "codebook": [
+                    {
+                        "code": "Intentional Ambiguity",
+                        "justification": "From a semiotic lens, [000] functions as an indeterminate signifier. My HCC bias infers purposeful openness in the token\u2019s under-specification."
+                    },
+                    {
+                        "code": "Minimalist Expression",
+                        "justification": "Stylistically, [000] exemplifies reductive minimalism, compressing meaning into a terse token. Economy of form signals aesthetic intent."
+                    },
+                    {
+                        "code": "Nullity Signaling",
+                        "justification": "In data-semiotic terms, [000] indexes absence/null. My systems-oriented stance maps zero to \u2018no content\u2019 semantics."
+                    },
+                    {
+                        "code": "Patterned Placeholder",
+                        "justification": "Tripled digit [000] reads as a placeholder awaiting content; repetition stabilizes a scaffold. Design heuristics inform this interpretation."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive qualitative researcher (Doctoral candidate; QS: Information Science/HCI; NSF: Human-Centered Computing; Biases: interpretivist, semiotic lens)",
+                "codebook": [
+                    {
+                        "code": "Ambiguous Placeholder",
+                        "justification": "The token [000] operates as an indexical placeholder; without context, its referent remains indeterminate."
+                    },
+                    {
+                        "code": "Null Signifier",
+                        "justification": "In semiotic terms, [000] functions as a null signifier, denoting absence or zeroed content rather than meaning."
+                    },
+                    {
+                        "code": "Intentional Minimalism",
+                        "justification": "The austerity of [000] suggests intentional minimalism, prompting hermeneutic engagement and open coding by the reader."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher (Doctoral; QS: Social Sciences; NSF: SBE/HCC; interpretivist, context-sensitive)",
+                "codebook": [
+                    {
+                        "code": "Ambiguous placeholder",
+                        "justification": "From an interpretivist HCC lens as a doctoral social scientist, [\"000\"] reads as a null token indexing absence."
+                    },
+                    {
+                        "code": "Minimalist expression",
+                        "justification": "The austere surface of [\"000\"] exemplifies minimalism, inviting reader projection and co-construction of meaning."
+                    },
+                    {
+                        "code": "Repetition as code",
+                        "justification": "Tripled zeros in [\"000\"] suggest patterned encoding or emphasis, privileging form over semantics within the sign."
+                    },
+                    {
+                        "code": "Framed utterance",
+                        "justification": "Bracketing quotes in [\"\"000\"\"] act as paratextual framing, objectifying the sign and cueing meta-communication."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Ambiguous Placeholder",
+                "definition": "The isolated string [\"000\"] lacks a clear referent and thus operates as an ambiguous stand-in/placeholder."
+            },
+            {
+                "code": "Minimalist Expression",
+                "definition": "The hyper-concise form [\"000\"] uses only three characters, exemplifying a minimalist expression of content."
+            },
+            {
+                "code": "Null Signifier",
+                "definition": "Composed solely of zeros, [\"000\"] signals zero/absence, i.e., a null value rather than substantive content."
+            }
+        ]
+    },
+    {
+        "target_text": "\"Software quality is both outcome and process. We measure the outcome by product quality; its ability to meet business needs and has no defects. The process is how we create and deliver the software. In agile, this is a continuous improvement process. It gets better by continuously examining the way we work, we learn and change for the better. In agile, we always experiment to come up with better ways.\"",
+        "Code_GroundTruth": [
+            "Meet business needs",
+            "No defects",
+            "Scrum",
+            "Continuous improvements"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Qualitative Software Engineering Researcher; Academic Level: PhD Candidate; QS Discipline: Computer Science\u2014Software Engineering; NSF Interest: Human-Centered Computing; Biases: pro-agile, process- and learning-oriented",
+                "codebook": [
+                    {
+                        "code": "Outcome quality",
+                        "justification": "Signals a value-laden evaluation of 'quality' via [We measure the outcome by product quality], privileging business-value and defect metrics. This interpretive criterion hinges on alignment with [meet business needs] and tolerance for [has no defects], which are negotiated constructs."
+                    },
+                    {
+                        "code": "Process orientation",
+                        "justification": "Emphasizes processual logics per [The process is how we create and deliver the software.], foregrounding methods over artifacts. Such framing centers socio-technical workflows and reflexive practice around [the way we work]."
+                    },
+                    {
+                        "code": "Continuous improvement ethos",
+                        "justification": "Normative kaizen stance is explicit in [continuous improvement process], encoding an ongoing, incremental change philosophy. It operationalizes learning through [continuously examining], reinforcing iterative reflection and adaptation."
+                    },
+                    {
+                        "code": "Experimental mindset",
+                        "justification": "Advocates empiricism via [we always experiment], privileging hypothesis-driven practice within agile. The telos is optimization toward [better ways], a subjective, context-contingent target."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Researcher \u2014 Doctoral; QS: Computer Science & Info Systems; NSF: Human-Centered Computing/Software Engineering; Bias: Lean-Agile, value-centric, defect-averse.",
+                "codebook": [
+                    {
+                        "code": "Quality Duality",
+                        "justification": "As a doctoral SE/HCI researcher, I read [Software quality is both outcome and process.] as a dual construct. Analysts subjectively weight process vs outcome, shaping evaluation criteria and construct validity."
+                    },
+                    {
+                        "code": "Business Value Alignment",
+                        "justification": "From a value-centric, Lean-Agile bias, [meet business needs] foregrounds teleological quality. Business alignment is interpretive; stakeholders negotiate what 'needs' and sufficiency mean."
+                    },
+                    {
+                        "code": "Zero-Defect Ideal",
+                        "justification": "I interpret [has no defects] as an aspirational SQA ideal, not an empirical absolute. Defect tolerance thresholds are subjective, varying by risk appetite and domain."
+                    },
+                    {
+                        "code": "Continuous Improvement Ethos",
+                        "justification": "My SE discipline reads [continuous improvement process] as a kaizen ethos driving process reflexivity. [we learn and change for the better] introduces normative learning aims; progress is judged subjectively. [we always experiment] frames inquiry as iterative, privileging exploration over fixed standards."
+                    }
+                ]
+            },
+            {
+                "role": "Reflexive Software Engineering Researcher (PhD Candidate; Discipline: Computer Science/Software Engineering; NSF Interest: Human-Centered Computing & Socio-Technical Systems; Biases: constructivist epistemology, pro-agile)",
+                "codebook": [
+                    {
+                        "code": "Outcome-Process Duality",
+                        "justification": "Frames quality as a dual construct [both outcome and process], inviting interpretive weighting. As a constructivist SE scholar, I read this as a socio-technical coupling shaping evaluation criteria."
+                    },
+                    {
+                        "code": "Business Alignment Ambiguity",
+                        "justification": "Quality is tied to contextual goals [meet business needs], a subjective, shifting benchmark. This embeds stakeholder-contingent utility rather than intrinsic metrics."
+                    },
+                    {
+                        "code": "Defect Intolerance Norm",
+                        "justification": "The phrase [has no defects] encodes a zero-defect ideal, a normative stance often unattainable in complex systems. This sets stringent, value-laden acceptance criteria."
+                    },
+                    {
+                        "code": "Continuous Improvement Ethos",
+                        "justification": "Agile is cast as a [continuous improvement process], privileging kaizen-like reflexivity. Emphasis on [continuously examining the way we work] normalizes ongoing change."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Continuous improvement ethos",
+                "definition": "Quality is advanced through ongoing refinement in agile: [In agile, this is a continuous improvement process.], supported by inspecting and adapting [continuously examining the way we work] so [we learn and change for the better]."
+            },
+            {
+                "code": "Defect-free ideal",
+                "definition": "Outcome quality is tied to defect absence\u2014an aspirational acceptance threshold\u2014per [has no defects], often used to judge whether the product meets expectations."
+            },
+            {
+                "code": "Outcome\u2013process duality",
+                "definition": "Quality spans both what is delivered and how it is made, explicitly stated as [Software quality is both outcome and process.]."
+            }
+        ]
+    },
+    {
+        "target_text": "\"We need the whole hour just for this question! But, let\u2019s make it simple. In software development, it is important to deliver a software that meets business needs and free of defects.\"",
+        "Code_GroundTruth": [
+            "Meets business needs",
+            "Free of defects"
+        ],
+        "Codebook_Pre": [
+            {
+                "role": "Reflective Qualitative Researcher (PhD candidate; Information Systems/HCI; Human-centered SE; Bias: stakeholder-value & zero-defect leanings)",
+                "codebook": [
+                    {
+                        "code": "Complexity Acknowledgment",
+                        "justification": "The hyperbolic [We need the whole hour] indexes perceived complexity, an interpretive cue I read as epistemic humility and scope awareness."
+                    },
+                    {
+                        "code": "Simplification Framing",
+                        "justification": "The pivot [let\u2019s make it simple.] signals a deliberate scoping heuristic, privileging tractability over exhaustive analysis in the analytic frame."
+                    },
+                    {
+                        "code": "Business Needs Alignment",
+                        "justification": "I code [meets business needs] as a subjective requirements-alignment standard, centering stakeholder value rather than purely technical metrics."
+                    },
+                    {
+                        "code": "Zero-Defect Expectation",
+                        "justification": "[free of defects] reflects a normative zero-defect stance; tolerance thresholds are value-laden judgments shaped by risk appetite and QA philosophy."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Qualitative Researcher; Academic Level: Doctoral; QS: Computer Science & Information Systems; NSF: Human-Centered Computing & Software Engineering; Biases: socio-technical alignment, pragmatic quality-as-fitness",
+                "codebook": [
+                    {
+                        "code": "Complexity Acknowledgment",
+                        "justification": "[We need the whole hour just for this question!] signals perceived task complexity; from a doctoral HCI/SE lens, such judgment guides scoping and prioritization."
+                    },
+                    {
+                        "code": "Simplification Heuristic",
+                        "justification": "The phrase [let\u2019s make it simple.] encodes a simplification bias; my IS/HCC stance prioritizes actionable clarity over exhaustive nuance."
+                    },
+                    {
+                        "code": "Business Alignment",
+                        "justification": "[meets business needs] frames quality as fitness-for-purpose; stakeholder-centered, socio-technical judgments dominate under my HCC/SE orientation."
+                    },
+                    {
+                        "code": "Zero-Defect Ideal",
+                        "justification": "[free of defects] asserts an aspirational zero-bug standard; in SE practice, risk-based adequacy is negotiated, not absolute."
+                    }
+                ]
+            },
+            {
+                "role": "Reflective Qualitative Researcher \u2014 PhD; QS: Computer Science; NSF: HCI/Software Engineering; Bias: quality-first, stakeholder-centric",
+                "codebook": [
+                    {
+                        "code": "Perceived Complexity",
+                        "justification": "As a QS-CS PhD with NSF HCI/SE interests, I read [We need the whole hour just for this question!] as foregrounding perceived task complexity, shaped by my scoping bias."
+                    },
+                    {
+                        "code": "Simplicity Framing",
+                        "justification": "My process-optimization bias valorizes [let\u2019s make it simple.] as a normative simplification move, reflecting CS/HCI training that prizes parsimony over elaboration."
+                    },
+                    {
+                        "code": "Business Value Orientation",
+                        "justification": "From a socio-technical CS lens (NSF HCI/SE), [meets business needs] encodes value alignment; I privilege stakeholder requirements over purely technical success metrics."
+                    },
+                    {
+                        "code": "Defect Free Ideal",
+                        "justification": "I interpret [free of defects] through SE quality discourse; my quality-first assumption normalizes zero-defect ideals despite debated feasibility and context-specific risk tolerance."
+                    }
+                ]
+            }
+        ],
+        "Codebook": [
+            {
+                "code": "Perceived Task Complexity",
+                "definition": "The statement [We need the whole hour just for this question!] signals the speaker sees the question as large/complex and time-consuming."
+            },
+            {
+                "code": "Deliberate Simplification",
+                "definition": "The pivot [let\u2019s make it simple.] marks an intentional move to reduce scope/complexity to make the discussion tractable."
+            },
+            {
+                "code": "Business Needs Alignment",
+                "definition": "Quality is framed as fitness-for-purpose via [meets business needs], centering alignment with stakeholder/business requirements."
+            }
+        ]
+    }
+]

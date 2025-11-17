@@ -1,0 +1,32 @@
+{
+    "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Anthropology",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Ethical/Societal Assumptions",
+            "positionality": "I am a software developer pursuing a Masters who approaches anthropological questions with the analytic habits of coding and systems design. My disciplinary lens is Anthropology, while my primary research interest aligns with Economics, especially how market logics shape culture and labor. I carry ethical and societal assumptions about fairness, access, and responsibility in technology that sensitize me to power, inequality, and harm. The way this question is posed and my own response steer me toward operationalizable, data-driven text analysis and pragmatic interpretations; I foreground structure and incentives, which may obscure nuance, so I deliberately triangulate emic voices and reflexively audit my tools and interpretations."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Masters Software Developer with Anthropology lens, Economics-focused",
+            "codebook": [
+                {
+                    "code": "Definition Scoping",
+                    "justification": "[for the purpose of a definition] signals explicit operationalization of quality via scope-setting, a subjective analytic boundary choice."
+                },
+                {
+                    "code": "Process Level Quality",
+                    "justification": "[process level] frames quality as emergent from socio-technical processes, privileging governance, workflow norms, and institutionalized practices."
+                },
+                {
+                    "code": "Software Level Quality",
+                    "justification": "[software level] treats quality as properties of the artifact, contingent on evaluative rubrics, stakeholder values, and use-contexts."
+                }
+            ]
+        }
+    ]
+}

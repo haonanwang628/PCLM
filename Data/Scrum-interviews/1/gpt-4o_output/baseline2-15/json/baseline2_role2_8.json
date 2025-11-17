@@ -1,0 +1,28 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "As a software developer with a bachelor's level understanding of statistics, my research interest lies in the intersection of economics and data analysis. My background in software development equips me with technical skills to analyze economic data, while my academic focus on statistics provides a solid foundation for quantitative research. However, I recognize that my cultural and personal biases may influence my interpretation of data, particularly in economic contexts. By acknowledging these biases, I strive to approach my research with a critical and reflective mindset, ensuring that my positionality informs, but does not unduly skew, my analysis and conclusions."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Quality Assurance",
+                    "justification": "The phrase [assure internal quality] highlights the necessity of maintaining standards within a system, emphasizing the importance of internal checks and balances in system design."
+                },
+                {
+                    "code": "System Design Integrity",
+                    "justification": "The phrase [the way that the system has been built and designed] underscores the significance of the foundational structure and design principles in ensuring the system's reliability and effectiveness."
+                }
+            ]
+        }
+    ]
+}

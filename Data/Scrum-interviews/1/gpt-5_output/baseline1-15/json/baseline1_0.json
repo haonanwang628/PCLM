@@ -1,0 +1,21 @@
+{
+    "target_text": "\"But for the purpose of a definition, I would say quality takes place in the process level and the software level.\"",
+    "Codebook": [
+        {
+            "Code": "Contrastive Preface",
+            "Definition": "Use of a contrast marker ('But') to signal a qualification or shift from prior context."
+        },
+        {
+            "Code": "Definition-Scoped Statement",
+            "Definition": "Explicitly framing the claim as being made for the limited purpose of providing a definition."
+        },
+        {
+            "Code": "Personal Qualification",
+            "Definition": "Use of first-person hedging ('I would say') to indicate subjectivity or tentativeness."
+        },
+        {
+            "Code": "Quality at Process and Software Levels",
+            "Definition": "Asserting that quality manifests at two specified levels: the process level and the software level."
+        }
+    ]
+}

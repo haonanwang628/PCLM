@@ -1,0 +1,32 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher (PhD-level; QS: Information Systems; NSF: Human-Centered Computing; reflexivity: process-metrics/governance bias)",
+            "codebook": [
+                {
+                    "code": "Internal Quality Emphasis",
+                    "justification": "[It is important to also assure internal quality.] From an IS/HCI, PhD-level lens on trustworthy systems, this is a normative priority rather than an objective measure."
+                },
+                {
+                    "code": "Design-Centric Evaluation",
+                    "justification": "[Internal quality has to do with the way that the system has been built and designed.] This centers architectural and UX process heuristics; my process-metrics bias elevates design judgments over outcome metrics."
+                },
+                {
+                    "code": "Assurance Orientation",
+                    "justification": "[assure internal quality] signals a QA/governance orientation; as a reflexive researcher, I read this as contingent on evaluators\u2019 criteria and risk appetite."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+    "Codebook": [
+        {
+            "Code": "Software Development Process",
+            "Definition": "Refers to the structured approach taken to create software, encompassing planning, design, coding, testing, and maintenance."
+        },
+        {
+            "Code": "Continuous Review",
+            "Definition": "The ongoing evaluation of the software development process to identify areas for improvement and ensure quality."
+        },
+        {
+            "Code": "Improvements",
+            "Definition": "Changes or enhancements made to the software development process aimed at increasing efficiency, effectiveness, or quality."
+        },
+        {
+            "Code": "Robustness",
+            "Definition": "The quality of being strong and effective in the software development process, ensuring reliability and resilience."
+        }
+    ]
+}

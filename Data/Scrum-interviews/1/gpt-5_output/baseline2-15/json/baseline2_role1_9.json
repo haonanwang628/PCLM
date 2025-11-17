@@ -1,0 +1,36 @@
+{
+    "target_text": "\"To achieve that we need a robust software development process that is subjected to continuous review and improvements.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher \u2014 Doctoral SE",
+            "codebook": [
+                {
+                    "code": "Teleological Framing",
+                    "justification": "From a doctoral SE positionality, [To achieve that] encodes teleology shaping goal-oriented requirements and prioritization."
+                },
+                {
+                    "code": "Process Robustness Emphasis",
+                    "justification": "With a quality-engineering lens, [robust software development process] foregrounds resilience and rigor; my NSF-aligned focus privileges reliability."
+                },
+                {
+                    "code": "Continuous Review Governance",
+                    "justification": "As a process-control scholar, [continuous review] indicates governance via feedback loops, audits, and verification\u2014reflecting my QS SE discipline."
+                },
+                {
+                    "code": "Continuous Improvement Ethos",
+                    "justification": "My kaizen-oriented bias reads [improvements] as a continuous improvement ethos motivating iterative refinement and organizational learning."
+                }
+            ]
+        }
+    ]
+}

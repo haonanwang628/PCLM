@@ -1,0 +1,36 @@
+{
+    "target_text": "\"OK, great. Software quality is the end result. It has a structural perspective which is the code and the design. It has also an external component which is free of defects and meets the end user requirements.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Qualitative Software Engineering Researcher (PhD Candidate; Discipline: Computer Science & Information Systems; NSF Interests: Human-Centered Computing, Software & Hardware Foundations; Bias: interpretivist, socio-technical emphasis)",
+            "codebook": [
+                {
+                    "code": "Outcome-Oriented Quality",
+                    "justification": "[Software quality is the end result.] Teleologically frames quality, privileging outcomes over process and inviting interpretive cutoff points. My CSIS/HCC lens treats 'quality' as negotiated, not fixed."
+                },
+                {
+                    "code": "Structural Assessment Lens",
+                    "justification": "[a structural perspective] highlights internal attributes; code/design heuristics require expert judgment. My SE stance reads structure via socio-technical maintainability and architectural coherence."
+                },
+                {
+                    "code": "User-Centric Validation",
+                    "justification": "[meets the end user requirements] encodes subjective fit; requirements elicitation and validation are interpretive. HCC bias centers stakeholder sensemaking and situated acceptability."
+                },
+                {
+                    "code": "Defect-Free Ideal",
+                    "justification": "[free of defects] posits an ideal; defect taxonomies, severity triage, and thresholds are value-laden. My reflexive stance problematizes 'defect' as context-contingent."
+                }
+            ]
+        }
+    ]
+}

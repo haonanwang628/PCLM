@@ -1,0 +1,36 @@
+{
+    "target_text": "\"000\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "Five dimensions\n- Role Identity: Product Owner\n- Intended Study Level: Masters\n- Subject (QS): Geography\n- Research Interest (NSF): Economics\n- Biases/Assumptions: Epistemological (pragmatic-positivist)\n\nPositionality statement\nI am a Product Owner pursuing a Master\u2019s in Geography, bringing product strategy, stakeholder coordination, and spatial thinking to my research. I study economic geography to translate spatial-economic patterns into actionable insights for decision-makers. Epistemologically, I lean pragmatic-positivist: I privilege measurable evidence, causal inference, and implementable models, while recognizing their limits. This positionality leads me to frame questions around optimization and user value and to read user responses as requirements, which can underweight lived experience. I mitigate by triangulating quantitative analysis with participatory methods and reflecting on how question framing and responses shape interpretation."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflexive Text Analyst (Doctoral Candidate; QS: Communication & Media Studies; NSF: Human-Centered Computing; Bias: reads minimal tokens as intentional and semiotically loaded)",
+            "codebook": [
+                {
+                    "code": "Intentional Minimalism",
+                    "justification": "The triad [000] functions as a null token, signaling designed sparseness. From a semiotic lens, intentional reduction invites interpretive labor over propositional content."
+                },
+                {
+                    "code": "Ambiguous Placeholder",
+                    "justification": "In interface conventions, [000] often indexes a placeholder/reset value. Its polysemy foregrounds ambiguity, requiring contextual inference."
+                },
+                {
+                    "code": "Data Nullity",
+                    "justification": "[000] numerically encodes absence; repeated zeros amplify a void motif. As a data signifier, it gestures toward missingness or reset states."
+                },
+                {
+                    "code": "Interpretive Indeterminacy",
+                    "justification": "The string [000] withholds denotation, producing interpretive indeterminacy. Such opacity shifts meaning-making onto the reader."
+                }
+            ]
+        }
+    ]
+}

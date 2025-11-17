@@ -1,0 +1,32 @@
+{
+    "target_text": "\"Yes, very important question! Software quality is first and most the product confirms to the requirements and free of defects.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Software Quality Annotator \u2014 PhD Candidate; QS: Computer Science & Information Systems; NSF: Software Engineering/Human-Centered Computing; Biases: standards-centric, verification/validation, product-centric",
+            "codebook": [
+                {
+                    "code": "Salience Framing",
+                    "justification": "The text foregrounds importance via [very important question!]. From a standards-centric SE lens, this salience cue primes prioritization heuristics in subsequent quality modeling."
+                },
+                {
+                    "code": "Conformance-Centric Quality",
+                    "justification": "Quality is operationalized as compliance: [the product confirms to the requirements]. My CS/SE training reads this as a conformance-based model privileging specification fidelity."
+                },
+                {
+                    "code": "Zero-Defects Ideal",
+                    "justification": "The clause [free of defects] encodes a zero-defects norm. With a verification/validation bias, I interpret this as elevating defect density and reliability over alternative quality attributes."
+                }
+            ]
+        }
+    ]
+}

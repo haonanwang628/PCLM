@@ -1,0 +1,28 @@
+{
+    "target_text": "\"It is important to also assure internal quality. Internal quality has to do with the way that the system has been built and designed.\"",
+    "Role": [
+        {
+            "role": "Product Owners",
+            "Intended_Study_Level": "Masters",
+            "Subject": "Geography",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Epistemological Assumptions",
+            "positionality": "As a Product Owner pursuing a Master's in Geography with a focus on Economics, I bring a unique perspective to my research. My background in product management informs my interest in the spatial dynamics of economic systems. I aim to explore how geographic factors influence economic development and decision-making. However, my epistemological assumptions may lead me to prioritize quantitative data and overlook qualitative insights. This positionality shapes my research by driving me to integrate economic theories with geographic analysis, while also challenging me to remain open to diverse methodologies and perspectives. My goal is to produce research that bridges these disciplines effectively."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Internal Quality Assurance",
+                    "justification": "The phrase [assure internal quality] highlights the importance of maintaining standards within a system, which is crucial for ensuring reliability and effectiveness in any research or operational context."
+                },
+                {
+                    "code": "System Design Integrity",
+                    "justification": "The mention of [the way that the system has been built and designed] underscores the significance of robust design principles, which are essential for the system's functionality and user satisfaction."
+                }
+            ]
+        }
+    ]
+}

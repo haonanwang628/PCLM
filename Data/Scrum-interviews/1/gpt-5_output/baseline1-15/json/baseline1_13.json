@@ -1,0 +1,9 @@
+{
+    "target_text": "\"000\"",
+    "Codebook": [
+        {
+            "Code": "Duplicated quotes around 000",
+            "Definition": "The text is exactly two consecutive double-quote characters, followed by the digits 000, and then two consecutive double-quote characters, with no other characters or spaces."
+        }
+    ]
+}

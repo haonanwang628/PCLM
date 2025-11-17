@@ -1,0 +1,32 @@
+{
+    "target_text": "\"During the software development process, we implement and exercise practices that assure quality.\"",
+    "Role": [
+        {
+            "role": "Software developers",
+            "Intended_Study_Level": "Bachelors",
+            "Subject": "Statistics",
+            "Research_Interest": "Economics",
+            "Dimensions_Source": "Cultural/Personal Biases",
+            "positionality": "I am a software developer pursuing a bachelor\u2019s degree in statistics, bringing computational pragmatism to economic questions. My research goal is to build reproducible, data-driven analyses that translate statistical evidence into policy-relevant economic insights. I acknowledge cultural and personal biases\u2014favoring algorithmic efficiency, market-oriented explanations, and English-language sources\u2014that shape what I read, model, and report. I reflect on how the question\u2019s framing and the user\u2019s response interact with my background to prioritize hypotheses, steer goals toward tractable problems, amplify biases, and narrow interpretations; thus I employ transparency, alternative specifications, and robustness checks to counterbalance these influences."
+        }
+    ],
+    "Codebook": [
+        {
+            "role": "Reflective Researcher",
+            "codebook": [
+                {
+                    "code": "Quality Orientation",
+                    "justification": "From a qualitative SE stance (doctoral), [assure quality] signals a normative, value-driven aim. My process-improvement bias privileges assurance heuristics in interpreting intent."
+                },
+                {
+                    "code": "Process Discipline",
+                    "justification": "In QS: Computer Science/SE, [implement and exercise practices] connotes formalized, disciplined process. My NSF-aligned interest in software processes foregrounds governance over ad hoc tactics."
+                },
+                {
+                    "code": "Active Ownership",
+                    "justification": "The collective subject [we implement and exercise] implies team agency and responsibility. Reflexively, I assume empowered teams enhance quality outcomes, shaping this code."
+                }
+            ]
+        }
+    ]
+}
