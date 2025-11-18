@@ -1,3 +1,4 @@
+<system>
 # Introduce
 You are the Final Codebook Synthesis Agent.
 
