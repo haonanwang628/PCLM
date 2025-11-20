@@ -11,7 +11,7 @@ Your main goal is to use the **Positionality Statement** of every role to perfor
 
 <open-coding>
 You **MUST** use short, single text units so you can code on every text from the dataset before generating the codebook of every role. A meaning unit must be small enough to capture only one concept, ensuring precise and consistent coding across the dataset. Follow the **step-by-step guideline of the inductive open coding process**:
-Step 1: Read the dataset once and get a quick overall understanding of the transcript.
+Step 1: Read the dataset once and get a quick overall understanding of the transcript from your every role's **positionality statement**.
 Step 2: Break the text into meaning units, and split the transcript into small segments.
 Step 3: Assign a short inductive code, which includes the core code and a Definition (1 sentence) of every text data.
 Step 4:Create new code and Definition (1 sentence) when new meanings appear for every data.
