@@ -52,8 +52,8 @@ Use a unified reasoning flow:
   • unclear boundaries  
   • redundant meaning
 
-3. Final Resolution (Unified Decision)
-For each disagreed code, produce ONE final decision:
+3. Resolution (Unified Decision)
+For each disagreed code, produce ONE decision:
 - **retain** (code is conceptually distinct and necessary)  
 - **remove** (code is redundant / unsupported)  
 - **align-to-existing** (code meaning fits entirely into one of the agreed codes)
@@ -67,12 +67,11 @@ Produce output in two sections:
    A list of each disagreed code with:  
    - data_source  
    - reasoning  
-   - final_resolution (retain/remove/align-to-existing)
+   - resolution (retain/remove/align-to-existing)
 
 2. **final_codebook**  
    A unified final codebook including:
-   - all previously agreed codes  
-   - all resolved codes (except those removed)
+   - all previously agreed codes  and all resolved codes (except those removed)
    - note when a disagreed code is aligned to an existing code
 
 Use this JSON structure:
@@ -82,16 +81,16 @@ Use this JSON structure:
     {
       "code": "<code_name>",
       "data_source": { ... },
-      "reasoning": "<text>",
-      "final_resolution": "retain | remove | align-to-existing",
-      "final_justification": "<text>"
+      "reasoning": "text",
+      "resolution": "retain | remove | align-to-existing",
+      "justification": "text"
     }
+    ...
   ],
-  "final_codebook": [
+  "agreed_codebook": [
     {
-      "code": "<final_code_name>",
-      "source": "agreed | resolved",
-      "note": "<aligned_from if applicable>"
+      "code": "code ...",
+      "note": "aligned_from if applicable"
     }
   ]
 }
