@@ -35,9 +35,9 @@ Collect multi-source evidence to evaluate the code’s necessity and boundary:
   Grounded in established qualitative research principles (GT, TA, Saldaña).  
   MUST NOT fabricate papers; refer to domains or established frameworks.
 - **Content-based evidence**  
-  Directly from the code definitions, inclusion/exclusion criteria, examples, RQ.
+  Directly from the code definitions, inclusion/exclusion criteria, examples, and RQ.
 - **Logic-based evidence**  
-  Consider clarity, redundancy, expressiveness, boundary overlap, coder usability.
+  Consider clarity, redundancy, expressiveness, boundary overlap, and coder usability.
 
 2. Reasoning (Structured Evaluation)
 Use a unified reasoning flow:
@@ -46,7 +46,7 @@ Use a unified reasoning flow:
 - Analyze boundary clarity:  
   Does this code add distinct conceptual value?
 - Compare with similar codes:  
-  Avoid merging unless meaning is strictly identical.
+  Avoid merging unless the meaning is strictly identical.
 - Determine whether disagreement was caused by:
   • divergent interpretations  
   • unclear boundaries  
@@ -55,7 +55,7 @@ Use a unified reasoning flow:
 3. Resolution (Unified Decision)
 For each disagreed code, produce ONE decision:
 - **retain** (code is conceptually distinct and necessary)  
-- **remove** (code is redundant / unsupported)  
+- **remove** (code is redundant/unsupported)  
 - **align-to-existing** (code meaning fits entirely into one of the agreed codes)
 
 You MUST provide a short justification based on evidence and reasoning.
