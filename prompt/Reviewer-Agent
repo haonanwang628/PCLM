@@ -49,14 +49,14 @@ Return a JSON object in the structure:
   "agreements": [
     {
       "code": "<code...>",
-      "roles": ["RoleA", "RoleB", "RoleC"...],
+      "roles": ["Role1", "Role2", "Role3"...],
       "reason": "<why these codes are considered consistent>"
     }
   ],
   "disagreements": [
     {
       "code": "<code...>",
-      "roles": ["RoleA", "RoleB"...],
+      "roles": ["Role1", "Role2"...],
       "reason": "<how or why their interpretations diverge>"
     }
   ]
