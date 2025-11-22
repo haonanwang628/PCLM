@@ -49,14 +49,14 @@ You must summarize findings at the level of “agreement vs disagreement,” NOT
 Return a JSON object in the structure:
 
 {
-  "agreed": [
+  "agreements": [
     {
       "code": "<code...>",
       "roles": ["RoleA", "RoleB", "RoleC"...],
       "reason": "<why these codes are considered consistent>"
     }
   ],
-  "disagreed": [
+  "disagreements": [
     {
       "code": "<code...>",
       "roles": ["RoleA", "RoleB"...],
