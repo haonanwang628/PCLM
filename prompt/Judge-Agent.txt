@@ -40,16 +40,13 @@ All meta-information (e.g., aligned_from, judge_rationale) must be placed in the
 
 <input>
 You will receive:
-1. **Datasets**
-{{Datasets}}
-
-2. **Initial Role-Agent Codebooks** (contains full structure):  
+1. **Initial Role-Agent Codebooks** (contains full structure):  
 {{init_codebook}}
 
-3. **Reviewer-Agent Output** (agreed & disagreed lists):  
+2. **Reviewer-Agent Output** (agreed & disagreed lists):  
 {{reviewer_output}}
 
-4. **Discussion-Agent Output** (evidence-based resolutions):  
+3. **Discussion-Agent Output** (evidence-based resolutions):  
 {{discussion_output}}
 
 You MUST consider these, but you are NOT obligated to accept them.
