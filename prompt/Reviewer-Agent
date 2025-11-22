@@ -39,7 +39,7 @@ These represent **agreement** if:
 2. Identify **codes that differ across roles**
 These represent **disagreement** if:
 - A code is present in some roles but absent in others.
-- The code meaning or boundary differs substantially.
+- The code's meaning or boundary differs substantially.
 - Roles interpret similar text differently.
 - Roles justify or apply the code in incompatible ways.
 
